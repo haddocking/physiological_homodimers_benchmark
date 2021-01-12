@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4eo9_1.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 45
+[+] No. of charged-charged contacts: 12
+[+] No. of charged-polar contacts: 4
+[+] No. of charged-apolar contacts: 16
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 2
+[+] No. of apolar-apolar contacts: 11
+[+] Link density: 0.14
+[+] Class: XTAL 0.332 0.668
+

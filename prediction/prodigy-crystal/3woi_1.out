@@ -1,0 +1,45 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3woi_1.pdb
+[!] Structure contains gaps:
+	A GLY1 < Fragment 0 > A GLY3
+	A TRP5 < Fragment 1 > A PRO36
+	A GLY38 < Fragment 2 > A TRP192
+	A TRP194 < Fragment 3 > A VAL243
+	A VAL245 < Fragment 4 > A ALA281
+	A VAL283 < Fragment 5 > A THR300
+	A ALA302 < Fragment 6 > A ALA379
+	A LEU381 < Fragment 7 > A ALA427
+	A ASP429 < Fragment 8 > A VAL507
+	A PRO509 < Fragment 9 > A VAL562
+	A GLY564 < Fragment 10 > A GLY570
+	A GLU572 < Fragment 11 > A LYS665
+	A THR667 < Fragment 12 > A ARG668
+	A ILE670 < Fragment 13 > A ILE680
+	A GLN682 < Fragment 14 > A GLU693
+	A ASN695 < Fragment 15 > A GLY697
+	B GLY1 < Fragment 16 > B GLY3
+	B TRP5 < Fragment 17 > B PRO36
+	B GLY38 < Fragment 18 > B TRP192
+	B TRP194 < Fragment 19 > B VAL243
+	B VAL245 < Fragment 20 > B ALA281
+	B VAL283 < Fragment 21 > B THR300
+	B ALA302 < Fragment 22 > B ALA379
+	B LEU381 < Fragment 23 > B ALA427
+	B ASP429 < Fragment 24 > B VAL507
+	B PRO509 < Fragment 25 > B VAL562
+	B GLY564 < Fragment 26 > B GLY570
+	B GLU572 < Fragment 27 > B LYS665
+	B THR667 < Fragment 28 > B ARG668
+	B ILE670 < Fragment 29 > B ILE680
+	B GLN682 < Fragment 30 > B GLU693
+	B ASN695 < Fragment 31 > B GLY697
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 33
+[+] No. of charged-charged contacts: 3
+[+] No. of charged-polar contacts: 6
+[+] No. of charged-apolar contacts: 12
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 4
+[+] No. of apolar-apolar contacts: 8
+[+] Link density: 0.17
+[+] Class: XTAL 0.072 0.928
+

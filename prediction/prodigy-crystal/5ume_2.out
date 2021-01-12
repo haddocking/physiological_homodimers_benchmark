@@ -1,0 +1,18 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/5ume_2.pdb
+[!] Structure contains gaps:
+	B LYS23 < Fragment 0 > B TYR61
+	B SER65 < Fragment 1 > B ASP121
+	B PRO130 < Fragment 2 > B PRO295
+	F ILE10 < Fragment 3 > F ALA18
+	F LYS23 < Fragment 4 > F PRO295
+[+] Selection: B, F
+[+] No. of intermolecular contacts: 79
+[+] No. of charged-charged contacts: 14
+[+] No. of charged-polar contacts: 9
+[+] No. of charged-apolar contacts: 19
+[+] No. of polar-polar contacts: 1
+[+] No. of apolar-polar contacts: 15
+[+] No. of apolar-apolar contacts: 21
+[+] Link density: 0.09
+[+] Class: BIO 0.876 0.124
+

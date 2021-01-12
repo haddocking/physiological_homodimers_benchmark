@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2z0f_1.pdb
+[!] Structure contains gaps:
+	A MET1 < Fragment 0 > A PRO129
+	A ASN132 < Fragment 1 > A VAL240
+	A LEU272 < Fragment 2 > A ALA524
+	B MET1 < Fragment 3 > B SER130
+	B PRO133 < Fragment 4 > B ASN241
+	B MET269 < Fragment 5 > B ALA524
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 49
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 11
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 14
+[+] No. of apolar-apolar contacts: 10
+[+] Link density: 0.12
+[+] Class: XTAL 0.312 0.688
+

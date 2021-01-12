@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3l1w_2.pdb
+[!] Structure contains gaps:
+	C LYS2 < Fragment 0 > C GLY144
+	C THR146 < Fragment 1 > C LEU163
+	C GLY165 < Fragment 2 > C GLU252
+	D LYS2 < Fragment 3 > D GLY144
+	D THR146 < Fragment 4 > D LEU163
+	D GLY165 < Fragment 5 > D GLU252
+[+] Selection: C, D
+[+] No. of intermolecular contacts: 47
+[+] No. of charged-charged contacts: 2
+[+] No. of charged-polar contacts: 2
+[+] No. of charged-apolar contacts: 12
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 17
+[+] Link density: 0.08
+[+] Class: XTAL 0.428 0.572
+

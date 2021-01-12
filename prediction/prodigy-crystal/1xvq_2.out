@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1xvq_2.pdb
+[!] Structure contains gaps:
+	A ALA2 < Fragment 0 > A LEU79
+	A VAL81 < Fragment 1 > A CYS93
+	A ASN100 < Fragment 2 > A SER167
+	B ALA2 < Fragment 3 > B LEU79
+	B VAL81 < Fragment 4 > B CYS93
+	B ASN100 < Fragment 5 > B SER167
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 42
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 18
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 4
+[+] No. of apolar-apolar contacts: 20
+[+] Link density: 0.15
+[+] Class: BIO 0.58 0.42
+

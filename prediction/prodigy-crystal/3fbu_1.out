@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3fbu_1.pdb
+[!] Structure contains gaps:
+	A MET1 < Fragment 0 > A GLY53
+	A ALA56 < Fragment 1 > A GLU168
+	B MET1 < Fragment 2 > B MET52
+	B ASN55 < Fragment 3 > B GLU168
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 53
+[+] No. of charged-charged contacts: 13
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 25
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 2
+[+] No. of apolar-apolar contacts: 13
+[+] Link density: 0.14
+[+] Class: BIO 0.828 0.172
+

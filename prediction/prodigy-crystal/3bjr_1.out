@@ -1,0 +1,27 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3bjr_1.pdb
+[!] Structure contains gaps:
+	A PHE17 < Fragment 0 > A GLY19
+	A GLN21 < Fragment 1 > A HIS39
+	A THR48 < Fragment 2 > A ALA73
+	A ALA75 < Fragment 3 > A ALA158
+	A LEU160 < Fragment 4 > A PHE178
+	A THR187 < Fragment 5 > A LYS260
+	A VAL268 < Fragment 6 > A ARG283
+	B PHE17 < Fragment 7 > B GLY19
+	B GLN21 < Fragment 8 > B HIS39
+	B THR48 < Fragment 9 > B ALA73
+	B ALA75 < Fragment 10 > B ALA158
+	B LEU160 < Fragment 11 > B PHE178
+	B THR187 < Fragment 12 > B LYS260
+	B VAL268 < Fragment 13 > B ARG283
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 65
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 4
+[+] No. of charged-apolar contacts: 24
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 6
+[+] No. of apolar-apolar contacts: 21
+[+] Link density: 0.10
+[+] Class: BIO 0.86 0.14
+

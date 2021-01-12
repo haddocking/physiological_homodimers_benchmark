@@ -1,0 +1,41 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4ina_1.pdb
+[!] Structure contains gaps:
+	A ALA2 < Fragment 0 > A LYS19
+	A ASN23 < Fragment 1 > A ILE92
+	A GLU94 < Fragment 2 > A VAL134
+	A ALA136 < Fragment 3 > A PRO209
+	A GLU211 < Fragment 4 > A ILE212
+	A GLN214 < Fragment 5 > A PHE250
+	A THR252 < Fragment 6 > A HIS260
+	A ARG262 < Fragment 7 > A GLY268
+	A LEU270 < Fragment 8 > A ALA351
+	A ILE353 < Fragment 9 > A LEU357
+	A LEU359 < Fragment 10 > A ASN370
+	A GLU372 < Fragment 11 > A PHE379
+	A ASP381 < Fragment 12 > A GLU394
+	B ALA2 < Fragment 13 > B LYS19
+	B ASN23 < Fragment 14 > B ILE92
+	B GLU94 < Fragment 15 > B HIS111
+	B PHE117 < Fragment 16 > B VAL134
+	B ALA136 < Fragment 17 > B PRO209
+	B GLU211 < Fragment 18 > B ILE212
+	B GLN214 < Fragment 19 > B PHE250
+	B THR252 < Fragment 20 > B HIS260
+	B ARG262 < Fragment 21 > B GLY268
+	B LEU270 < Fragment 22 > B ALA351
+	B ILE353 < Fragment 23 > B LEU357
+	B LEU359 < Fragment 24 > B ASN370
+	B GLU372 < Fragment 25 > B PHE379
+	B ASP381 < Fragment 26 > B GLU394
+	B GLU396 < Fragment 27 > B HIS403
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 50
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 2
+[+] No. of charged-apolar contacts: 8
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 6
+[+] No. of apolar-apolar contacts: 31
+[+] Link density: 0.10
+[+] Class: BIO 0.904 0.096
+

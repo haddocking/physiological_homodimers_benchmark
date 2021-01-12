@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3toe_1.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 51
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 9
+[+] No. of charged-apolar contacts: 11
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 9
+[+] No. of apolar-apolar contacts: 18
+[+] Link density: 0.11
+[+] Class: BIO 0.952 0.048
+

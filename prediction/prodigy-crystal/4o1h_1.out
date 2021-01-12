@@ -1,0 +1,23 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4o1h_1.pdb
+[!] Structure contains gaps:
+	A SER19 < Fragment 0 > A HIS20
+	A SER22 < Fragment 1 > A VAL27
+	A THR29 < Fragment 2 > A ARG83
+	A LEU85 < Fragment 3 > A ARG133
+	A VAL135 < Fragment 4 > A THR137
+	B SER22 < Fragment 5 > B VAL27
+	B THR29 < Fragment 6 > B ARG83
+	B LEU85 < Fragment 7 > B GLU90
+	B ALA93 < Fragment 8 > B ARG133
+	B VAL135 < Fragment 9 > B THR137
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 29
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 2
+[+] No. of apolar-apolar contacts: 6
+[+] Link density: 0.15
+[+] Class: XTAL 0.328 0.672
+
