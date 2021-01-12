@@ -52,5 +52,5 @@ if __name__ == "__main__":
     print(f'Predicted as CRYSTAL and Physiological: {len(set(crystal_predicted) & set(physiological_list))}')
     print(f'Predicted as CRYSTAL and Non-Physiological: {len(set(crystal_predicted) & set(nonphysiological_list))}')
     print()
-    success_rate = (len(set(bio_predicted) & set(physiological_list)) + len(set(crystal_predicted) & set(nonphysiological_list))) / len(complex_list)
+    success_rate = (len(set(bio_predicted) & set(physiological_list)) + len(set(crystal_predicted) & set(nonphysiological_list))) / len(complex_list) * 100.
     print(f'Success rate: {round(success_rate, 2)}%')

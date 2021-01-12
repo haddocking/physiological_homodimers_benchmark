@@ -41,5 +41,5 @@ Predicted as BIO and Non-Physiological: 50
 Predicted as CRYSTAL and Physiological: 200
 Predicted as CRYSTAL and Non-Physiological: 91
 
-Success rate: 0.74%
+Success rate: 74.41%
 ```
