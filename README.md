@@ -11,6 +11,7 @@
 * `pdbs/v2/physiological.list`: all complexes classified as physiological
 * `pdbs/v2/nonphysiological.list`: all complexes classified as non-physiological
 * `pdbs/v2/error.list`: Errors found on PDB structures which have been manually curated.
+* `pdbs/v2/pdb_chains.list`: PDB IDs and chains IDs for each complex.
 
 ## Methods
 
