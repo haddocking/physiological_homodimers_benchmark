@@ -60,3 +60,35 @@ Predicted as CRYSTAL and Non-Physiological: 83
 
 Success rate: 72.22%
 ```
+
+### Deeprank 
+
+The [Deeprank](https://github.com/DeepRank/deeprank) classification is based on a 3D Convolution Neural Network (CNN) that has been pre-trained on the [MANY dataset](https://pubmed.ncbi.nlm.nih.gov/25326082/), which consists of 2828 biological interfaces and 2911 crystal ones, only using PSSM features. The MANY dataset was devided into a training (80%) and a validation set (20%), while maintaining the balance between positive and negative data. The training dataset was augmented by randomly rotating each complex 30 times.
+
+#### Performance on this data set:
+
+```
+Size of complex list: 948
+Size of Physiological list: 816
+Size of Non Physiological list: 132
+Predicted as BIO and Physiological: 634
+Predicted as BIO and Non-Physiological: 32
+Predicted as CRYSTAL and Physiological: 182
+Predicted as CRYSTAL and Non-Physiological: 100
+Success rate: 77.43%
+```
+
+#### Performance on this data set excluding overlapping with the MANY dataset:
+
+```
+Size of complex list: 839
+Size of Physiological list: 717
+Size of Non Physiological list: 122
+Predicted as BIO and Physiological: 550
+Predicted as BIO and Non-Physiological: 31
+Predicted as CRYSTAL and Physiological: 167
+Predicted as CRYSTAL and Non-Physiological: 91
+Success rate: 76.40%
+```
+
+(See `prediction/deeprank/deeprank_prediction.list`)
