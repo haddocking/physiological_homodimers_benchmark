@@ -65,6 +65,11 @@ Success rate: 72.22%
 
 The [Deeprank](https://github.com/DeepRank/deeprank) classification is based on a 3D Convolution Neural Network (CNN) that has been pre-trained on the [MANY dataset](https://pubmed.ncbi.nlm.nih.gov/25326082/), which consists of 2828 biological interfaces and 2911 crystal ones, only using PSSM features. The MANY dataset was devided into a training (80%) and a validation set (20%), while maintaining the balance between positive and negative data. The training dataset was augmented by randomly rotating each complex 30 times.
 
+29 complexes have been discarded from the dataset classification due to :
+- the lack of pssm matrix  (14 complexe)
+- missing atom in proximity to the interface (11 complexes)
+- Deeprank failures in the feature assignment step (4 complexes)
+
 #### Performance on this data set:
 
 ```
