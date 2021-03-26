@@ -1,0 +1,48 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4cmp_8.pdb
+[!] Structure contains gaps:
+	A LYS8 < Fragment 0 > A GLU107
+	A HIS120 < Fragment 1 > A VAL312
+	A THR314 < Fragment 2 > A ARG451
+	A LEU506 < Fragment 3 > A VAL531
+	A PHE543 < Fragment 4 > A LYS574
+	A PHE591 < Fragment 5 > A LYS677
+	A GLY680 < Fragment 6 > A VAL717
+	A ASP722 < Fragment 7 > A ALA768
+	A GLY777 < Fragment 8 > A LEU795
+	A PRO804 < Fragment 9 > A ARG863
+	A LYS866 < Fragment 10 > A LYS906
+	A LEU912 < Fragment 11 > A SER1029
+	A TYR1040 < Fragment 12 > A THR1106
+	A PRO1141 < Fragment 13 > A LYS1152
+	A VAL1164 < Fragment 14 > A LYS1189
+	A LYS1192 < Fragment 15 > A HIS1245
+	A GLN1260 < Fragment 16 > A SER1367
+	B LYS8 < Fragment 17 > B GLU106
+	B ARG119 < Fragment 18 > B ARG311
+	B LYS318 < Fragment 19 > B ARG451
+	B PRO507 < Fragment 20 > B VAL531
+	B LEU544 < Fragment 21 > B ASP571
+	B PHE591 < Fragment 22 > B ASP676
+	B LYS681 < Fragment 23 > B LYS688
+	B ARG695 < Fragment 24 > B SER718
+	B ASP722 < Fragment 25 > B ALA768
+	B LYS779 < Fragment 26 > B LEU795
+	B HIS803 < Fragment 27 > B ARG863
+	B LYS866 < Fragment 28 > B LYS906
+	B LEU912 < Fragment 29 > B GLN1031
+	B TYR1040 < Fragment 30 > B THR1106
+	B PRO1141 < Fragment 31 > B VAL1150
+	B SER1163 < Fragment 32 > B GLY1190
+	B LYS1196 < Fragment 33 > B TYR1246
+	B VAL1263 < Fragment 34 > B SER1367
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 59
+[+] No. of charged-charged contacts: 20
+[+] No. of charged-polar contacts: 13
+[+] No. of charged-apolar contacts: 17
+[+] No. of polar-polar contacts: 1
+[+] No. of apolar-polar contacts: 8
+[+] No. of apolar-apolar contacts: 0
+[+] Link density: 0.09
+[+] Class: XTAL 0.088 0.912
+

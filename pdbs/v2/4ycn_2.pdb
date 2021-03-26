@@ -3,17 +3,6 @@ Remark 300 Interface Chain A For Asymmetric Chain A Author Chain A Entity 1 Symm
 Remark 300 Interface Chain B For Asymmetric Chain A Author Chain A Entity 1 Symmetry Operator    2_555 Full Symmetry Operator    -X,-Y,1/2+Z
 Remark 350 Interface surface area: 2566.3
 
-ATOM      1  CT2 AME A   1      17.788  -2.297 276.117  1.00 97.35           C  
-ATOM      2  CT1 AME A   1      16.533  -1.912 275.372  1.00 82.19           C  
-ATOM      3  OT  AME A   1      16.576  -1.211 274.356  1.00 90.03           O  
-ATOM      4  CB  AME A   1      14.572  -2.696 278.071  1.00 61.14           C  
-ATOM      5  CG  AME A   1      15.168  -1.662 279.002  1.00 73.22           C  
-ATOM      6  SD  AME A   1      14.215  -1.318 280.488  1.00102.64           S  
-ATOM      7  CE  AME A   1      14.852  -2.630 281.525  1.00 77.30           C  
-ATOM      8  C   AME A   1      15.266  -4.720 276.793  1.00 46.27           C  
-ATOM      9  O   AME A   1      14.117  -5.068 276.543  1.00 61.65           O  
-ATOM     10  N   AME A   1      15.495  -2.408 275.827  1.00 54.96           N  
-ATOM     11  CA  AME A   1      15.574  -3.252 277.051  1.00 50.06           C  
 ATOM     12  N   GLU A   2      16.300  -5.553 276.837  1.00101.37           N  
 ATOM     13  CA  GLU A   2      16.159  -6.974 276.572  1.00105.13           C  
 ATOM     14  C   GLU A   2      15.817  -7.754 277.834  1.00 96.13           C  
@@ -7678,17 +7667,6 @@ ATOM   7672  C   GLY A 994      28.216 -59.955 246.177  1.00207.56           C
 ATOM   7673  O   GLY A 994      28.046 -60.435 247.297  1.00210.81           O  
 ATOM   7674  OXT GLY A 994      28.655 -58.807 246.102  1.00205.66           O  
 TER    7675      GLY A 994
-ATOM   7676  CT2 AME B   1      -2.297  17.788 311.427  1.00 97.35           C  
-ATOM   7677  CT1 AME B   1      -1.912  16.533 312.172  1.00 82.19           C  
-ATOM   7678  OT  AME B   1      -1.211  16.576 313.188  1.00 90.03           O  
-ATOM   7679  CB  AME B   1      -2.696  14.572 309.473  1.00 61.14           C  
-ATOM   7680  CG  AME B   1      -1.662  15.168 308.542  1.00 73.22           C  
-ATOM   7681  SD  AME B   1      -1.318  14.215 307.056  1.00102.64           S  
-ATOM   7682  CE  AME B   1      -2.630  14.852 306.019  1.00 77.30           C  
-ATOM   7683  C   AME B   1      -4.720  15.266 310.751  1.00 46.27           C  
-ATOM   7684  O   AME B   1      -5.068  14.117 311.001  1.00 61.65           O  
-ATOM   7685  N   AME B   1      -2.408  15.495 311.717  1.00 54.96           N  
-ATOM   7686  CA  AME B   1      -3.252  15.574 310.493  1.00 50.06           C  
 ATOM   7687  N   GLU B   2      -5.553  16.300 310.707  1.00101.37           N  
 ATOM   7688  CA  GLU B   2      -6.974  16.159 310.972  1.00105.13           C  
 ATOM   7689  C   GLU B   2      -7.754  15.817 309.710  1.00 96.13           C  

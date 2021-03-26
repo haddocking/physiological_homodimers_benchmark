@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/6uko_9.pdb
+[!] Structure contains gaps:
+	A LEU29 < Fragment 0 > A ALA287
+	A LEU307 < Fragment 1 > A ARG418
+	B LEU29 < Fragment 2 > B ALA287
+	B LEU307 < Fragment 3 > B ARG418
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 45
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 15
+[+] No. of charged-apolar contacts: 6
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 13
+[+] No. of apolar-apolar contacts: 1
+[+] Link density: 0.06
+[+] Class: XTAL 0.08 0.92
+

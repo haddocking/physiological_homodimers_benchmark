@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4i1m_4.pdb
+[!] Structure contains gaps:
+	A SER6 < Fragment 0 > A ALA76
+	A THR83 < Fragment 1 > A SER209
+	A ASN216 < Fragment 2 > A GLY302
+	B SER6 < Fragment 3 > B ALA76
+	B THR83 < Fragment 4 > B SER209
+	B ASN216 < Fragment 5 > B GLY302
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 75
+[+] No. of charged-charged contacts: 3
+[+] No. of charged-polar contacts: 14
+[+] No. of charged-apolar contacts: 10
+[+] No. of polar-polar contacts: 7
+[+] No. of apolar-polar contacts: 24
+[+] No. of apolar-apolar contacts: 17
+[+] Link density: 0.08
+[+] Class: BIO 0.62 0.38
+

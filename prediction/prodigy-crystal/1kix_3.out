@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/1kix_3.pdb
+[!] Structure contains gaps:
+	A TYR36 < Fragment 0 > A GLN163
+	A ASP168 < Fragment 1 > A SER318
+	A SER329 < Fragment 2 > A TYR495
+	B TYR36 < Fragment 3 > B GLN163
+	B ASP168 < Fragment 4 > B SER318
+	B SER329 < Fragment 5 > B TYR495
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 240
+[+] No. of charged-charged contacts: 30
+[+] No. of charged-polar contacts: 50
+[+] No. of charged-apolar contacts: 42
+[+] No. of polar-polar contacts: 18
+[+] No. of apolar-polar contacts: 54
+[+] No. of apolar-apolar contacts: 46
+[+] Link density: 0.03
+[+] Class: BIO 0.956 0.044
+

@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/1gyl_1.pdb
+[!] Structure contains gaps:
+	A MET1 < Fragment 0 > A LYS190
+	A GLY198 < Fragment 1 > A ASP359
+	B MET1 < Fragment 2 > B LEU188
+	B GLY198 < Fragment 3 > B ASP359
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 111
+[+] No. of charged-charged contacts: 21
+[+] No. of charged-polar contacts: 19
+[+] No. of charged-apolar contacts: 38
+[+] No. of polar-polar contacts: 5
+[+] No. of apolar-polar contacts: 17
+[+] No. of apolar-apolar contacts: 11
+[+] Link density: 0.07
+[+] Class: BIO 0.64 0.36
+

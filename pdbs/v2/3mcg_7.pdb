@@ -3,14 +3,6 @@ Remark 300 Interface Chain A For Asymmetric Chain B Author Chain 2 Entity 1 Symm
 Remark 300 Interface Chain B For Asymmetric Chain B Author Chain 2 Entity 1 Symmetry Operator    2_455 Full Symmetry Operator    -1-X,-Y,Z
 Remark 350 Interface surface area: 733.1
 
-ATOM      1  N   PCA A   1      -7.076   5.043   7.684  1.00 14.59           N  
-ATOM      2  CA  PCA A   1      -8.127   4.136   8.252  1.00 14.38           C  
-ATOM      3  CB  PCA A   1      -8.120   4.268   9.795  1.00 14.68           C  
-ATOM      4  CG  PCA A   1      -6.594   4.595  10.059  1.00 14.87           C  
-ATOM      5  CD  PCA A   1      -6.051   5.276   8.798  1.00 14.91           C  
-ATOM      6  OE  PCA A   1      -5.151   6.130   8.835  1.00 14.65           O  
-ATOM      7  C   PCA A   1      -9.417   4.536   7.593  1.00 14.04           C  
-ATOM      8  O   PCA A   1      -9.500   5.767   7.358  1.00 14.03           O  
 ATOM      9  N   SER A   2     -10.282   3.585   7.291  1.00 13.73           N  
 ATOM     10  CA  SER A   2     -11.596   3.961   6.641  1.00 13.22           C  
 ATOM     11  C   SER A   2     -12.671   3.239   7.447  1.00 12.84           C  
@@ -1610,14 +1602,6 @@ ATOM   1604  CB  SER A 216     -23.781 -46.027  32.305  1.00 12.96           C
 ATOM   1605  OG  SER A 216     -22.634 -45.660  31.514  1.00 11.87           O  
 ATOM   1606  OXT SER A 216     -24.482 -44.422  35.468  1.00 14.99           O  
 TER    1607      SER A 216
-ATOM   1608  N   PCA B   1     -65.725  -5.043   7.684  1.00 14.59           N  
-ATOM   1609  CA  PCA B   1     -64.674  -4.136   8.252  1.00 14.38           C  
-ATOM   1610  CB  PCA B   1     -64.681  -4.268   9.795  1.00 14.68           C  
-ATOM   1611  CG  PCA B   1     -66.207  -4.595  10.059  1.00 14.87           C  
-ATOM   1612  CD  PCA B   1     -66.750  -5.276   8.798  1.00 14.91           C  
-ATOM   1613  OE  PCA B   1     -67.650  -6.130   8.835  1.00 14.65           O  
-ATOM   1614  C   PCA B   1     -63.384  -4.536   7.593  1.00 14.04           C  
-ATOM   1615  O   PCA B   1     -63.301  -5.767   7.358  1.00 14.03           O  
 ATOM   1616  N   SER B   2     -62.519  -3.585   7.291  1.00 13.73           N  
 ATOM   1617  CA  SER B   2     -61.205  -3.961   6.641  1.00 13.22           C  
 ATOM   1618  C   SER B   2     -60.130  -3.239   7.447  1.00 12.84           C  

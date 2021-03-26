@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5jgk_1.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 75
+[+] No. of charged-charged contacts: 8
+[+] No. of charged-polar contacts: 15
+[+] No. of charged-apolar contacts: 18
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 15
+[+] No. of apolar-apolar contacts: 17
+[+] Link density: 0.08
+[+] Class: XTAL 0.424 0.576
+

@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4oar_3.pdb
+[!] Structure contains gaps:
+	A GLN7 < Fragment 0 > A ARG224
+	A MET234 < Fragment 1 > A HIS256
+	B GLN7 < Fragment 2 > B ARG224
+	B MET234 < Fragment 3 > B HIS256
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 80
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 16
+[+] No. of polar-polar contacts: 13
+[+] No. of apolar-polar contacts: 18
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.08
+[+] Class: BIO 0.8 0.2
+

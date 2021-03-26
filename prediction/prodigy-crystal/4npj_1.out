@@ -1,0 +1,18 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4npj_1.pdb
+[!] Structure contains gaps:
+	A ASN2 < Fragment 0 > A GLY190
+	A ASN196 < Fragment 1 > A LYS298
+	B ARG3 < Fragment 2 > B THR41
+	B GLY49 < Fragment 3 > B PRO188
+	B ASN196 < Fragment 4 > B LYS298
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 99
+[+] No. of charged-charged contacts: 19
+[+] No. of charged-polar contacts: 10
+[+] No. of charged-apolar contacts: 33
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 15
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.04
+[+] Class: BIO 0.716 0.284
+

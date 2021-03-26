@@ -1,0 +1,14 @@
+  ASP   965   A   HIS   380   B
+  LYS  1304   A   LYS  1470   B
+  ILE   960   A   PRO   684   B
+  PRO   684   A   ILE   960   B
+  HIS   380   A   ASP   965   B
+  LYS  1470   A   ALA  1305   B
+  LYS  1470   A   LYS  1304   B
+  ALA  1305   A   LYS  1470   B
+  TRP   687   A   ILE   960   B
+  SER   683   A   ILE   960   B
+  ALA   959   A   GLU   652   B
+  GLU   652   A   ALA   959   B
+  ILE   960   A   TRP   687   B
+  ILE   960   A   SER   683   B

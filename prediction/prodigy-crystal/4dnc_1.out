@@ -1,0 +1,18 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4dnc_1.pdb
+[!] Structure contains gaps:
+	A TYR9 < Fragment 0 > A HIS104
+	A THR106 < Fragment 1 > A LYS280
+	B LYS8 < Fragment 2 > B HIS104
+	B THR106 < Fragment 3 > B TYR239
+	B GLN243 < Fragment 4 > B PRO278
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 48
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 12
+[+] No. of charged-apolar contacts: 21
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 2
+[+] No. of apolar-apolar contacts: 5
+[+] Link density: 0.13
+[+] Class: XTAL 0.168 0.832
+

@@ -1,0 +1,23 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/2nub_6.pdb
+[!] Structure contains gaps:
+	A MET1 < Fragment 0 > A ARG133
+	A ILE135 < Fragment 1 > A ARG175
+	A PHE178 < Fragment 2 > A LEU244
+	A TYR248 < Fragment 3 > A TYR261
+	A VAL272 < Fragment 4 > A LEU706
+	B MET1 < Fragment 5 > B ARG133
+	B ILE135 < Fragment 6 > B ARG175
+	B PHE178 < Fragment 7 > B LEU244
+	B TYR248 < Fragment 8 > B TYR261
+	B VAL272 < Fragment 9 > B LEU706
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 62
+[+] No. of charged-charged contacts: 16
+[+] No. of charged-polar contacts: 12
+[+] No. of charged-apolar contacts: 26
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 2
+[+] No. of apolar-apolar contacts: 6
+[+] Link density: 0.08
+[+] Class: XTAL 0.276 0.724
+

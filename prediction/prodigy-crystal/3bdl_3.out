@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/3bdl_3.pdb
+[!] Structure contains gaps:
+	A MET21 < Fragment 0 > A ALA341
+	A MET352 < Fragment 1 > A ALA567
+	B MET21 < Fragment 2 > B ALA341
+	B MET352 < Fragment 3 > B ALA567
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 289
+[+] No. of charged-charged contacts: 31
+[+] No. of charged-polar contacts: 44
+[+] No. of charged-apolar contacts: 98
+[+] No. of polar-polar contacts: 8
+[+] No. of apolar-polar contacts: 42
+[+] No. of apolar-apolar contacts: 66
+[+] Link density: 0.02
+[+] Class: BIO 0.976 0.024
+

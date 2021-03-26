@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5fom_2.pdb
+[!] Structure contains gaps:
+	A GLY4 < Fragment 0 > A GLN65
+	A LYS80 < Fragment 1 > A GLU291
+	B GLY4 < Fragment 2 > B GLN65
+	B LYS80 < Fragment 3 > B GLU291
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 67
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 28
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 12
+[+] No. of apolar-apolar contacts: 21
+[+] Link density: 0.08
+[+] Class: BIO 0.784 0.216
+

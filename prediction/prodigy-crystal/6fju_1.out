@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/6fju_1.pdb
+[!] Structure contains gaps:
+	A HIS26 < Fragment 0 > A GLU201
+	B HIS26 < Fragment 1 > B THR77
+	B TYR80 < Fragment 2 > B GLY200
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 80
+[+] No. of charged-charged contacts: 2
+[+] No. of charged-polar contacts: 2
+[+] No. of charged-apolar contacts: 18
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 6
+[+] No. of apolar-apolar contacts: 52
+[+] Link density: 0.10
+[+] Class: BIO 0.892 0.108
+

@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/2ofj_1.pdb
+[!] Structure contains gaps:
+	A MET4 < Fragment 0 > A ASP17
+	A ARG25 < Fragment 1 > A ASN114
+	A PRO128 < Fragment 2 > A LEU323
+	B MET4 < Fragment 3 > B ASP17
+	B ARG25 < Fragment 4 > B ASN114
+	B PRO128 < Fragment 5 > B LEU323
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 52
+[+] No. of charged-charged contacts: 11
+[+] No. of charged-polar contacts: 11
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 11
+[+] No. of apolar-apolar contacts: 2
+[+] Link density: 0.08
+[+] Class: XTAL 0.012 0.988
+

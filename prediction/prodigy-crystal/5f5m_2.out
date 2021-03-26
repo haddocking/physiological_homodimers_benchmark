@@ -1,0 +1,25 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5f5m_2.pdb
+[!] Structure contains gaps:
+	A LYS24 < Fragment 0 > A LEU122
+	A SER124 < Fragment 1 > A THR208
+	A HIS210 < Fragment 2 > A LEU316
+	A VAL319 < Fragment 3 > A ASN320
+	A GLU323 < Fragment 4 > A GLU370
+	B LYS24 < Fragment 5 > B PRO110
+	B TYR112 < Fragment 6 > B THR121
+	B SER124 < Fragment 7 > B LEU206
+	B GLY209 < Fragment 8 > B GLN241
+	B VAL247 < Fragment 9 > B SER256
+	B VAL258 < Fragment 10 > B SER314
+	B ASN320 < Fragment 11 > B HIS373
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 63
+[+] No. of charged-charged contacts: 13
+[+] No. of charged-polar contacts: 10
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 7
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.09
+[+] Class: BIO 0.644 0.356
+

@@ -1,0 +1,43 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/3s4z_6.pdb
+[!] Structure contains gaps:
+	A MET1 < Fragment 0 > A GLY224
+	A SER225 < Fragment 1 > A SER250
+	A THR258 < Fragment 2 > A GLY401
+	A SER411 < Fragment 3 > A PRO553
+	A VAL563 < Fragment 4 > A PRO683
+	A GLU692 < Fragment 5 > A LYS714
+	A ASN731 < Fragment 6 > A LEU784
+	A LYS798 < Fragment 7 > A SER886
+	A SER902 < Fragment 8 > A ASP934
+	A VAL945 < Fragment 9 > A TYR1035
+	A VAL1039 < Fragment 10 > A ILE1056
+	A VAL1070 < Fragment 11 > A ALA1106
+	A PRO1127 < Fragment 12 > A SER1188
+	A GLY1190 < Fragment 13 > A SER1222
+	A PRO1248 < Fragment 14 > A LEU1280
+	B MET1 < Fragment 15 > B GLY224
+	B SER225 < Fragment 16 > B SER250
+	B THR258 < Fragment 17 > B GLY401
+	B SER411 < Fragment 18 > B PRO553
+	B VAL563 < Fragment 19 > B PRO683
+	B GLU692 < Fragment 20 > B LYS714
+	B ASN731 < Fragment 21 > B LEU784
+	B LYS798 < Fragment 22 > B SER886
+	B SER902 < Fragment 23 > B ASP934
+	B VAL945 < Fragment 24 > B TYR1035
+	B VAL1039 < Fragment 25 > B ILE1056
+	B VAL1070 < Fragment 26 > B ALA1106
+	B PRO1127 < Fragment 27 > B SER1188
+	B GLY1190 < Fragment 28 > B SER1222
+	B PRO1248 < Fragment 29 > B LEU1280
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 78
+[+] No. of charged-charged contacts: 18
+[+] No. of charged-polar contacts: 16
+[+] No. of charged-apolar contacts: 16
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 12
+[+] No. of apolar-apolar contacts: 16
+[+] Link density: 0.04
+[+] Class: BIO 0.608 0.392
+

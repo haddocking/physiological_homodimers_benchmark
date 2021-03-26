@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/3enm_11.pdb
+[!] Structure contains gaps:
+	A LYS32 < Fragment 0 > A LEU36
+	A MET40 < Fragment 1 > A VAL191
+	A LYS200 < Fragment 2 > A LYS215
+	A SER218 < Fragment 3 > A LEU315
+	B MET26 < Fragment 4 > B ASP190
+	B LYS200 < Fragment 5 > B ALA316
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 137
+[+] No. of charged-charged contacts: 19
+[+] No. of charged-polar contacts: 2
+[+] No. of charged-apolar contacts: 55
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 20
+[+] No. of apolar-apolar contacts: 41
+[+] Link density: 0.06
+[+] Class: BIO 0.992 0.008
+

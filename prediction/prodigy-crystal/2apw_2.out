@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/2apw_2.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 587
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 42
+[+] No. of charged-apolar contacts: 100
+[+] No. of polar-polar contacts: 73
+[+] No. of apolar-polar contacts: 228
+[+] No. of apolar-apolar contacts: 138
+[+] Link density: 0.09
+[+] Class: BIO 0.944 0.056
+

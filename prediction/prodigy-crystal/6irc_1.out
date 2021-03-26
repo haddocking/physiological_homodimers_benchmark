@@ -1,0 +1,23 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/6irc_1.pdb
+[!] Structure contains gaps:
+	A PRO3 < Fragment 0 > A LYS60
+	A ARG66 < Fragment 1 > A GLU167
+	A ARG169 < Fragment 2 > A VAL185
+	A GLN187 < Fragment 3 > A LEU194
+	A LEU196 < Fragment 4 > A ILE218
+	B PRO3 < Fragment 5 > B LYS60
+	B ARG66 < Fragment 6 > B GLU167
+	B ARG169 < Fragment 7 > B VAL185
+	B GLN187 < Fragment 8 > B LEU194
+	B LEU196 < Fragment 9 > B ILE218
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 103
+[+] No. of charged-charged contacts: 14
+[+] No. of charged-polar contacts: 26
+[+] No. of charged-apolar contacts: 28
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 12
+[+] No. of apolar-apolar contacts: 23
+[+] Link density: 0.04
+[+] Class: BIO 0.884 0.116
+

@@ -3,9 +3,6 @@ Remark 300 Interface Chain A For Asymmetric Chain B Author Chain B Entity 1 Symm
 Remark 300 Interface Chain B For Asymmetric Chain A Author Chain A Entity 1 Symmetry Operator    -1-X+Y,-X,-1/3+Z
 Remark 350 Interface surface area: 1255.55
 
-ATOM      1  C   ACE A   1     -31.125  70.018 -37.030  1.00  0.00           C
-ATOM      2  O   ACE A   1     -31.797  69.875 -36.011  1.00  0.00           O
-ATOM      3  CH3 ACE A   1     -31.266  71.254 -37.865  1.00  0.00           C
 ATOM      4  N   GLU A   2     -29.975  69.368 -37.216  1.00  0.00           N
 ATOM      5  CA  GLU A   2     -29.804  67.913 -37.174  1.00  0.00           C
 ATOM      6  C   GLU A   2     -30.194  67.332 -35.820  1.00  0.00           C
@@ -4458,9 +4455,6 @@ ATOM   4452  O   SER A 557     -40.599  31.845  16.452  1.00  0.00           O
 ATOM   4453  CB  SER A 557     -41.254  29.780  19.251  1.00  0.00           C
 ATOM   4454  OG  SER A 557     -40.000  29.192  18.954  1.00  0.00           O
 TER    4455      SER A 557
-ATOM   4456  C   ACE B   1    -122.593  68.494 -54.735  1.00  0.00           C
-ATOM   4457  O   ACE B   1    -121.448  68.220 -54.386  1.00  0.00           O
-ATOM   4458  CH3 ACE B   1    -122.869  69.321 -55.955  1.00  0.00           C
 ATOM   4459  N   GLU B   2    -123.667  68.078 -54.064  1.00  0.00           N
 ATOM   4460  CA  GLU B   2    -124.029  66.670 -53.891  1.00  0.00           C
 ATOM   4461  C   GLU B   2    -123.530  65.801 -55.046  1.00  0.00           C

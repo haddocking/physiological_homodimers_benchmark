@@ -1,0 +1,20 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/3otp_16.pdb
+[!] Structure contains gaps:
+	A GLN11 < Fragment 0 > A GLU32
+	A GLN82 < Fragment 1 > A SER357
+	A PHE368 < Fragment 2 > A ILE399
+	A LEU401 < Fragment 3 > A GLN448
+	B GLN11 < Fragment 4 > B THR35
+	B GLN82 < Fragment 5 > B SER357
+	B PHE368 < Fragment 6 > B GLN448
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 65
+[+] No. of charged-charged contacts: 23
+[+] No. of charged-polar contacts: 5
+[+] No. of charged-apolar contacts: 16
+[+] No. of polar-polar contacts: 9
+[+] No. of apolar-polar contacts: 6
+[+] No. of apolar-apolar contacts: 6
+[+] Link density: 0.06
+[+] Class: XTAL 0.076 0.924
+

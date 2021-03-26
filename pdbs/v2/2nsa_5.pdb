@@ -4,8 +4,8 @@ Remark 300 Interface Chain B For Asymmetric Chain A Author Chain A Entity 1 Symm
 Remark 300 Number of entries with this interface in the group: 1/2
 Remark 350 chain A interface residues
 Remark 350 SER  12 LEU  13 LYS  14 LYS  15 GLU  16 GLY  17 LYS  18 GLU  19 
-Remark 350 ILE  20 TYR  21 ASP  22 VAL  23 GLU  24 MSE  25 LYS  26 GLU  27 
-Remark 350 SER  28 MSE  29 ARG  30 GLU  31 GLN  32 LEU  33 LEU  34 ARG  60 
+Remark 350 ILE  20 TYR  21 ASP  22 VAL  23 GLU  24 MET  25 LYS  26 GLU  27 
+Remark 350 SER  28 MET  29 ARG  30 GLU  31 GLN  32 LEU  33 LEU  34 ARG  60 
 Remark 350 LEU  61 ARG  63 GLU  64 ARG  66 VAL 109 LEU 114 GLU 115 GLU 117 
 Remark 350 ALA 118 GLU 119 GLU 120 LEU 121 ALA 122 PRO 123 PHE 124 TRP 125 
 Remark 350 GLY 126 ILE 127 SER 128 ARG 131 ALA 132 LYS 133 SER 134 LEU 135 
@@ -15,8 +15,8 @@ Remark 350 LYS 152 ARG 153 LYS 154 LEU 156 ASP 157 LEU 158 LEU 159 LEU 160
 Remark 350 GLN 161 GLU 162 VAL 163 GLU 164 HIS 165 HIS 166 HIS 167 HIS 168 
 Remark 350 chain B interface residues
 Remark 350 SER  12 LEU  13 LYS  14 LYS  15 GLU  16 GLY  17 LYS  18 GLU  19 
-Remark 350 ILE  20 TYR  21 ASP  22 VAL  23 GLU  24 MSE  25 LYS  26 GLU  27 
-Remark 350 SER  28 MSE  29 ARG  30 GLU  31 GLN  32 LEU  33 LEU  34 ARG  60 
+Remark 350 ILE  20 TYR  21 ASP  22 VAL  23 GLU  24 MET  25 LYS  26 GLU  27 
+Remark 350 SER  28 MET  29 ARG  30 GLU  31 GLN  32 LEU  33 LEU  34 ARG  60 
 Remark 350 LEU  61 ARG  63 GLU  64 ARG  66 VAL 109 LEU 114 GLU 115 GLU 117 
 Remark 350 ALA 118 GLU 119 GLU 120 LEU 121 ALA 122 PRO 123 PHE 124 TRP 125 
 Remark 350 GLY 126 ILE 127 SER 128 ARG 131 ALA 132 LYS 133 SER 134 LEU 135 
@@ -221,14 +221,14 @@ ATOM    192  CG  GLU A  24       2.909  10.051  12.581  1.00  0.00           C
 ATOM    193  CD  GLU A  24       4.007   9.798  11.562  1.00  0.00           C
 ATOM    194  OE1 GLU A  24       4.514   8.655  11.511  1.00  0.00           O
 ATOM    195  OE2 GLU A  24       4.373  10.739  10.822  1.00  0.00           O
-ATOM    196  N   MSE A  25       6.293  12.128  14.967  1.00  0.00           N
-ATOM    197  CA  MSE A  25       7.531  12.105  15.738  1.00  0.00           C
-ATOM    198  C   MSE A  25       7.288  12.089  17.244  1.00  0.00           C
-ATOM    199  O   MSE A  25       7.829  11.248  17.963  1.00  0.00           O
-ATOM    200  CB  MSE A  25       8.385  13.325  15.381  1.00  0.00           C
-ATOM    201  CG  MSE A  25       9.775  13.316  15.988  1.00  0.00           C
-ATOM    202  SE  MSE A  25      10.950  12.069  15.113  1.00  0.00           SE
-ATOM    203  CE  MSE A  25      12.310  13.294  14.501  1.00  0.00           C
+ATOM    196  N   MET A  25       6.293  12.128  14.967  1.00  0.00           N
+ATOM    197  CA  MET A  25       7.531  12.105  15.738  1.00  0.00           C
+ATOM    198  C   MET A  25       7.288  12.089  17.244  1.00  0.00           C
+ATOM    199  O   MET A  25       7.829  11.248  17.963  1.00  0.00           O
+ATOM    200  CB  MET A  25       8.385  13.325  15.381  1.00  0.00           C
+ATOM    201  CG  MET A  25       9.775  13.316  15.988  1.00  0.00           C
+ATOM    202  SE  MET A  25      10.950  12.069  15.113  1.00  0.00           SE
+ATOM    203  CE  MET A  25      12.310  13.294  14.501  1.00  0.00           C
 ATOM    204  N   LYS A  26       6.473  13.029  17.709  1.00  0.00           N
 ATOM    205  CA  LYS A  26       6.155  13.156  19.128  1.00  0.00           C
 ATOM    206  C   LYS A  26       5.689  11.850  19.769  1.00  0.00           C
@@ -253,14 +253,14 @@ ATOM    224  C   SER A  28       7.380   7.427  18.909  1.00  0.00           C
 ATOM    225  O   SER A  28       7.613   6.428  19.589  1.00  0.00           O
 ATOM    226  CB  SER A  28       6.454   7.559  16.591  1.00  0.00           C
 ATOM    227  OG  SER A  28       7.212   6.422  16.215  1.00  0.00           O
-ATOM    228  N   MSE A  29       8.208   8.466  18.845  1.00  0.00           N
-ATOM    229  CA  MSE A  29       9.467   8.486  19.586  1.00  0.00           C
-ATOM    230  C   MSE A  29       9.265   8.337  21.093  1.00  0.00           C
-ATOM    231  O   MSE A  29       9.999   7.599  21.749  1.00  0.00           O
-ATOM    232  CB  MSE A  29      10.234   9.779  19.296  1.00  0.00           C
-ATOM    233  CG  MSE A  29      10.808   9.877  17.887  1.00  0.00           C
-ATOM    234  SE  MSE A  29      12.279   8.657  17.548  1.00  0.00           SE
-ATOM    235  CE  MSE A  29      13.749   9.824  18.008  1.00  0.00           C
+ATOM    228  N   MET A  29       8.208   8.466  18.845  1.00  0.00           N
+ATOM    229  CA  MET A  29       9.467   8.486  19.586  1.00  0.00           C
+ATOM    230  C   MET A  29       9.265   8.337  21.093  1.00  0.00           C
+ATOM    231  O   MET A  29       9.999   7.599  21.749  1.00  0.00           O
+ATOM    232  CB  MET A  29      10.234   9.779  19.296  1.00  0.00           C
+ATOM    233  CG  MET A  29      10.808   9.877  17.887  1.00  0.00           C
+ATOM    234  SE  MET A  29      12.279   8.657  17.548  1.00  0.00           SE
+ATOM    235  CE  MET A  29      13.749   9.824  18.008  1.00  0.00           C
 ATOM    236  N   ARG A  30       8.277   9.037  21.644  1.00  0.00           N
 ATOM    237  CA  ARG A  30       8.011   8.946  23.076  1.00  0.00           C
 ATOM    238  C   ARG A  30       7.710   7.508  23.463  1.00  0.00           C
@@ -1628,14 +1628,14 @@ ATOM   1599  CG  GLU B  24      -2.909  10.051  32.455  1.00  0.00           C
 ATOM   1600  CD  GLU B  24      -4.007   9.798  33.474  1.00  0.00           C
 ATOM   1601  OE1 GLU B  24      -4.514   8.655  33.525  1.00  0.00           O
 ATOM   1602  OE2 GLU B  24      -4.373  10.739  34.214  1.00  0.00           O
-ATOM   1603  N   MSE B  25      -6.293  12.128  30.069  1.00  0.00           N
-ATOM   1604  CA  MSE B  25      -7.531  12.105  29.298  1.00  0.00           C
-ATOM   1605  C   MSE B  25      -7.288  12.089  27.792  1.00  0.00           C
-ATOM   1606  O   MSE B  25      -7.829  11.248  27.073  1.00  0.00           O
-ATOM   1607  CB  MSE B  25      -8.385  13.325  29.655  1.00  0.00           C
-ATOM   1608  CG  MSE B  25      -9.775  13.316  29.048  1.00  0.00           C
-ATOM   1609  SE  MSE B  25     -10.950  12.069  29.923  1.00  0.00           SE
-ATOM   1610  CE  MSE B  25     -12.310  13.294  30.535  1.00  0.00           C
+ATOM   1603  N   MET B  25      -6.293  12.128  30.069  1.00  0.00           N
+ATOM   1604  CA  MET B  25      -7.531  12.105  29.298  1.00  0.00           C
+ATOM   1605  C   MET B  25      -7.288  12.089  27.792  1.00  0.00           C
+ATOM   1606  O   MET B  25      -7.829  11.248  27.073  1.00  0.00           O
+ATOM   1607  CB  MET B  25      -8.385  13.325  29.655  1.00  0.00           C
+ATOM   1608  CG  MET B  25      -9.775  13.316  29.048  1.00  0.00           C
+ATOM   1609  SE  MET B  25     -10.950  12.069  29.923  1.00  0.00           SE
+ATOM   1610  CE  MET B  25     -12.310  13.294  30.535  1.00  0.00           C
 ATOM   1611  N   LYS B  26      -6.473  13.029  27.327  1.00  0.00           N
 ATOM   1612  CA  LYS B  26      -6.155  13.156  25.908  1.00  0.00           C
 ATOM   1613  C   LYS B  26      -5.689  11.850  25.267  1.00  0.00           C
@@ -1660,14 +1660,14 @@ ATOM   1631  C   SER B  28      -7.380   7.427  26.127  1.00  0.00           C
 ATOM   1632  O   SER B  28      -7.613   6.428  25.447  1.00  0.00           O
 ATOM   1633  CB  SER B  28      -6.454   7.559  28.445  1.00  0.00           C
 ATOM   1634  OG  SER B  28      -7.212   6.422  28.821  1.00  0.00           O
-ATOM   1635  N   MSE B  29      -8.208   8.466  26.191  1.00  0.00           N
-ATOM   1636  CA  MSE B  29      -9.467   8.486  25.450  1.00  0.00           C
-ATOM   1637  C   MSE B  29      -9.265   8.337  23.943  1.00  0.00           C
-ATOM   1638  O   MSE B  29      -9.999   7.599  23.287  1.00  0.00           O
-ATOM   1639  CB  MSE B  29     -10.234   9.779  25.740  1.00  0.00           C
-ATOM   1640  CG  MSE B  29     -10.808   9.877  27.149  1.00  0.00           C
-ATOM   1641  SE  MSE B  29     -12.279   8.657  27.488  1.00  0.00           SE
-ATOM   1642  CE  MSE B  29     -13.749   9.824  27.028  1.00  0.00           C
+ATOM   1635  N   MET B  29      -8.208   8.466  26.191  1.00  0.00           N
+ATOM   1636  CA  MET B  29      -9.467   8.486  25.450  1.00  0.00           C
+ATOM   1637  C   MET B  29      -9.265   8.337  23.943  1.00  0.00           C
+ATOM   1638  O   MET B  29      -9.999   7.599  23.287  1.00  0.00           O
+ATOM   1639  CB  MET B  29     -10.234   9.779  25.740  1.00  0.00           C
+ATOM   1640  CG  MET B  29     -10.808   9.877  27.149  1.00  0.00           C
+ATOM   1641  SE  MET B  29     -12.279   8.657  27.488  1.00  0.00           SE
+ATOM   1642  CE  MET B  29     -13.749   9.824  27.028  1.00  0.00           C
 ATOM   1643  N   ARG B  30      -8.277   9.037  23.392  1.00  0.00           N
 ATOM   1644  CA  ARG B  30      -8.011   8.946  21.960  1.00  0.00           C
 ATOM   1645  C   ARG B  30      -7.710   7.508  21.573  1.00  0.00           C

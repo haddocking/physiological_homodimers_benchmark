@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4bkf_8.pdb
+[!] Structure contains gaps:
+	A THR40 < Fragment 0 > A THR338
+	A ARG339 < Fragment 1 > A THR544
+	B THR40 < Fragment 2 > B THR338
+	B ARG339 < Fragment 3 > B THR544
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 32
+[+] No. of charged-charged contacts: 8
+[+] No. of charged-polar contacts: 6
+[+] No. of charged-apolar contacts: 6
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 8
+[+] No. of apolar-apolar contacts: 4
+[+] Link density: 0.10
+[+] Class: XTAL 0.028 0.972
+

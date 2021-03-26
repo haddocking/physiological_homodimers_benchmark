@@ -1,0 +1,9 @@
+  ILE   459   A   GLU   456   B
+  ASN   460   A   ASN   460   B
+  ASN   460   A   GLU   456   B
+  GLU   456   A   ILE   459   B
+  GLU   456   A   ASN   460   B
+  LYS   453   A   ARG   463   B
+  ARG   463   A   LYS   453   B
+  ARG   463   A   GLU   456   B
+  GLU   456   A   ARG   463   B
