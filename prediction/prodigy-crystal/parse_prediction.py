@@ -21,16 +21,23 @@ def parse_file_prediction(file_name):
 if __name__ == "__main__":
     """Writes in CSV format"""
     complex_list_file = sys.argv[1]
+    overlap_list_file = sys.argv[2]
 
     complex_list = []
     with open(complex_list_file) as input_handle:
         complex_list = [line.rstrip(os.linesep) for line in input_handle.readlines() if line]
 
-    print('#pdb_id,prodigy_crystal_class,p_biological,p_crystal')
+    overlap_list = []
+    with open(overlap_list_file) as input_handle:
+        overlap_list = [line.rstrip(os.linesep) for line in input_handle.readlines() if line]
+
+    print('#pdb-id,I_prodigy_crystal_class,I_p_biological,I_p_crystal,Training')
     for pdb_id in complex_list:
         prediction_out = f'{pdb_id}.out'
         prediction = parse_file_prediction(prediction_out)
         if not prediction:
             raise SystemExit(f'Prediction not found for {prediction_out}')
         else:
-            print(f'{pdb_id},{prediction[0]},{prediction[1]},{prediction[2]}')
+            training = (pdb_id[:4] in overlap_list)
+            print(f'{pdb_id},{prediction[0]},{prediction[1]},{prediction[2]},{training}')
+
