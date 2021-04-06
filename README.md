@@ -34,15 +34,15 @@ and the code is available from our [GitHub repository](https://github.com/haddoc
 #### Performance on this data set:
 
 ```
-Size of complex list: 977
+Size of complex list: 1547
 Size of Physiological list: 836
-Size of Non Physiological list: 141
-Predicted as BIO and Physiological: 636
-Predicted as BIO and Non-Physiological: 50
-Predicted as CRYSTAL and Physiological: 200
-Predicted as CRYSTAL and Non-Physiological: 91
+Size of Non Physiological list: 841
+Predicted as BIO and Physiological: 540
+Predicted as BIO and Non-Physiological: 494
+Predicted as CRYSTAL and Physiological: 194
+Predicted as CRYSTAL and Non-Physiological: 319
 
-Success rate: 74.41%
+Success rate: 55.53%
 ```
 
 #### Performance on this data set excluding overlapping with the MANY dataset:
@@ -50,15 +50,15 @@ Success rate: 74.41%
 (See `prediction/prodigy-crystal/overlap.list`)
 
 ```
-Size of complex list: 864
-Size of Physiological list: 735
-Size of Non Physiological list: 129
-Predicted as BIO and Physiological: 541
-Predicted as BIO and Non-Physiological: 46
-Predicted as CRYSTAL and Physiological: 194
-Predicted as CRYSTAL and Non-Physiological: 83
+Size of complex list: 1677
+Size of Physiological list: 836
+Size of Non Physiological list: 841
+Predicted as BIO and Physiological: 636
+Predicted as BIO and Non-Physiological: 509
+Predicted as CRYSTAL and Physiological: 200
+Predicted as CRYSTAL and Non-Physiological: 332
 
-Success rate: 72.22%
+Success rate: 57.72%
 ```
 
 ### Deeprank 
