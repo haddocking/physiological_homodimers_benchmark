@@ -1,0 +1,33 @@
+- removed ACE residues
+- mutate MSE into MET
+- cut pdb file (fold -b80) to meet deeprank input criteria
+
+- 5xo7: All interface residues have no pssm values
+- 5mwx: No pssm
+
+removed HETATM for :
+- 3ucr_1: CL-1 
+- 3v6n_1: NA, CL-1, CA+2
+- 3tqu_2: CA+2
+- 3tqj_1: FE+2
+- 3r0n_1: MG+2, CL-1
+- 3q1d_1: ZN+2
+- 3qat_3: CL-1
+- 1bjj_9: CA+2
+- 3mux_1: NA, CL-1
+- 3lxy_1: NI+2
+- 3lp9_1: CA+2, CL-1, NA
+- 3lhr_1: MG+2, CL-1
+- 1xwb_5: CD
+- 3lag_1: NI+2, CA+2
+- 1xef_2: MG+2
+- 2zxy_1: HEC
+- 3kb1_1: ZN+2
+- 4v07_1: CL-1
+- 2xwc_1: ZN+2
+- 3igr_2: NA
+- 3igd_1: ZN+2
+- 2v3t_1: CA+2
+- 1jm0_2: MN2
++ othert HETATM or IONS in:
+3eul_6,4kcx_1,2imz_1,2iy2_1,1m08_1,2npn_3,1mft_1,4e4j_2,4lft_1,1e59_1,1e85_1,4e69_2,2e46_1,2eav_1,1np8_1,5xwe_1,4eo9_1,2o1v_1,5xo7_1,1nvt_1,2oai_1,5fub_1,1fe0_1,4f2n_2,5hpj_1,2oik_2,2f6s_1,4mdh_1,2omk_1,2fca_1,3ded_1,1gmz_1,1gyo_1,5v01_1,5u0i_1,4gmk_1,2gpc_1,5j6o_1,5c2x_1,5c6m_2,3bwv_1,5ckl_1,3c1q_1,5ckn_1,5l6q_1,4o1r_2,2ph1_1,5dyw_1,2dsj_1,5llj_1,5m7q_3,5mwx_1,5n7l_1,5t93_1,1jm0_2,4ohc_2,1qhq_3,4pob_1,4ckm_2,3hq2_1,2rc3_2,4qhi_1,4qhj_1,2v3t_1,3igd_1,3igr_2,2xwc_1
