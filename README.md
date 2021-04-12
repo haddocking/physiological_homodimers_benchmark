@@ -66,42 +66,39 @@ Success rate: 55.53%
 The [Deeprank](https://github.com/DeepRank/deeprank) classification is based on a 3D Convolution Neural Network (CNN) that has been pre-trained on the [MANY dataset](https://pubmed.ncbi.nlm.nih.gov/25326082/), which consists of 2828 biological interfaces and 2911 crystal ones, only using PSSM features. The MANY dataset was devided into a training (80%) and a validation set (20%), while maintaining the balance between positive and negative data. The training dataset was augmented by randomly rotating each complex 30 times.
 
 29 complexes have been discarded from the dataset classification due to :
-- the lack of pssm matrix  (53 complexe)
-- missing atom in proximity to the interface (10 complexes)
-- Deeprank failures in the feature assignment step (11 complexes)
+- the lack of pssm matrix 40 complexes)
+- Others - See prediction/deeprank/data/README_*_dataset (15 complexes)
 
 #### Performance on this data set:
 
 ```
 Size of complex list: 1677
-Size of complex list processed : 1603
+Size of complex list processed : 1622
 Size of Physiological list: 836
 Size of Non Physiological list: 841
-Predicted as BIO and Physiological: 636
-Predicted as BIO and Non-Physiological: 220
-Predicted as CRYSTAL and Physiological: 183
-Predicted as CRYSTAL and Non-Physiological: 564
+Predicted as BIO and Physiological: 642
+Predicted as BIO and Non-Physiological: 222
+Predicted as CRYSTAL and Physiological: 187
+Predicted as CRYSTAL and Non-Physiological: 571
 
-
-Success rate (considering unprocessed data): 71.556%
-Success rate (omitting unprocessed data): 74.86%
+Success rate (considering unprocessed data): 72.332%
+Success rate (omitting unprocessed data): 74.784%
 ```
 
 #### Performance on this data set excluding overlapping with the MANY dataset:
 
 ```
 Size of complex list: 1551
-Size of complex list processed : 1481
+Size of complex list processed : 1497
 Size of Physiological list: 735
 Size of Non Physiological list: 816
-Predicted as BIO and Physiological: 552
-Predicted as BIO and Non-Physiological: 218
-Predicted as CRYSTAL and Physiological: 168
-Predicted as CRYSTAL and Non-Physiological: 543
+Predicted as BIO and Physiological: 551
+Predicted as BIO and Non-Physiological: 220
+Predicted as CRYSTAL and Physiological: 178
+Predicted as CRYSTAL and Non-Physiological: 548
 
-
-Success rate (considering unprocessed data): 70.6%
-Success rate (omitting unprocessed data): 73.937%
+Success rate (considering unprocessed data): 70.858%
+Success rate (omitting unprocessed data): 73.413%
 ```
 
-(See `prediction/deeprank/deeprank_prediction.list`)
+(See `prediction/deeprank/deeprank_prediction_v2.list`)
