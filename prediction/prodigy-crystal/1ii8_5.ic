@@ -1,39 +1,33 @@
-  LEU   176   A   PHE   166   B
-  THR   179   A   ILE   131   B
+  ASN   182   A   PRO   128   B
+  ALA   169   A   LEU   173   B
   LYS   172   A   THR   168   B
   LYS   165   A   LYS   172   B
   ALA   169   A   LYS   172   B
-  ILE   131   A   ARG   183   B
-  LEU   176   A   LYS   165   B
-  LYS   185   A   LYS   125   B
-  PHE   166   A   LEU   176   B
-  PHE   166   A   LEU   173   B
-  LEU   173   A   PHE   166   B
-  LYS   172   A   LYS   165   B
-  ARG   183   A   ILE   131   B
-  ASN   162   A   THR   179   B
-  ILE   131   A   THR   179   B
-  GLU   186   A   LYS    77   B
-  PRO   128   A   GLU   186   B
-  LYS   172   A   ALA   169   B
-  THR   179   A   ASN   162   B
-  GLU   124   A   ASN   182   B
-  LYS    77   A   GLU   186   B
+  ALA   169   A   ALA   169   B
+  LYS   125   A   LYS   185   B
+  ARG   193   A   LYS    77   B
+  ASP    78   A   ARG   193   B
+  LYS   165   A   GLU   175   B
   ASN   130   A   THR   179   B
   GLU   186   A   PRO   128   B
-  THR   168   A   LYS   172   B
-  LYS   165   A   GLU   175   B
   LEU   173   A   ALA   169   B
+  THR   168   A   LYS   172   B
   THR   179   A   ASN   130   B
-  PRO   128   A   ASN   182   B
-  LYS    77   A   ARG   193   B
-  ASP    78   A   ARG   193   B
-  ARG   193   A   ASP    78   B
-  LYS   165   A   LEU   176   B
-  ASN   182   A   GLU   124   B
-  ASN   182   A   PRO   128   B
-  ARG   193   A   LYS    77   B
-  ALA   169   A   ALA   169   B
-  ALA   169   A   LEU   173   B
+  GLU   124   A   ASN   182   B
+  THR   179   A   ASN   162   B
+  LYS   172   A   LYS   165   B
+  LYS   172   A   ALA   169   B
+  LEU   176   A   PHE   166   B
   GLU   175   A   LYS   165   B
-  LYS   125   A   LYS   185   B
+  LEU   176   A   LYS   165   B
+  LYS    77   A   ARG   193   B
+  PRO   128   A   GLU   186   B
+  LYS    77   A   GLU   186   B
+  LYS   165   A   LEU   176   B
+  ARG   193   A   ASP    78   B
+  GLU   186   A   LYS    77   B
+  PHE   166   A   LEU   176   B
+  PRO   128   A   ASN   182   B
+  ASN   182   A   GLU   124   B
+  ASN   162   A   THR   179   B
+  LYS   185   A   LYS   125   B

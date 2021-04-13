@@ -1,66 +1,61 @@
-  LEU   116   A   LEU   116   B
-  ILE   168   A   THR   113   B
-  LYS   114   A   SER   170   B
-  THR   113   A   ILE   168   B
-  THR   167   A   LEU   115   B
-  THR   165   A   ASN   117   B
-  HIS   111   A   SER   170   B
-  VAL   164   A   LEU   116   B
-  ILE   168   A   LEU   115   B
-  VAL   118   A   VAL   118   B
-  LYS   114   A   ASN   169   B
-  THR   165   A   LEU   116   B
-  ASN   117   A   THR    15   B
-  ASN   112   A   ILE   168   B
-  LEU   116   A   THR   167   B
   ASN   169   A   LYS   114   B
-  VAL   118   A   PHE   138   B
-  LEU   116   A   ILE   168   B
-  LEU   116   A   THR   165   B
-  THR   167   A   LEU   116   B
-  THR   161   A   TYR   120   B
-  ASN   117   A   VAL   164   B
-  THR   110   A   SER   170   B
-  LEU   116   A   PHE   166   B
-  VAL   118   A   THR   161   B
-  PHE   166   A   LEU   115   B
-  GLN    21   A   ILE   168   B
-  THR   167   A   LYS   114   B
-  ASN   162   A   TYR   120   B
-  THR    15   A   ASN   117   B
-  GLN    21   A   SER   170   B
-  ILE   168   A   LYS   114   B
-  TYR   120   A   THR   161   B
-  THR   113   A   ASN   169   B
-  LYS   114   A   THR   167   B
-  ILE   168   A   ASN   112   B
   PHE    20   A   ILE   168   B
   LYS   114   A   ILE   168   B
-  GLN    21   A   PHE    20   B
-  PHE   138   A   ASN   117   B
-  ASN   112   A   SER   170   B
-  LEU   115   A   THR   167   B
+  VAL   164   A   ASN   117   B
+  THR   165   A   LEU   116   B
+  LEU   116   A   PHE   166   B
+  VAL   118   A   THR   161   B
+  ASN   112   A   ILE   168   B
   ASN   169   A   ASN   112   B
   LEU   115   A   ILE   168   B
-  LYS   114   A   PHE   166   B
-  LEU   115   A   THR   165   B
-  ASN    17   A   LEU   115   B
-  PHE   138   A   VAL   118   B
   PHE   166   A   LEU   116   B
-  GLY    14   A   ASN   117   B
-  ASN   169   A   THR   113   B
-  PHE   138   A   LEU   116   B
-  ILE   168   A   ILE   168   B
-  ASN   117   A   PHE   138   B
-  LEU   115   A   PHE   166   B
-  LEU   116   A   PHE    20   B
-  LEU   116   A   VAL   164   B
-  ASN   112   A   ASN   169   B
-  THR   161   A   VAL   118   B
+  LEU   116   A   THR   167   B
+  THR   165   A   ASN   117   B
+  LYS   114   A   THR   167   B
+  GLN    21   A   PHE    20   B
   THR   165   A   LEU   115   B
+  LEU   115   A   THR   167   B
+  LEU   116   A   THR   165   B
+  LEU   116   A   PHE   138   B
+  PHE   166   A   LEU   115   B
+  LYS   114   A   ASN   169   B
+  PHE   138   A   PHE   138   B
+  THR   167   A   LYS   114   B
+  THR    15   A   ASN   117   B
+  GLN    21   A   ILE   168   B
+  LEU   115   A   THR   165   B
+  PHE   138   A   LEU   116   B
+  HIS   111   A   SER   170   B
+  ILE   168   A   LEU   115   B
+  ASN   162   A   TYR   120   B
+  ASN   117   A   VAL   164   B
+  PHE   138   A   ASN   117   B
+  VAL   118   A   VAL   118   B
+  ILE   168   A   THR   113   B
+  LYS   114   A   SER   170   B
+  VAL   118   A   PHE   138   B
+  THR   161   A   VAL   118   B
+  THR   110   A   SER   170   B
+  ILE   168   A   ASN   112   B
+  ASN   112   A   ASN   169   B
+  THR   167   A   LEU   116   B
+  THR   113   A   ILE   168   B
+  THR   161   A   TYR   120   B
   PHE   166   A   LYS   114   B
   ILE   168   A   PHE    20   B
-  PHE   138   A   PHE   138   B
   TYR   120   A   ASN   162   B
   ASN   117   A   THR   165   B
-  VAL   164   A   ASN   117   B
+  LYS   114   A   PHE   166   B
+  PHE   138   A   VAL   118   B
+  ASN   117   A   PHE   138   B
+  THR   167   A   LEU   115   B
+  LEU   115   A   PHE   166   B
+  ILE   168   A   LYS   114   B
+  TYR   120   A   THR   161   B
+  LEU   116   A   VAL   164   B
+  GLY    14   A   ASN   117   B
+  GLN    21   A   SER   170   B
+  THR   113   A   ASN   169   B
+  VAL   164   A   LEU   116   B
+  ASN   169   A   THR   113   B
+  ASN   112   A   SER   170   B

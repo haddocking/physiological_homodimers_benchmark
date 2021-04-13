@@ -1,9 +1,9 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3hha_4.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3hha_4.pdb
 [!] Structure contains gaps:
-	B ALA1 < Fragment 0 > B THR175
-	B ASN180 < Fragment 1 > B VAL220
-	D ALA1 < Fragment 2 > D VAL220
-[+] Selection: B, D
+	A ALA1 < Fragment 0 > A THR175
+	A ASN180 < Fragment 1 > A VAL220
+	B ALA1 < Fragment 2 > B VAL220
+[+] Selection: A, B
 [+] No. of intermolecular contacts: 26
 [+] No. of charged-charged contacts: 3
 [+] No. of charged-polar contacts: 5

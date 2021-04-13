@@ -1,38 +1,33 @@
-  LEU    26   A   PHE   278   B
-  ASP   288   A   LEU     9   B
-  VAL    14   A   LEU    26   B
-  PRO    11   A   ALA    28   B
-  PHE   278   A   LEU    26   B
-  PRO    11   A   LEU    26   B
-  PHE   278   A   PHE   278   B
-  LEU     9   A   LYS   289   B
-  ARG   290   A   LEU     9   B
-  LYS   289   A   LEU     9   B
-  ALA    28   A   PRO    11   B
   LEU    18   A   GLN    15   B
-  ARG    29   A   PHE   278   B
-  GLN    15   A   ARG    25   B
-  THR   291   A   LEU     9   B
-  ALA    28   A   PHE   278   B
-  LEU    18   A   LEU    18   B
-  PHE   278   A   ARG    29   B
-  THR    27   A   PRO    11   B
   GLN    15   A   SER    24   B
-  GLY    30   A   PHE   278   B
+  LEU    26   A   PHE   278   B
   ARG   290   A   PRO   129   B
+  GLN    15   A   ARG    25   B
+  PRO   129   A   ARG   290   B
   LEU     9   A   ARG   290   B
-  LEU    26   A   GLN    15   B
-  PHE   278   A   THR    27   B
-  LEU    26   A   PRO    11   B
-  GLY   292   A   LEU     9   B
-  ARG    25   A   GLN    15   B
-  GLN    15   A   LEU    26   B
-  THR    27   A   PHE   278   B
-  PHE   278   A   GLY    30   B
+  ARG    29   A   PHE   278   B
   PRO    11   A   THR    27   B
+  PHE   278   A   ALA    28   B
+  PHE   278   A   PHE   278   B
+  GLN    15   A   LEU    26   B
+  ARG    25   A   GLN    15   B
   SER    24   A   GLN    15   B
-  LEU    26   A   VAL    14   B
+  THR   291   A   LEU     9   B
   LEU     9   A   THR   291   B
   GLN    15   A   LEU    18   B
-  PHE   278   A   ALA    28   B
-  LEU     9   A   GLY   292   B
+  PRO    11   A   ALA    28   B
+  PHE   278   A   LEU    26   B
+  LYS   289   A   LEU     9   B
+  GLY    30   A   PHE   278   B
+  ALA    28   A   PHE   278   B
+  PHE   278   A   ARG    29   B
+  THR    27   A   PHE   278   B
+  PRO    11   A   LEU    26   B
+  LEU    26   A   GLN    15   B
+  PHE   278   A   THR    27   B
+  GLY   292   A   LEU     9   B
+  LEU    26   A   PRO    11   B
+  ALA    28   A   PRO    11   B
+  ARG   290   A   LEU     9   B
+  THR    27   A   PRO    11   B
+  PHE   278   A   GLY    30   B

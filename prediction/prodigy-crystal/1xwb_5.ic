@@ -1,44 +1,43 @@
-  SER    74   A   MET    75   B
-  GLU    64   A   TRP    31   B
-  TRP    31   A   ALA    67   B
-  TRP    31   A   GLU    64   B
-  SER    73   A   SER    73   B
-  THR    30   A   GLU    64   B
-  ASP    61   A   TRP    31   B
-  TRP    31   A   MET    68   B
-  TRP    31   A   ASP    61   B
   MET    68   A   THR    30   B
-  GLY    33   A   ASN    71   B
-  MET    75   A   TRP    31   B
-  THR    30   A   MET    68   B
+  ASP    61   A   ASP    61   B
+  TRP    31   A   ALA    67   B
+  MET    75   A   SER    74   B
   SER    74   A   SER    73   B
-  MET    68   A   TRP    31   B
   TRP    31   A   MET    75   B
-  CYS    32   A   MET    68   B
+  GLY    33   A   ILE    72   B
+  TRP    31   A   GLU    64   B
+  ASP    61   A   VAL    60   B
+  TRP    31   A   MET    68   B
+  PRO    34   A   ASN    71   B
+  MET    68   A   TRP    31   B
+  TRP    31   A   TRP    31   B
   SER    73   A   SER    74   B
   TRP    31   A   SER    73   B
-  ASP    61   A   VAL    60   B
-  PRO    34   A   ASN    71   B
-  TRP    31   A   TRP    31   B
-  GLY    33   A   ILE    72   B
-  MET    75   A   SER    73   B
-  VAL    60   A   TRP    31   B
-  SER    74   A   SER    74   B
-  CYS    32   A   SER    73   B
   GLU    64   A   ASP    61   B
   TRP    31   A   ILE    72   B
-  ILE    72   A   TRP    31   B
-  LYS    36   A   MET    68   B
-  SER    73   A   MET    75   B
-  PRO    34   A   ILE    72   B
+  CYS    32   A   MET    68   B
   ASP    61   A   GLU    64   B
-  TRP    31   A   VAL    60   B
-  MET    68   A   LYS    36   B
-  SER    73   A   TRP    31   B
+  ILE    72   A   TRP    31   B
+  VAL    60   A   TRP    31   B
   PRO    34   A   SER    73   B
-  ILE    72   A   CYS    32   B
+  ASP    61   A   TRP    31   B
+  SER    74   A   SER    74   B
+  MET    75   A   TRP    31   B
+  CYS    32   A   SER    73   B
   GLU    64   A   THR    30   B
-  ALA    67   A   TRP    31   B
-  ASP    61   A   ASP    61   B
-  MET    75   A   SER    74   B
+  MET    75   A   SER    73   B
+  SER    73   A   MET    75   B
+  LYS    36   A   MET    68   B
   CYS    32   A   ILE    72   B
+  SER    73   A   TRP    31   B
+  GLY    33   A   ASN    71   B
+  TRP    31   A   ASP    61   B
+  MET    68   A   LYS    36   B
+  GLU    64   A   TRP    31   B
+  SER    73   A   SER    73   B
+  THR    30   A   GLU    64   B
+  THR    30   A   MET    68   B
+  TRP    31   A   VAL    60   B
+  ILE    72   A   CYS    32   B
+  ALA    67   A   TRP    31   B
+  SER    74   A   MET    75   B

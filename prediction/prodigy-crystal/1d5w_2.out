@@ -1,10 +1,10 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1d5w_2.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1d5w_2.pdb
 [!] Structure contains gaps:
-	B MET1 < Fragment 0 > B THR53
-	B LEU55 < Fragment 1 > B LEU122
-	C MET1 < Fragment 2 > C THR53
-	C LEU55 < Fragment 3 > C LEU122
-[+] Selection: B, C
+	A MET1 < Fragment 0 > A THR53
+	A LEU55 < Fragment 1 > A LEU122
+	B MET1 < Fragment 2 > B THR53
+	B LEU55 < Fragment 3 > B LEU122
+[+] Selection: A, B
 [+] No. of intermolecular contacts: 30
 [+] No. of charged-charged contacts: 3
 [+] No. of charged-polar contacts: 0

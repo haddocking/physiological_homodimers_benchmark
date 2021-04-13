@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/1v4t_4.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1v4t_4.pdb
 [!] Structure contains gaps:
 	A MET1 < Fragment 0 > A HIS142
 	A ASN166 < Fragment 1 > A CYS447

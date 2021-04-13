@@ -1,12 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/3hpn_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3hpn_1.pdb
 [+] Selection: A, B
 [+] No. of intermolecular contacts: 81
 [+] No. of charged-charged contacts: 4
 [+] No. of charged-polar contacts: 6
-[+] No. of charged-apolar contacts: 30
-[+] No. of polar-polar contacts: 7
+[+] No. of charged-apolar contacts: 31
+[+] No. of polar-polar contacts: 6
 [+] No. of apolar-polar contacts: 20
 [+] No. of apolar-apolar contacts: 14
 [+] Link density: 0.08
-[+] Class: BIO 0.592 0.408
+[+] Class: BIO 0.604 0.396
 

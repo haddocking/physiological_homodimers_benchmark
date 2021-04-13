@@ -1,58 +1,57 @@
-  GLU    68   A   TYR    49   B
-  LYS   519   A   GLY    34   B
-  ALA   514   A   VAL   300   B
-  LYS   512   A   LYS   314   B
+  GLU    64   A   ARG   170   B
+  LYS   209   A   GLU   172   B
+  GLN   511   A   VAL   299   B
+  LYS   519   A   LEU    35   B
+  GLU    81   A   ARG   387   B
+  GLY    67   A   THR    50   B
+  HIS   402   A   LYS   314   B
+  SER   515   A   LYS   314   B
   GLN   511   A   PRO   302   B
+  PRO    63   A   PRO    54   B
+  TRP    71   A   SER   313   B
   ARG   408   A   PRO    48   B
-  GLU    64   A   LYS    55   B
-  SER   515   A   VAL    44   B
-  ILE    69   A   PRO    48   B
+  GLU    64   A   ASP    56   B
   HIS   402   A   SER   313   B
   GLN   511   A   VAL   300   B
-  PHE   510   A   PRO   302   B
-  LYS   512   A   VAL   299   B
-  LYS   519   A   LEU    35   B
-  GLU    68   A   PRO    48   B
-  LYS   512   A   SER   313   B
-  LYS   209   A   GLU   172   B
-  ALA   522   A   PRO   302   B
-  ALA   514   A   PRO   302   B
-  GLN   511   A   VAL   299   B
-  LYS   519   A   LEU    29   B
-  GLY    67   A   ARG    52   B
-  GLU    64   A   ASP    56   B
-  GLY    67   A   THR    50   B
-  GLN   511   A   GLN   308   B
-  THR   528   A   GLU   303   B
-  GLY   516   A   ASP    45   B
-  SER   515   A   LEU    35   B
-  LYS   519   A   ARG   305   B
-  TRP    70   A   SER   313   B
-  SER   515   A   LYS   314   B
-  GLY    67   A   GLY    51   B
+  LYS   519   A   GLY    34   B
   HIS   402   A   THR    47   B
-  MET   401   A   PRO    48   B
-  VAL   405   A   PRO    48   B
-  SER   515   A   VAL   299   B
-  GLY    67   A   TYR    49   B
-  PRO    63   A   PRO    54   B
-  GLU    81   A   ARG   387   B
-  LYS   512   A   ASP   311   B
+  ALA   522   A   PRO   302   B
+  ILE    69   A   PRO    48   B
+  GLY    67   A   GLY    51   B
+  LYS   512   A   LYS   314   B
+  TRP    70   A   LYS   314   B
+  GLN   511   A   GLN   308   B
+  LYS   519   A   ARG   305   B
+  ALA   514   A   VAL   300   B
   TRP    71   A   ASP   312   B
-  GLU    64   A   ARG   170   B
-  GLN   511   A   ASN   301   B
-  GLY   516   A   LYS   314   B
-  SER   515   A   VAL   298   B
-  GLY   404   A   THR    47   B
-  PRO    63   A   LYS    55   B
-  SER   515   A   ASP    45   B
-  HIS   402   A   LYS   314   B
+  VAL   405   A   PRO    48   B
+  GLY    67   A   TYR    49   B
+  LYS   512   A   SER   313   B
+  TRP    70   A   SER   313   B
   GLN   180   A   ARG   170   B
+  LYS   512   A   ASP   311   B
+  ARG   408   A   THR    47   B
+  LYS   519   A   LEU    29   B
+  GLY   516   A   ASP    45   B
+  SER   515   A   VAL   299   B
+  GLY    67   A   PRO    48   B
+  ARG   408   A   ASP    45   B
+  THR   528   A   GLU   303   B
+  SER   515   A   VAL    44   B
+  MET   401   A   PRO    48   B
+  SER   515   A   LEU    35   B
+  ALA   514   A   PRO   302   B
+  GLU    68   A   TYR    49   B
+  VAL   405   A   THR    47   B
   SER   515   A   VAL    43   B
   SER   515   A   VAL   300   B
-  ARG   408   A   ASP    45   B
-  TRP    70   A   LYS   314   B
-  TRP    71   A   SER   313   B
-  ARG   408   A   THR    47   B
-  GLY    67   A   PRO    48   B
-  VAL   405   A   THR    47   B
+  LYS   512   A   VAL   299   B
+  GLY   516   A   LYS   314   B
+  SER   515   A   ASP    45   B
+  PRO    63   A   LYS    55   B
+  GLN   511   A   ASN   301   B
+  GLY   404   A   THR    47   B
+  GLU    68   A   PRO    48   B
+  SER   515   A   VAL   298   B
+  GLY    67   A   ARG    52   B
+  GLU    64   A   LYS    55   B

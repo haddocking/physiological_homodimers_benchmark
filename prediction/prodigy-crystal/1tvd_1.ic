@@ -1,54 +1,53 @@
+  ASP   102   A   THR    90   B
+  ASP     9   A   LYS   103   B
   TYR    49   A   TYR    42   B
-  LEU   104   A   TYR    92   B
-  GLY   109   A   LYS   103   B
-  TYR    36   A   PHE    44   B
-  PHE    44   A   LEU   104   B
-  SER    43   A   PHE    46   B
-  PHE    44   A   TYR    36   B
-  PHE    34   A   TYR    42   B
-  TYR    36   A   ILE    38   B
-  PHE    46   A   SER    43   B
-  TYR    42   A   PHE    34   B
   THR    90   A   LYS   103   B
-  LYS   103   A   THR    90   B
+  LEU   104   A   LYS   108   B
   LYS   103   A   ARG   111   B
-  GLN    45   A   PHE    44   B
-  ASP    32   A   TYR    42   B
-  LYS   103   A   ASP     9   B
-  TYR    92   A   ASP   102   B
-  SER    43   A   TYR    36   B
-  LEU   104   A   ILE    38   B
+  LYS   108   A   LYS   103   B
+  TYR    42   A   PHE    34   B
+  LEU   104   A   TYR    92   B
   ASP   102   A   ARG   111   B
+  LYS   103   A   ASP     9   B
+  TYR    36   A   SER    43   B
+  GLN    45   A   PHE    44   B
+  GLY   107   A   LEU   104   B
+  LYS   103   A   THR    90   B
+  PHE    46   A   SER    43   B
+  THR   110   A   LYS   103   B
+  LYS   103   A   TYR    92   B
+  SER    43   A   TYR    36   B
   ASP   102   A   TYR    92   B
   PRO   100   A   ARG   111   B
-  LYS   103   A   LYS   108   B
-  TYR    42   A   TYR    49   B
-  THR   110   A   LYS   103   B
-  PRO   100   A   ASP     9   B
-  TYR    92   A   PHE   106   B
-  TYR    42   A   PHE    46   B
-  LYS   103   A   GLY   109   B
-  TYR    42   A   ASP    32   B
-  PHE   106   A   PHE    44   B
-  LYS   103   A   TYR    92   B
-  TYR    36   A   TYR    42   B
-  PHE   106   A   PHE   106   B
-  PHE    44   A   PHE    44   B
-  PHE    44   A   PHE   106   B
+  TYR    92   A   ASP   102   B
   PHE   106   A   TYR    92   B
-  TYR    42   A   TYR    36   B
-  TYR    36   A   SER    43   B
-  ILE    38   A   LEU   104   B
-  PHE    46   A   TYR    42   B
-  ILE    38   A   TYR    36   B
-  THR   101   A   ARG   111   B
-  LYS   103   A   THR   110   B
+  PRO   100   A   ASP     9   B
+  TYR    36   A   PHE    44   B
+  TYR    36   A   ILE    38   B
+  LYS   103   A   GLY   109   B
   ARG   111   A   LYS   103   B
-  TYR    92   A   LYS   103   B
-  ASP     9   A   LYS   103   B
+  ASP    32   A   TYR    42   B
+  PHE   106   A   PHE    44   B
+  THR   101   A   ARG   111   B
+  TYR    42   A   PHE    46   B
+  LYS   103   A   LYS   108   B
+  TYR    36   A   TYR    42   B
+  LEU   104   A   GLY   107   B
+  PHE    44   A   TYR    36   B
   THR   101   A   ASP     9   B
-  LYS   108   A   LYS   103   B
+  TYR    42   A   TYR    49   B
+  TYR    92   A   LYS   103   B
+  TYR    92   A   PHE   106   B
+  PHE    46   A   TYR    42   B
   TYR    92   A   LEU   104   B
-  LEU   104   A   LYS   108   B
+  PHE   106   A   PHE   106   B
+  GLY   109   A   LYS   103   B
+  SER    43   A   PHE    46   B
+  PHE    44   A   PHE    44   B
   LYS   108   A   LEU   104   B
-  ASP   102   A   THR    90   B
+  LYS   103   A   THR   110   B
+  ILE    38   A   TYR    36   B
+  TYR    42   A   ASP    32   B
+  PHE    34   A   TYR    42   B
+  TYR    42   A   TYR    36   B
+  PHE    44   A   PHE   106   B

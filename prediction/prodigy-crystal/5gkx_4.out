@@ -1,16 +1,16 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5gkx_4.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/5gkx_4.pdb
 [!] Structure contains gaps:
 	A ASN1 < Fragment 0 > A LYS228
 	A ALA231 < Fragment 1 > A LEU259
 	B ASN1 < Fragment 2 > B LEU259
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 105
-[+] No. of charged-charged contacts: 12
-[+] No. of charged-polar contacts: 9
-[+] No. of charged-apolar contacts: 20
+[+] No. of intermolecular contacts: 91
+[+] No. of charged-charged contacts: 13
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 19
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 12
-[+] No. of apolar-apolar contacts: 52
-[+] Link density: 0.07
-[+] Class: BIO 0.98 0.02
+[+] No. of apolar-apolar contacts: 39
+[+] Link density: 0.06
+[+] Class: BIO 0.964 0.036
 

@@ -1,47 +1,48 @@
-  PHE    19   A   PRO   192   B
-  GLN    59   A   GLN   196   B
-  GLN    59   A   PRO   250   B
-  ARG    98   A   GLN   198   B
-  ARG   353   A   PHE    19   B
-  GLY    61   A   GLN   196   B
-  PRO   360   A   ASP    97   B
+  LYS   357   A   ARG    98   B
+  VAL    95   A   GLU   249   B
   GLU   363   A   ASN   127   B
-  LYS   367   A   ASN   127   B
-  GLU   356   A   GLU    23   B
-  ARG    98   A   GLN   252   B
-  GLN    59   A   GLN   198   B
-  PHE    19   A   GLN   124   B
+  LEU    60   A   GLN   196   B
+  LYS   352   A   PHE    19   B
+  GLU   363   A   VAL   195   B
+  GLY    61   A   GLN   196   B
+  GLU   356   A   ARG    98   B
   LYS   367   A   GLN   124   B
+  GLN    55   A   PRO   250   B
+  GLN    59   A   GLN   196   B
+  LYS   357   A   PHE    19   B
+  GLN    59   A   PRO   250   B
+  GLU   356   A   SER    63   B
+  GLN    55   A   GLU   249   B
+  GLU    58   A   GLN   198   B
+  GLN    59   A   GLN   252   B
+  LYS   352   A   GLU    23   B
+  GLY    61   A   GLN   198   B
+  GLU    58   A   GLU   249   B
   GLU   356   A   PHE    19   B
   GLU   349   A   GLN    20   B
-  LYS   352   A   PHE    19   B
-  GLN    59   A   LEU   251   B
-  GLN    55   A   GLU   249   B
-  LYS   357   A   PHE    19   B
-  SER   355   A   GLN   196   B
-  PRO   360   A   ARG   129   B
-  GLN    59   A   GLN   252   B
-  VAL    95   A   GLU   248   B
-  GLU   363   A   VAL   195   B
+  GLN    59   A   GLN   198   B
   THR    96   A   GLU   249   B
-  ASP    97   A   GLU   249   B
-  GLU    58   A   GLN   198   B
-  PRO   360   A   ASN   127   B
-  LEU    60   A   GLN   196   B
-  GLU   356   A   SER    63   B
-  ALA    94   A   GLU   248   B
-  LYS   357   A   ARG    98   B
-  PRO   360   A   SER   126   B
-  VAL    95   A   GLU   249   B
-  GLU   349   A   PHE    19   B
-  GLU    58   A   GLU   249   B
-  GLN    55   A   GLU   248   B
-  LYS   352   A   GLU    23   B
-  LEU    60   A   GLN   198   B
-  GLU   356   A   ARG    98   B
-  GLN    55   A   PRO   250   B
+  VAL    95   A   GLU   248   B
   LYS    51   A   GLU   248   B
-  LYS   352   A   GLY    21   B
+  PHE    19   A   PRO   192   B
   ARG    98   A   GLU   249   B
+  GLU   349   A   PHE    19   B
+  LYS   367   A   ASN   127   B
+  SER   355   A   GLN   196   B
+  ALA    94   A   GLU   248   B
+  ASP    97   A   GLU   249   B
+  GLN    55   A   GLU   248   B
+  MET   359   A   GLN   196   B
+  ARG    98   A   GLN   252   B
+  MET   359   A   ASN   127   B
+  PRO   360   A   ARG   129   B
+  ARG    98   A   GLN   198   B
+  PHE    19   A   GLN   124   B
+  ARG   353   A   PHE    19   B
+  PRO   360   A   ASN   127   B
+  PRO   360   A   ASP    97   B
+  GLU   356   A   GLU    23   B
   ALA   364   A   ASN   127   B
-  GLY    61   A   GLN   198   B
+  LYS   352   A   GLY    21   B
+  LEU    60   A   GLN   198   B
+  PRO   360   A   SER   126   B

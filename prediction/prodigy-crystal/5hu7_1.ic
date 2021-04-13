@@ -1,36 +1,28 @@
-  GLN    65   A   ASP    22   B
-  ASN    19   A   SER    21   B
-  SER    21   A   LEU    26   B
-  LYS    18   A   ASP    10   B
-  LEU    23   A   LEU    26   B
-  ASP    22   A   ALA    67   B
-  ASN    19   A   ASN    19   B
-  LEU    23   A   ALA    66   B
-  THR    20   A   ASN    19   B
-  ILE   101   A   LEU    23   B
-  ASP    22   A   GLY    68   B
-  ASN    19   A   THR    20   B
-  TYR    28   A   ASP    22   B
-  ASP    22   A   GLN    65   B
-  LEU   109   A   LEU    23   B
-  LEU    26   A   SER    21   B
-  ASP    10   A   ASP    10   B
-  ALA    67   A   TYR    24   B
-  ASP    22   A   LEU    26   B
-  ASP    22   A   ALA    66   B
-  ALA    67   A   ASP    22   B
-  LEU    23   A   ALA    67   B
-  ALA    67   A   LEU    23   B
-  SER    21   A   SER    21   B
   TYR    28   A   SER    21   B
-  LEU    23   A   LEU   109   B
+  ALA    67   A   TYR    24   B
+  LEU    23   A   ALA    66   B
+  LEU    26   A   ASP    22   B
+  ASP    22   A   GLY    68   B
+  LYS    18   A   ASP    10   B
+  ALA    66   A   ASP    22   B
   SER    21   A   ASN    19   B
   ASP    10   A   LYS    18   B
-  ALA    66   A   ASP    22   B
-  ASP    10   A   ILE    11   B
-  LEU    23   A   PRO   103   B
-  PHE   134   A   LEU    23   B
-  ALA    66   A   LEU    23   B
-  LEU    26   A   ASP    22   B
+  GLN    65   A   ASP    22   B
+  ASP    22   A   ALA    67   B
+  ASN    19   A   THR    20   B
+  ASP    22   A   GLN    65   B
+  ALA    67   A   ASP    22   B
   SER    21   A   TYR    28   B
+  TYR    28   A   ASP    22   B
+  ASN    19   A   SER    21   B
+  ILE   101   A   LEU    23   B
   LEU    26   A   LEU    23   B
+  ALA    67   A   LEU    23   B
+  LEU    23   A   ALA    67   B
+  ALA    66   A   LEU    23   B
+  ASP    10   A   ASP    10   B
+  THR    20   A   ASN    19   B
+  ASP    22   A   ALA    66   B
+  ASP    22   A   LEU    26   B
+  SER    21   A   SER    21   B
+  ASN    19   A   ASN    19   B

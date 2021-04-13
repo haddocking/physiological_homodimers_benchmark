@@ -1,71 +1,67 @@
-  GLY   306   A   ASN   152   B
-  GLY   291   A   ILE   145   B
+  LEU   305   A   ASP   151   B
+  ASN   175   A   LEU   300   B
+  ASN   282   A   ASN   175   B
+  ASP   151   A   PRO   307   B
+  ASN   175   A   HIS   280   B
+  SER   290   A   ILE   145   B
+  ILE   279   A   ASN   175   B
+  ASN   175   A   ASN   281   B
+  PRO   289   A   VAL   140   B
+  ASN   175   A   ILE   279   B
+  CYS   301   A   ASN   175   B
+  PRO   289   A   GLU   141   B
+  VAL   140   A   HIS   280   B
+  LYS   283   A   VAL   140   B
   SER   290   A   ASN   143   B
-  PRO   307   A   ASN   152   B
-  ASN   281   A   ILE   174   B
-  LYS   197   A   GLU   239   B
+  VAL   146   A   SER   290   B
   LYS   283   A   GLU   141   B
-  ASN   152   A   GLY   306   B
-  PRO   289   A   ASN   143   B
-  ILE   145   A   SER   290   B
+  ASN   281   A   SER   134   B
+  HIS   144   A   SER   290   B
+  GLY   306   A   ASP   151   B
+  LYS   283   A   ASP   138   B
+  PRO   303   A   GLN   177   B
+  VAL   140   A   PRO   289   B
+  GLY   291   A   VAL   146   B
   SER   139   A   LYS   283   B
   ASN   175   A   CYS   301   B
-  SER   290   A   ILE   145   B
-  LEU   305   A   ASP   151   B
-  LYS   283   A   VAL   140   B
-  LEU   300   A   ASN   175   B
-  ILE   285   A   GLU   141   B
-  ILE   174   A   ASN   281   B
-  VAL   140   A   LYS   283   B
-  SER   290   A   HIS   144   B
-  GLU   141   A   PRO   289   B
-  ASN   175   A   ASN   282   B
-  ASN   175   A   LEU   300   B
-  GLU   239   A   LYS   197   B
-  CYS   301   A   ASN   175   B
-  GLY   306   A   ASP   151   B
-  ASN   175   A   ILE   279   B
-  VAL   140   A   ASN   281   B
-  PRO   307   A   ASP   151   B
-  ASN   175   A   HIS   280   B
-  ASP   151   A   CYS   304   B
-  LEU   300   A   GLY   176   B
-  PRO   289   A   GLU   141   B
-  VAL   146   A   SER   290   B
-  ILE   279   A   ASN   175   B
   ILE   145   A   GLY   291   B
-  SER   134   A   ASN   281   B
-  HIS   144   A   SER   290   B
-  HIS   280   A   GLU   141   B
+  GLY   306   A   ASN   152   B
+  VAL   140   A   LYS   283   B
+  ASN   281   A   ILE   174   B
   HIS   280   A   ASN   175   B
+  PRO   289   A   ASN   143   B
+  GLY   291   A   ILE   145   B
   ARG   114   A   ARG   114   B
-  GLY   291   A   VAL   146   B
-  GLY   176   A   LEU   300   B
-  ASN   281   A   SER   134   B
-  ASP   138   A   LYS   283   B
-  ASN   175   A   ASN   281   B
-  LYS   283   A   SER   139   B
-  VAL   140   A   PRO   289   B
-  ILE   174   A   TYR   292   B
-  PRO   289   A   VAL   140   B
-  LYS   283   A   ASP   138   B
-  ASN   281   A   ASN   175   B
-  HIS   280   A   VAL   140   B
-  ASP   151   A   GLY   306   B
-  ASN   282   A   ASN   175   B
-  GLU   141   A   HIS   280   B
-  GLU   141   A   ILE   285   B
-  PRO   303   A   GLN   177   B
-  VAL   140   A   HIS   280   B
-  SER   290   A   VAL   146   B
-  ASN   143   A   SER   290   B
   ASN   281   A   VAL   140   B
-  ASP   151   A   PRO   307   B
-  CYS   304   A   ASP   151   B
-  GLU   141   A   LYS   283   B
-  VAL   146   A   GLY   291   B
+  ASP   138   A   LYS   283   B
+  VAL   140   A   ASN   281   B
+  ILE   174   A   ASN   281   B
+  ASP   151   A   GLY   306   B
+  GLU   141   A   HIS   280   B
+  LEU   300   A   ASN   175   B
+  LYS   197   A   GLU   239   B
+  ILE   285   A   GLU   141   B
   GLN   177   A   PRO   303   B
-  TYR   292   A   ILE   174   B
-  ASN   152   A   PRO   307   B
+  ASP   151   A   CYS   304   B
+  ILE   174   A   TYR   292   B
+  GLU   239   A   LYS   197   B
   ASN   143   A   PRO   289   B
+  SER   290   A   VAL   146   B
+  LYS   283   A   SER   139   B
+  ASN   175   A   ASN   282   B
+  GLU   141   A   ILE   285   B
+  GLU   141   A   PRO   289   B
+  ASN   143   A   SER   290   B
+  VAL   146   A   GLY   291   B
+  SER   134   A   ASN   281   B
+  SER   290   A   HIS   144   B
+  GLU   141   A   LYS   283   B
+  TYR   292   A   ILE   174   B
+  ASN   152   A   GLY   306   B
+  ILE   145   A   SER   290   B
+  HIS   280   A   VAL   140   B
+  CYS   304   A   ASP   151   B
+  HIS   280   A   GLU   141   B
+  PRO   307   A   ASP   151   B
   ASP   151   A   LEU   305   B
+  ASN   281   A   ASN   175   B

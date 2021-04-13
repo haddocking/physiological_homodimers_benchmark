@@ -1,56 +1,56 @@
-  VAL     3   A   LEU    24   B
-  PRO     5   A   LEU    24   B
-  GLN    23   A   PRO     6   B
-  LYS    25   A   PRO     6   B
-  TRP     2   A   LEU    24   B
-  GLU    89   A   TRP     2   B
-  TRP     2   A   ALA    80   B
-  LYS    25   A   MET     4   B
-  SER    26   A   TRP     2   B
-  TRP     2   A   PRO    91   B
-  GLU     1   A   TRP     2   B
-  LYS    25   A   TRP     2   B
+  LEU    24   A   VAL     3   B
+  MET     4   A   LYS    25   B
   VAL    88   A   GLU     1   B
-  ASN    27   A   VAL     3   B
-  HIS    79   A   TRP     2   B
-  GLU     1   A   ASN    27   B
-  TYR    36   A   TRP     2   B
-  GLU    90   A   TRP     2   B
-  LEU    24   A   TRP     2   B
-  PRO     5   A   GLN    23   B
+  PRO    91   A   TRP     2   B
   ASN    27   A   GLU     1   B
-  LYS    28   A   GLU     1   B
-  TRP     2   A   TRP     2   B
+  GLU     1   A   TRP     2   B
+  GLU    89   A   TRP     2   B
+  LYS    25   A   MET     4   B
+  TYR    36   A   TRP     2   B
+  LYS    25   A   GLU     1   B
+  LYS    25   A   PRO     6   B
+  PRO     6   A   GLN    23   B
   GLU     1   A   LYS    25   B
-  VAL     3   A   ASN    27   B
-  TRP     2   A   GLY    78   B
-  GLN    23   A   PRO     5   B
-  LYS    25   A   PRO     5   B
-  TRP     2   A   GLU    89   B
-  SER    26   A   VAL     3   B
-  VAL     3   A   LYS    25   B
+  GLU     1   A   SER    26   B
+  TRP     2   A   TRP     2   B
+  GLN    23   A   PRO     6   B
   PRO     5   A   LYS    25   B
+  TRP     2   A   PRO    91   B
+  LYS    28   A   GLU     1   B
+  TRP     2   A   GLY    78   B
+  PRO     5   A   GLN    23   B
+  SER    26   A   TRP     2   B
+  VAL     3   A   ASN    27   B
+  TRP     2   A   LEU    24   B
+  GLU     1   A   GLU    89   B
+  HIS    79   A   TRP     2   B
+  VAL     3   A   LEU    24   B
+  ASN    27   A   TRP     2   B
+  TRP     2   A   TYR    36   B
+  LEU    24   A   TRP     2   B
+  TRP     2   A   ALA    80   B
   GLU    89   A   GLU     1   B
+  LYS    25   A   PRO     5   B
+  GLU     1   A   LYS    28   B
+  LYS    25   A   TRP     2   B
+  TRP     2   A   MET    92   B
   LYS    25   A   VAL     3   B
   TRP     2   A   GLU    90   B
-  TRP     2   A   LYS    25   B
-  LEU    24   A   PRO     5   B
-  GLY    78   A   TRP     2   B
-  SER    26   A   GLU     1   B
-  GLU     1   A   GLU    89   B
-  TRP     2   A   TYR    36   B
-  TRP     2   A   SER    26   B
-  LYS    25   A   GLU     1   B
-  TRP     2   A   MET    92   B
-  MET     4   A   LYS    25   B
-  LEU    24   A   VAL     3   B
-  ASN    22   A   ASN    22   B
-  MET    92   A   TRP     2   B
-  ALA    80   A   TRP     2   B
   TRP     2   A   HIS    79   B
-  GLU     1   A   SER    26   B
-  GLU     1   A   LYS    28   B
-  PRO     6   A   LYS    25   B
-  PRO    91   A   TRP     2   B
-  PRO     6   A   GLN    23   B
+  TRP     2   A   GLU    89   B
+  GLN    23   A   PRO     5   B
+  MET    92   A   TRP     2   B
+  GLU     1   A   ASN    27   B
+  SER    26   A   VAL     3   B
+  LEU    24   A   PRO     5   B
+  TRP     2   A   LYS    25   B
+  GLU    90   A   TRP     2   B
+  VAL     3   A   LYS    25   B
+  TRP     2   A   SER    26   B
+  ASN    22   A   ASN    22   B
+  GLY    78   A   TRP     2   B
+  ALA    80   A   TRP     2   B
+  ASN    27   A   VAL     3   B
   VAL     3   A   SER    26   B
+  SER    26   A   GLU     1   B
+  PRO     5   A   LEU    24   B

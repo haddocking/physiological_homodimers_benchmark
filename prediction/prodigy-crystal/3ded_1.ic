@@ -1,43 +1,40 @@
-  LYS   106   A   VAL    83   B
   ARG    86   A   GLU    33   B
-  LEU    38   A   GLU    95   B
-  ASP    98   A   ASP    98   B
-  VAL    97   A   LEU    38   B
-  ASP   105   A   ASP   105   B
-  VAL    83   A   VAL    30   B
   GLU    95   A   ARG    32   B
-  ARG   103   A   ASP   100   B
-  LEU    38   A   VAL    83   B
+  ASP   105   A   ASP   100   B
+  LYS   106   A   VAL    83   B
+  ASP    98   A   ASP    98   B
+  VAL    30   A   THR    84   B
   LEU   108   A   ARG    32   B
-  ASP   105   A   ASP    98   B
-  ASP   100   A   ASP   100   B
   VAL    97   A   LYS   106   B
-  LYS   106   A   VAL    97   B
-  LEU    38   A   VAL    96   B
-  GLN    31   A   THR    84   B
-  LYS   106   A   ASP    98   B
-  ARG    32   A   VAL    97   B
-  LEU    38   A   VAL    97   B
-  ASP    98   A   ASP   100   B
-  VAL    97   A   VAL    97   B
-  VAL    30   A   VAL    83   B
   ASP   100   A   ARG   103   B
   THR    84   A   ARG    32   B
-  VAL    83   A   LEU    38   B
-  THR    84   A   VAL    30   B
-  ASP   105   A   ASP   100   B
-  ASP    98   A   LYS   106   B
-  GLU    95   A   LEU    38   B
-  VAL    96   A   LEU    38   B
-  ARG    32   A   LEU   108   B
-  VAL    83   A   LYS   106   B
-  GLU    33   A   ARG    86   B
-  ARG    32   A   THR    84   B
-  LEU    38   A   THR    84   B
-  ARG    32   A   GLU    95   B
-  THR    84   A   GLN    31   B
-  ASP   100   A   ASP   105   B
-  THR    84   A   LEU    38   B
-  ASP   100   A   ASP    98   B
-  VAL    30   A   THR    84   B
+  LYS   106   A   VAL    97   B
+  ARG    32   A   VAL    97   B
+  ASP   105   A   ASP    98   B
+  ASP   105   A   ASP   105   B
   ASP    98   A   ASP   105   B
+  LYS   106   A   ASP    98   B
+  VAL    97   A   LEU    38   B
+  ASP   105   A   MET    99   B
+  ASP   100   A   ASP   100   B
+  VAL    83   A   VAL    30   B
+  VAL    83   A   LYS   106   B
+  ASP    98   A   LYS   106   B
+  LEU    38   A   VAL    83   B
+  GLN    31   A   THR    84   B
+  ARG   103   A   ASP   100   B
+  ARG    32   A   LEU   108   B
+  THR    84   A   VAL    30   B
+  THR    84   A   GLN    31   B
+  ARG    32   A   THR    84   B
+  ARG    32   A   GLU    95   B
+  MET    99   A   ASP   105   B
+  LEU    38   A   VAL    97   B
+  ASP    98   A   ASP   100   B
+  MET    99   A   LYS   106   B
+  VAL    83   A   LEU    38   B
+  ASP   100   A   ASP    98   B
+  ASP   100   A   ASP   105   B
+  GLU    33   A   ARG    86   B
+  VAL    30   A   VAL    83   B
+  LYS   106   A   MET    99   B

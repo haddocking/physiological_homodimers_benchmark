@@ -1,17 +1,17 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2i5p_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2i5p_1_fixed.pdb
 [!] Structure contains gaps:
-	O MET14 < Fragment 0 > O THR192
-	O SER213 < Fragment 1 > O ALA342
-	P MET14 < Fragment 2 > P THR192
-	P SER213 < Fragment 3 > P ALA342
-[+] Selection: O, P
-[+] No. of intermolecular contacts: 143
-[+] No. of charged-charged contacts: 1
+	A MET14 < Fragment 0 > A THR192
+	A SER213 < Fragment 1 > A ALA342
+	B MET14 < Fragment 2 > B THR192
+	B SER213 < Fragment 3 > B ALA342
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 135
+[+] No. of charged-charged contacts: 2
 [+] No. of charged-polar contacts: 9
-[+] No. of charged-apolar contacts: 24
+[+] No. of charged-apolar contacts: 22
 [+] No. of polar-polar contacts: 11
-[+] No. of apolar-polar contacts: 28
-[+] No. of apolar-apolar contacts: 70
+[+] No. of apolar-polar contacts: 26
+[+] No. of apolar-apolar contacts: 65
 [+] Link density: 0.07
 [+] Class: BIO 1.0 0.0
 

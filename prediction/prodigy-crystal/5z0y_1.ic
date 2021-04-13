@@ -1,35 +1,37 @@
-  ILE    28   A   ARG    83   B
-  VAL    25   A   ARG    91   B
-  PRO    23   A   LYS   309   B
-  ILE    29   A   ALA   302   B
-  ARG    91   A   PRO    23   B
-  THR   306   A   PRO    23   B
-  MET    84   A   VAL    25   B
-  LEU    87   A   VAL    25   B
-  ARG    91   A   VAL    25   B
-  THR   306   A   VAL    25   B
-  VAL    25   A   ALA   302   B
-  LYS   309   A   ASP    22   B
-  VAL    25   A   MET    84   B
-  ARG    83   A   ILE    28   B
-  MET    84   A   ILE    28   B
-  LEU    87   A   ILE    28   B
-  ILE    28   A   LEU    87   B
-  SER   111   A   SER   111   B
   ILE    28   A   MET    84   B
-  ARG   255   A   HIS   299   B
-  LEU    87   A   GLU    24   B
-  ALA   305   A   VAL    25   B
+  ILE    29   A   ALA   302   B
+  VAL    25   A   ARG    91   B
   LYS   309   A   PRO    23   B
-  ARG    91   A   GLU    24   B
-  ALA   302   A   VAL    25   B
-  PRO    23   A   THR   306   B
+  LEU    87   A   GLU    24   B
+  LYS   309   A   GLU    24   B
+  THR   306   A   VAL    25   B
+  ALA   305   A   VAL    25   B
+  MET    84   A   ILE    29   B
+  LYS   309   A   ASP    22   B
+  ARG    91   A   VAL    25   B
+  ASP    22   A   THR   306   B
+  MET    84   A   ILE    28   B
   VAL    25   A   ALA   305   B
-  ASP    22   A   LYS   309   B
-  ALA   302   A   ILE    29   B
-  HIS   299   A   ARG   255   B
-  VAL    25   A   THR   306   B
-  GLU    24   A   LEU    87   B
+  ARG    91   A   PRO    23   B
+  PRO    23   A   THR   306   B
+  MET    84   A   VAL    25   B
   PRO    23   A   ARG    91   B
+  GLU    24   A   LEU    87   B
+  ILE    28   A   ARG    83   B
   VAL    25   A   LEU    87   B
+  THR   306   A   PRO    23   B
+  ARG    83   A   ILE    28   B
+  LEU    87   A   VAL    25   B
+  VAL    25   A   THR   306   B
+  ALA   302   A   ILE    29   B
+  SER   111   A   SER   111   B
+  ARG    91   A   GLU    24   B
+  ASP    22   A   LYS   309   B
+  PRO    23   A   LYS   309   B
+  ARG   255   A   LEU   110   B
+  TYR   158   A   TYR   158   B
+  GLU    20   A   THR   306   B
+  ALA   302   A   VAL    25   B
+  VAL    25   A   ALA   302   B
+  VAL    25   A   MET    84   B
   GLU    24   A   ARG    91   B

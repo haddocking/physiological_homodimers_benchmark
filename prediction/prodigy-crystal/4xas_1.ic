@@ -1,28 +1,27 @@
-  ASN   155   A   LEU   101   B
-  ARG   179   A   GLN   152   B
-  ARG   158   A   GLU   102   B
-  ASP    97   A   ARG   179   B
-  LEU   101   A   ASN   155   B
-  THR    98   A   ARG   179   B
-  GLU   102   A   ARG   158   B
-  THR    98   A   LEU   159   B
+  ARG   245   A   SER   178   B
   LYS   242   A   GLU   224   B
-  LEU   156   A   LEU   101   B
-  ARG   158   A   THR    98   B
-  LEU   159   A   LEU   101   B
+  LEU   101   A   ASN   155   B
   LYS    96   A   SER   178   B
-  LEU   105   A   PHE   160   B
-  LEU   159   A   GLU   102   B
-  GLN   152   A   ASN   155   B
-  LEU   105   A   LEU   159   B
-  GLU   102   A   LEU   159   B
-  LEU   159   A   LEU   105   B
-  ARG   179   A   ASP    97   B
-  ASN   155   A   GLN   152   B
-  THR    98   A   SER   178   B
-  LEU   156   A   LEU   156   B
-  THR    98   A   ARG   158   B
-  LEU   159   A   THR    98   B
+  ARG   245   A   ASP   176   B
+  SER   178   A   LYS    96   B
   PHE   160   A   LEU   105   B
   ARG   179   A   THR    98   B
+  THR    98   A   ARG   158   B
+  LEU   105   A   LEU   159   B
+  LEU   159   A   LEU   101   B
+  ARG   158   A   GLU   102   B
+  LEU   105   A   PHE   160   B
   LEU   101   A   LEU   159   B
+  GLU   102   A   ARG   158   B
+  ASN   155   A   GLN   152   B
+  ARG   179   A   GLN   152   B
+  GLU   102   A   LEU   159   B
+  ASN   155   A   LEU   101   B
+  ASP    97   A   ARG   179   B
+  ARG   158   A   THR    98   B
+  GLU   224   A   LYS   242   B
+  THR    98   A   ARG   179   B
+  LEU   159   A   LEU   105   B
+  GLN   152   A   ASN   155   B
+  ARG   179   A   ASP    97   B
+  THR    98   A   SER   178   B

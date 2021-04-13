@@ -1,49 +1,22 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/2vj4_7.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2vj4_7.pdb
 [!] Structure contains gaps:
-	A SER3 < Fragment 0 > A HIS27
-	A ILE29 < Fragment 1 > A LEU32
-	A ARG34 < Fragment 2 > A LEU36
-	A ASP38 < Fragment 3 > A LEU50
-	A ARG52 < Fragment 4 > A PHE54
-	A ASP56 < Fragment 5 > A GLU70
-	A ASP72 < Fragment 6 > A THR82
-	A ILE84 < Fragment 7 > A GLU93
-	A SER95 < Fragment 8 > A ALA106
-	A LEU108 < Fragment 9 > A ASN111
-	A LEU115 < Fragment 10 > A GLU168
-	A PRO170 < Fragment 11 > A SER182
-	A LEU184 < Fragment 12 > A ILE187
-	A MET189 < Fragment 13 > A MET198
-	A LEU201 < Fragment 14 > A LEU207
-	A ASP209 < Fragment 15 > A PHE267
-	A SER269 < Fragment 16 > A TYR288
-	A GLU291 < Fragment 17 > A ARG294
-	B SER3 < Fragment 18 > B HIS27
-	B ILE29 < Fragment 19 > B LEU32
-	B ARG34 < Fragment 20 > B LEU36
-	B ASP38 < Fragment 21 > B LEU50
-	B ARG52 < Fragment 22 > B PHE54
-	B ASP56 < Fragment 23 > B GLU70
-	B ASP72 < Fragment 24 > B THR82
-	B ILE84 < Fragment 25 > B GLU93
-	B SER95 < Fragment 26 > B ALA106
-	B LEU108 < Fragment 27 > B ASN111
-	B LEU115 < Fragment 28 > B GLU168
-	B PRO170 < Fragment 29 > B SER182
-	B LEU184 < Fragment 30 > B ILE187
-	B MET189 < Fragment 31 > B MET198
-	B LEU201 < Fragment 32 > B LEU207
-	B ASP209 < Fragment 33 > B PHE267
-	B SER269 < Fragment 34 > B TYR288
-	B GLU291 < Fragment 35 > B ARG294
+	A SER3 < Fragment 0 > A LEU36
+	A ASP38 < Fragment 1 > A GLU168
+	A PRO170 < Fragment 2 > A MET198
+	A LEU201 < Fragment 3 > A TYR288
+	A GLU291 < Fragment 4 > A ARG294
+	B SER3 < Fragment 5 > B GLU168
+	B PRO170 < Fragment 6 > B MET198
+	B LEU201 < Fragment 7 > B TYR288
+	B GLU291 < Fragment 8 > B ARG294
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 50
+[+] No. of intermolecular contacts: 40
 [+] No. of charged-charged contacts: 5
-[+] No. of charged-polar contacts: 8
-[+] No. of charged-apolar contacts: 8
+[+] No. of charged-polar contacts: 6
+[+] No. of charged-apolar contacts: 6
 [+] No. of polar-polar contacts: 2
-[+] No. of apolar-polar contacts: 4
-[+] No. of apolar-apolar contacts: 23
-[+] Link density: 0.12
-[+] Class: XTAL 0.468 0.532
+[+] No. of apolar-polar contacts: 2
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.10
+[+] Class: XTAL 0.316 0.684
 

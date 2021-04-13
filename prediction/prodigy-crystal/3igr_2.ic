@@ -1,60 +1,55 @@
+  TRP   182   A   TYR   164   B
+  PHE    94   A   LEU   163   B
+  GLU   156   A   ALA   159   B
   ALA   159   A   ARG   132   B
-  GLU   156   A   LEU   174   B
-  LYS   160   A   GLU   156   B
-  LEU   163   A   PHE    94   B
-  PHE    92   A   LYS    40   B
-  HIS   131   A   LYS   161   B
-  PHE    94   A   TYR   162   B
-  LYS    40   A   PHE    92   B
-  ILE   178   A   LYS   161   B
-  LYS   160   A   ILE   178   B
-  LEU   174   A   GLU   156   B
-  PRO    93   A   TYR   162   B
-  ARG   132   A   LYS   160   B
-  PRO    93   A   LEU   163   B
-  TRP   182   A   TRP   169   B
-  TYR   162   A   PHE    94   B
-  PRO   184   A   TYR   164   B
-  ARG   132   A   TYR   162   B
+  GLU   156   A   GLU   156   B
+  HIS   131   A   TRP   169   B
+  PRO    93   A   TYR   164   B
   TYR   164   A   PRO    93   B
   TYR   164   A   TRP   182   B
-  ASP   180   A   LYS   161   B
-  PRO    39   A   PRO    93   B
-  PRO    93   A   PRO    39   B
-  GLY   157   A   GLY   157   B
-  PHE    92   A   PRO    39   B
-  ALA   159   A   GLU   156   B
-  PRO    39   A   PHE    92   B
-  GLU   156   A   ALA   159   B
-  GLU   156   A   LYS   160   B
-  TYR   164   A   PRO   184   B
-  LYS   161   A   HIS   131   B
-  PHE    94   A   LEU   163   B
-  GLU   156   A   GLY   157   B
-  TYR   162   A   ARG   132   B
-  ILE   178   A   LYS   160   B
-  PRO    93   A   TYR   164   B
-  LYS   160   A   ARG   132   B
-  PRO    93   A   TRP   169   B
-  GLY   157   A   GLU   156   B
+  LYS   160   A   GLU   156   B
   ASN    88   A   ASN    88   B
+  PRO    93   A   TYR   162   B
+  PRO   184   A   TYR   164   B
+  GLY   157   A   GLY   157   B
   GLU   158   A   GLU   156   B
-  TRP   169   A   TRP   182   B
-  PHE    92   A   TYR   164   B
-  LEU   163   A   PRO    93   B
-  HIS   131   A   TRP   169   B
-  LYS   161   A   ILE   178   B
-  GLU   156   A   GLU   156   B
-  HIS    95   A   TRP   169   B
+  PHE    94   A   TYR   162   B
   TYR   164   A   PHE    92   B
-  LEU   174   A   LEU   174   B
-  ARG   132   A   ALA   159   B
+  LYS    40   A   PHE    92   B
+  TYR   162   A   ARG   132   B
+  TRP   182   A   TRP   169   B
+  ARG   132   A   TYR   162   B
   TRP   169   A   HIS    95   B
-  PHE    94   A   TRP   169   B
-  TRP   169   A   HIS   131   B
-  TRP   182   A   TYR   164   B
-  GLU   156   A   GLU   158   B
-  TYR   162   A   PRO    93   B
+  ILE   178   A   LYS   160   B
+  GLU   156   A   GLY   157   B
+  PHE    92   A   PRO    39   B
+  HIS   131   A   LYS   161   B
   TRP   169   A   PRO    93   B
+  TRP   169   A   TRP   182   B
+  ALA   159   A   GLU   156   B
   TRP   169   A   PHE    94   B
+  TRP   169   A   HIS   131   B
+  PRO    39   A   PRO    93   B
+  LYS   160   A   ILE   178   B
+  ARG   132   A   ALA   159   B
+  GLU   156   A   GLU   158   B
   LYS   161   A   ASP   180   B
+  PRO    93   A   PRO    39   B
+  LYS   160   A   ARG   132   B
+  TYR   164   A   PRO   184   B
+  PRO    39   A   PHE    92   B
+  TYR   162   A   PRO    93   B
+  ARG   132   A   LYS   160   B
+  PRO    93   A   TRP   169   B
+  ASP   180   A   LYS   161   B
+  TYR   162   A   PHE    94   B
+  LEU   163   A   PRO    93   B
+  PHE    94   A   TRP   169   B
+  PHE    92   A   TYR   164   B
+  GLU   156   A   LYS   160   B
+  LEU   163   A   PHE    94   B
+  GLY   157   A   GLU   156   B
+  HIS    95   A   TRP   169   B
+  LYS   161   A   HIS   131   B
+  PHE    92   A   LYS    40   B
+  PRO    93   A   LEU   163   B

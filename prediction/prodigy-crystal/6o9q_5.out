@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/6o9q_5.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/6o9q_5.pdb
 [!] Structure contains gaps:
 	A PRO33 < Fragment 0 > A THR464
 	A LEU475 < Fragment 1 > A GLN537
@@ -7,10 +7,10 @@
 	B LEU475 < Fragment 4 > B GLN537
 	B ALA545 < Fragment 5 > B LEU563
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 66
+[+] No. of intermolecular contacts: 65
 [+] No. of charged-charged contacts: 22
-[+] No. of charged-polar contacts: 10
-[+] No. of charged-apolar contacts: 16
+[+] No. of charged-polar contacts: 11
+[+] No. of charged-apolar contacts: 14
 [+] No. of polar-polar contacts: 10
 [+] No. of apolar-polar contacts: 6
 [+] No. of apolar-apolar contacts: 2

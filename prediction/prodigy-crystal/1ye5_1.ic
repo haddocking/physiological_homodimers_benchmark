@@ -1,74 +1,70 @@
-  LYS    89   A   LEU    52   B
-  PHE    60   A   ALA    77   B
-  MET    96   A   ILE   100   B
-  GLN    82   A   ALA    50   B
-  PHE    60   A   ASP    74   B
-  LYS    89   A   LYS    53   B
-  ILE    39   A   ALA    77   B
-  ILE    56   A   GLN    82   B
-  LYS    89   A   ALA    50   B
-  ALA    77   A   LEU    46   B
-  THR    47   A   ALA    80   B
-  ALA    77   A   TYR    43   B
-  GLU    97   A   MET    96   B
-  MET    96   A   VAL    40   B
-  LEU    72   A   VAL    40   B
-  ALA    85   A   ALA    50   B
-  ILE    56   A   ILE    78   B
-  TYR    43   A   ILE    99   B
-  ALA    81   A   THR    47   B
-  MET    96   A   ARG    44   B
-  GLU    84   A   ARG    44   B
-  LYS    64   A   ASP    74   B
-  GLU    57   A   ILE    78   B
-  ALA    85   A   TYR    51   B
-  ARG    44   A   MET    96   B
-  ILE    88   A   THR    47   B
-  ALA    50   A   ALA    85   B
-  TYR    43   A   MET    96   B
-  ASP    74   A   ILE    39   B
-  ASP    95   A   ARG    44   B
   ALA    80   A   THR    47   B
-  ILE   100   A   TYR    43   B
-  ILE    78   A   LEU    46   B
+  THR    47   A   GLU    84   B
   ILE    78   A   ILE    56   B
-  GLU    57   A   GLN    82   B
-  TYR    43   A   ALA    77   B
+  ILE    78   A   GLU    57   B
+  ALA    81   A   THR    47   B
+  GLN    82   A   ILE    56   B
   TYR    43   A   ALA    81   B
-  LYS    89   A   TYR    51   B
-  ALA    81   A   LEU    46   B
+  MET    96   A   VAL    40   B
+  PHE    60   A   ASP    74   B
+  ALA    50   A   ALA    85   B
+  GLU    84   A   ARG    44   B
+  GLU    57   A   ILE    78   B
+  TYR    43   A   MET    96   B
+  MET    96   A   GLU    97   B
+  LYS    64   A   ASP    74   B
+  THR    47   A   ALA    80   B
+  LYS    89   A   LYS    53   B
+  ASP    74   A   PHE    60   B
   ALA    81   A   ILE    56   B
-  ALA    81   A   TYR    43   B
+  ALA    85   A   TYR    51   B
+  LYS    89   A   TYR    51   B
   PHE    60   A   ILE    78   B
-  LEU    72   A   LEU    72   B
-  VAL    40   A   LEU    72   B
-  TYR    43   A   ILE   100   B
-  MET    96   A   TYR    43   B
-  ASP    74   A   LYS    64   B
   LEU    72   A   ILE    39   B
-  ALA    80   A   TYR    43   B
-  ILE    99   A   TYR    43   B
-  ALA    77   A   PHE    60   B
-  ILE    39   A   LEU    72   B
   ARG    44   A   GLU    84   B
+  LEU    73   A   ILE    39   B
+  ILE    39   A   LEU    72   B
+  GLN    82   A   ALA    50   B
+  ILE    56   A   ALA    81   B
+  TYR    43   A   ILE    99   B
+  ILE    56   A   ILE    78   B
+  MET    96   A   MET    96   B
+  ALA    80   A   TYR    43   B
+  ALA    85   A   THR    47   B
+  ALA    77   A   ILE    39   B
+  ALA    81   A   LEU    46   B
+  ALA    81   A   ALA    50   B
+  MET    96   A   ILE   100   B
+  ALA    81   A   TYR    43   B
   TYR    43   A   GLU    84   B
+  LEU    46   A   ALA    81   B
+  MET    96   A   TYR    43   B
+  ILE   100   A   TYR    43   B
+  TYR    43   A   ALA    77   B
   GLU    84   A   THR    47   B
   THR    47   A   ALA    81   B
-  ILE    56   A   ALA    81   B
-  ILE    39   A   ASP    74   B
-  ALA    81   A   ALA    50   B
-  GLN    82   A   ILE    56   B
-  ALA    85   A   THR    47   B
-  MET    96   A   MET    96   B
-  MET    96   A   GLU    97   B
   THR    47   A   ALA    85   B
   VAL    40   A   MET    96   B
-  ALA    77   A   ILE    39   B
+  MET    96   A   ARG    44   B
   ILE    88   A   TYR    51   B
-  ASP    74   A   PHE    60   B
+  PHE    60   A   ALA    77   B
+  LEU    72   A   LEU    72   B
   TYR    43   A   ALA    80   B
-  LEU    46   A   ALA    81   B
-  ILE    78   A   PHE    60   B
   GLU    84   A   TYR    43   B
-  ILE    78   A   GLU    57   B
-  THR    47   A   GLU    84   B
+  ASP    74   A   LYS    64   B
+  ALA    77   A   PHE    60   B
+  LYS    89   A   LEU    52   B
+  ILE    78   A   PHE    60   B
+  GLU    97   A   MET    96   B
+  ALA    85   A   ALA    50   B
+  ILE    56   A   GLN    82   B
+  LYS    89   A   ALA    50   B
+  ASP    74   A   ILE    39   B
+  LEU    94   A   ARG    44   B
+  ASP    95   A   ARG    44   B
+  ALA    77   A   TYR    43   B
+  TYR    43   A   ILE   100   B
+  ILE    99   A   TYR    43   B
+  ARG    44   A   MET    96   B
+  ILE    39   A   ALA    77   B
+  GLU    57   A   GLN    82   B

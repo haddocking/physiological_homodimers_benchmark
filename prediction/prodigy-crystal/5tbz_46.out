@@ -1,21 +1,22 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5tbz_46.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/5tbz_46.pdb
 [!] Structure contains gaps:
 	A ALA23 < Fragment 0 > A GLU42
 	A LYS66 < Fragment 1 > A LEU139
 	A ILE159 < Fragment 2 > A HIS936
-	A ALA941 < Fragment 3 > A MET1370
-	B ALA23 < Fragment 4 > B GLU42
-	B LYS66 < Fragment 5 > B LEU139
-	B ILE159 < Fragment 6 > B HIS936
-	B ALA941 < Fragment 7 > B MET1370
+	A ALA941 < Fragment 3 > A PHE1199
+	A ALA1300 < Fragment 4 > A MET1370
+	B ALA23 < Fragment 5 > B GLU42
+	B LYS66 < Fragment 6 > B LEU139
+	B ILE159 < Fragment 7 > B HIS936
+	B ALA941 < Fragment 8 > B MET1370
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 235
-[+] No. of charged-charged contacts: 41
-[+] No. of charged-polar contacts: 18
-[+] No. of charged-apolar contacts: 100
+[+] No. of intermolecular contacts: 186
+[+] No. of charged-charged contacts: 34
+[+] No. of charged-polar contacts: 17
+[+] No. of charged-apolar contacts: 72
 [+] No. of polar-polar contacts: 3
-[+] No. of apolar-polar contacts: 40
-[+] No. of apolar-apolar contacts: 33
-[+] Link density: 0.03
-[+] Class: BIO 0.924 0.076
+[+] No. of apolar-polar contacts: 37
+[+] No. of apolar-apolar contacts: 23
+[+] Link density: 0.04
+[+] Class: BIO 0.748 0.252
 

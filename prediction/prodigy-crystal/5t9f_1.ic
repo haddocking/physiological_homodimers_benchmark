@@ -1,17 +1,14 @@
-  GLU    45   A   LYS    26   B
-  LEU    46   A   GLU    45   B
-  GLN    49   A   GLN    49   B
-  ARG    56   A   ARG   221   B
-  LEU    48   A   LYS    26   B
-  GLU    45   A   LEU    46   B
-  GLN    49   A   LEU    46   B
-  GLU    45   A   MET    50   B
-  GLN    49   A   MET    50   B
-  GLN    22   A   GLU    45   B
-  GLN    49   A   LYS    26   B
   LEU    46   A   LEU    46   B
-  LYS    26   A   GLU    45   B
+  GLU    45   A   MET    50   B
   GLU    45   A   GLN    22   B
-  ASP    42   A   ARG   221   B
-  LEU    46   A   GLN    49   B
+  GLN    49   A   LYS    26   B
   MET    50   A   GLN    49   B
+  GLU    45   A   LYS    26   B
+  GLU    45   A   LEU    46   B
+  ASP    42   A   ARG   221   B
+  LYS    26   A   GLU    45   B
+  GLN    49   A   MET    50   B
+  ARG    56   A   ARG   221   B
+  LEU    46   A   GLU    45   B
+  GLN    22   A   GLU    45   B
+  GLN    49   A   GLN    49   B

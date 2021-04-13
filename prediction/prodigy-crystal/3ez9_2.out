@@ -1,25 +1,25 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3ez9_2.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3ez9_2.pdb
 [!] Structure contains gaps:
-	B MET3 < Fragment 0 > B ASN36
-	B TYR41 < Fragment 1 > B LEU119
-	B THR126 < Fragment 2 > B LEU164
-	B GLU175 < Fragment 3 > B LYS319
-	B LYS323 < Fragment 4 > B PRO347
-	B ALA374 < Fragment 5 > B GLU401
-	A MET3 < Fragment 6 > A ASN36
-	A TYR41 < Fragment 7 > A LEU119
-	A THR126 < Fragment 8 > A LEU164
-	A GLU175 < Fragment 9 > A LYS319
-	A LYS323 < Fragment 10 > A PRO347
-	A ALA374 < Fragment 11 > A GLU401
-[+] Selection: B, A
-[+] No. of intermolecular contacts: 130
+	A MET3 < Fragment 0 > A ASN36
+	A TYR41 < Fragment 1 > A LEU119
+	A THR126 < Fragment 2 > A LEU164
+	A GLU175 < Fragment 3 > A LYS319
+	A LYS323 < Fragment 4 > A PRO347
+	A ALA374 < Fragment 5 > A GLU401
+	B MET3 < Fragment 6 > B ASN36
+	B TYR41 < Fragment 7 > B LEU119
+	B THR126 < Fragment 8 > B LEU164
+	B GLU175 < Fragment 9 > B LYS319
+	B LYS323 < Fragment 10 > B PRO347
+	B ALA374 < Fragment 11 > B GLU401
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 116
 [+] No. of charged-charged contacts: 12
 [+] No. of charged-polar contacts: 12
 [+] No. of charged-apolar contacts: 40
 [+] No. of polar-polar contacts: 2
 [+] No. of apolar-polar contacts: 12
-[+] No. of apolar-apolar contacts: 52
-[+] Link density: 0.04
+[+] No. of apolar-apolar contacts: 38
+[+] Link density: 0.05
 [+] Class: BIO 0.972 0.028
 

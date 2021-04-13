@@ -1,57 +1,55 @@
-  PHE   274   A   CYS    10   B
-  CYS    10   A   TYR   279   B
-  SER     8   A   PHE   274   B
-  TYR   279   A   GLU    67   B
-  SER   282   A   PHE    70   B
-  GLN    72   A   TYR   279   B
-  THR   283   A   SER     8   B
-  PHE   274   A   SER     8   B
-  SER   282   A   VAL     9   B
-  THR   283   A   PHE    70   B
-  SER     8   A   THR   283   B
-  THR   283   A   VAL     9   B
-  PHE   274   A   VAL     9   B
-  ASP   275   A   LYS     5   B
-  VAL     9   A   PHE   274   B
+  CYS    10   A   THR   283   B
   GLY   273   A   SER     8   B
-  PHE     7   A   TYR   279   B
-  LEU    14   A   TYR   279   B
-  GLU    67   A   GLU    67   B
-  PHE    70   A   PHE    70   B
+  VAL     9   A   PHE   274   B
+  SER     8   A   HIS   272   B
+  THR   283   A   SER     8   B
+  TYR   279   A   LEU    14   B
+  TYR   279   A   GLN    72   B
+  TYR   279   A   SER    66   B
+  GLN    72   A   TYR   279   B
+  PHE     7   A   ASP   275   B
+  SER     8   A   THR   283   B
+  SER   282   A   PHE    70   B
+  PHE    73   A   PRO   286   B
+  ASP   275   A   LYS     5   B
+  TYR   279   A   GLU    67   B
+  PHE   274   A   SER     8   B
+  SER     8   A   TYR   279   B
+  LYS     5   A   ASP   275   B
+  VAL     9   A   SER   282   B
+  LYS    68   A   GLU    67   B
+  VAL     9   A   TYR   279   B
+  THR   283   A   VAL     9   B
+  TYR   279   A   SER     8   B
+  SER     8   A   GLY   273   B
+  SER   277   A   PHE     7   B
+  CYS    10   A   TYR   279   B
+  TYR   279   A   ASP    63   B
+  PHE   274   A   CYS    10   B
+  PHE    70   A   SER   282   B
   PHE   280   A   SER     8   B
+  PHE   274   A   VAL     9   B
+  SER    66   A   TYR   279   B
+  GLU    67   A   GLU    67   B
   TYR   279   A   CYS    10   B
   PRO   286   A   PHE    73   B
-  SER     8   A   TYR   279   B
-  TYR   279   A   GLN    72   B
+  HIS   272   A   SER     8   B
   GLU    67   A   LYS    68   B
   ASP    63   A   TYR   279   B
-  VAL     9   A   SER   282   B
-  PHE     7   A   SER   277   B
-  ASP   275   A   PHE     7   B
-  SER     8   A   HIS   272   B
-  TYR   279   A   SER     8   B
-  TYR   279   A   SER    66   B
-  VAL     9   A   TYR   279   B
-  TYR   279   A   ASP    63   B
-  PHE    70   A   SER   282   B
-  PHE    73   A   PRO   286   B
-  TYR   279   A   VAL     9   B
-  SER     8   A   GLY   273   B
-  CYS    10   A   PHE   274   B
-  HIS   272   A   SER     8   B
-  ASN    31   A   TYR   279   B
-  VAL     9   A   THR   283   B
-  SER   277   A   PHE     7   B
-  CYS    10   A   THR   283   B
-  LYS     5   A   ASP   275   B
-  PHE     7   A   ASP   275   B
-  SER    66   A   TYR   279   B
-  PHE    70   A   THR   283   B
-  GLU    67   A   TYR   279   B
-  TYR   279   A   ASN    31   B
-  TYR   279   A   LEU    14   B
-  LYS    68   A   GLU    67   B
-  TYR   279   A   PHE     7   B
   SER     8   A   PHE   280   B
+  SER   282   A   VAL     9   B
   LYS    68   A   LYS    68   B
+  TYR   279   A   VAL     9   B
+  LEU    14   A   TYR   279   B
+  ASP   275   A   PHE     7   B
+  CYS    10   A   PHE   274   B
+  GLU    67   A   TYR   279   B
+  ASN    31   A   TYR   279   B
+  TYR   279   A   PHE     7   B
+  PHE     7   A   SER   277   B
+  VAL     9   A   THR   283   B
+  TYR   279   A   ASN    31   B
+  PHE     7   A   TYR   279   B
   THR   283   A   CYS    10   B
+  PHE    70   A   PHE    70   B
+  SER     8   A   PHE   274   B

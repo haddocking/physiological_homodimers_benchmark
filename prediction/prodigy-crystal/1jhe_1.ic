@@ -1,49 +1,47 @@
-  ILE    56   A   ARG   130   B
   VAL   128   A   ARG   130   B
-  ILE    56   A   MET    59   B
-  ILE   129   A   PHE    38   B
+  ARG   130   A   GLY    57   B
   ASN   131   A   PHE    38   B
-  VAL   126   A   ARG   130   B
-  MET    59   A   ILE    56   B
-  ILE    58   A   ARG   130   B
-  TYR    31   A   LEU    37   B
-  PHE    38   A   ASN   131   B
-  MET    59   A   GLY    57   B
-  GLN    32   A   LEU    37   B
-  ASN   131   A   LEU    37   B
-  ASP    55   A   MET    59   B
-  LEU    37   A   GLN    32   B
-  PHE    38   A   ARG   130   B
-  GLN    32   A   ASP    34   B
   VAL   128   A   VAL   128   B
-  LYS    54   A   LYS    54   B
-  GLN    32   A   GLN    32   B
-  ARG   130   A   VAL   126   B
-  ASP    55   A   LYS    54   B
-  GLN    32   A   VAL    33   B
-  ARG   130   A   PHE    38   B
-  ARG   130   A   GLY   127   B
-  GLY   127   A   ASN   131   B
-  MET    59   A   ASP    55   B
-  GLY    57   A   ARG   130   B
-  VAL    33   A   LEU    37   B
-  LEU    37   A   VAL    33   B
-  ARG   130   A   ARG   130   B
-  GLY    57   A   MET    59   B
+  PHE    38   A   ARG   130   B
+  ASP    34   A   GLN    32   B
   ARG   130   A   ILE    58   B
+  VAL    33   A   LEU    37   B
   VAL   128   A   ILE   129   B
-  ILE   129   A   VAL   128   B
+  ARG   130   A   PHE    38   B
+  VAL   126   A   ASN   131   B
+  GLY    57   A   MET    59   B
+  ASP    55   A   LYS    54   B
+  ILE   129   A   ILE   129   B
+  TYR    31   A   LEU    37   B
+  GLY   127   A   ARG   130   B
+  ILE    56   A   ARG   130   B
+  GLY    57   A   GLY    57   B
+  LYS    54   A   LYS    54   B
+  ARG   130   A   ARG   130   B
+  ILE    58   A   ARG   130   B
+  GLN    32   A   GLN    32   B
+  MET    59   A   ILE    56   B
+  PHE    38   A   ASN   131   B
+  LEU    37   A   VAL    33   B
+  ASN   131   A   VAL   126   B
+  ARG   130   A   VAL   128   B
+  VAL    33   A   GLN    32   B
+  ARG   130   A   GLY   127   B
+  ILE   129   A   PHE    38   B
+  VAL   126   A   ARG   130   B
+  GLN    32   A   VAL    33   B
+  ASP    55   A   MET    59   B
+  ARG   130   A   VAL   126   B
+  GLY   127   A   ASN   131   B
+  VAL    33   A   VAL    33   B
+  GLY    57   A   ARG   130   B
+  MET    59   A   GLY    57   B
+  GLN    32   A   ASP    34   B
+  ASN   131   A   LEU    37   B
   VAL    33   A   ASP    34   B
+  MET    59   A   ASP    55   B
   LEU    37   A   TYR    31   B
   ARG   130   A   ILE    56   B
-  VAL   126   A   ASN   131   B
-  VAL    33   A   GLN    32   B
-  GLY    57   A   GLY    57   B
-  ASN   131   A   VAL   126   B
-  VAL    33   A   VAL    33   B
-  ARG   130   A   GLY    57   B
+  ILE   129   A   VAL   128   B
+  ILE    56   A   MET    59   B
   LEU    37   A   ASN   131   B
-  ASP    34   A   GLN    32   B
-  GLY   127   A   ARG   130   B
-  ARG   130   A   VAL   128   B
-  ILE   129   A   ILE   129   B

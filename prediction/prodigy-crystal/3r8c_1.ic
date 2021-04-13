@@ -1,42 +1,41 @@
+  ASP    52   A   GLY    97   B
   LEU    47   A   ASN    93   B
-  ALA   101   A   THR    54   B
-  ASP    55   A   LEU   184   B
-  GLY    97   A   ASP    52   B
-  ASP    52   A   SER   100   B
-  ASN    93   A   ARG    48   B
-  ALA    98   A   VAL    51   B
-  GLY    97   A   GLY    50   B
-  SER   100   A   THR    54   B
-  THR    54   A   ALA   101   B
   ARG    48   A   GLU    94   B
   ASP    55   A   ARG   180   B
-  SER   100   A   ASP    52   B
-  LEU    53   A   ALA    98   B
-  GLU    94   A   ARG    48   B
-  ALA    98   A   LEU    53   B
   ARG    48   A   ASN    93   B
-  ASN    93   A   ALA    49   B
-  ASN    93   A   GLY    50   B
-  THR    54   A   SER   100   B
-  GLY    50   A   GLU    94   B
-  THR    96   A   GLY    50   B
-  ASN    93   A   LEU    47   B
-  GLY    50   A   GLY    97   B
+  ALA   101   A   THR    54   B
+  THR    54   A   ALA   101   B
   GLY    97   A   LEU    53   B
-  ALA    57   A   ARG   180   B
-  ASN    93   A   VAL    51   B
-  VAL    51   A   GLY    97   B
-  ALA    49   A   ASN    93   B
-  ASP    52   A   ALA   101   B
-  GLY    50   A   THR    96   B
-  GLY    50   A   ASN    93   B
-  ASP    52   A   LEU   184   B
-  GLU    94   A   GLY    50   B
-  LEU    53   A   ALA   101   B
-  LEU    47   A   GLU    94   B
   GLU    94   A   LEU    47   B
-  ASP    52   A   GLY    97   B
-  GLY    97   A   THR    54   B
-  LEU    53   A   GLY    97   B
+  ASN    93   A   ALA    49   B
   GLY    97   A   VAL    51   B
-  LEU    53   A   LEU    53   B
+  VAL    51   A   ALA    98   B
+  GLY    50   A   ASN    93   B
+  ARG   180   A   ALA    61   B
+  GLU    94   A   GLY    50   B
+  ASP    52   A   SER   100   B
+  GLY    97   A   GLY    50   B
+  GLY    50   A   ARG   181   B
+  LEU    53   A   ALA    98   B
+  GLY    50   A   THR    96   B
+  ASN    93   A   ARG    48   B
+  ALA    49   A   ASN    93   B
+  ASP    55   A   LEU   184   B
+  LEU    47   A   GLU    94   B
+  LEU    53   A   ALA   101   B
+  GLY    97   A   ASP    52   B
+  VAL    51   A   GLY    97   B
+  THR    96   A   GLY    50   B
+  SER   100   A   THR    54   B
+  ASP    52   A   ALA   101   B
+  ALA    98   A   LEU    53   B
+  GLU    94   A   ARG    48   B
+  ASN    93   A   GLY    50   B
+  GLY    50   A   GLY    97   B
+  ALA    98   A   VAL    51   B
+  SER   100   A   ASP    52   B
+  ALA   101   A   LEU    53   B
+  LEU    53   A   GLY    97   B
+  THR    54   A   SER   100   B
+  ALA    57   A   ARG   180   B
+  ASN    93   A   LEU    47   B

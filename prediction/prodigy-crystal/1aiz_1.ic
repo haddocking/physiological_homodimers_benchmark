@@ -1,37 +1,36 @@
-  GLY   116   A   ALA    43   B
-  PRO   115   A   MET    64   B
-  MET    64   A   TYR    72   B
-  ALA   119   A   MET    39   B
-  ALA   119   A   MET    44   B
-  VAL    42   A   TRP   118   B
-  MET    13   A   GLY   116   B
-  ALA    43   A   ALA   119   B
-  PRO   115   A   PRO   115   B
+  ALA   119   A   ALA    43   B
   GLY   116   A   HIS   117   B
-  PHE   114   A   GLY   116   B
-  TYR    72   A   MET    64   B
-  GLN    57   A   VAL    42   B
-  PRO   115   A   GLY   116   B
+  MET    64   A   PRO   115   B
+  GLY   116   A   PHE   114   B
   HIS   117   A   GLY   116   B
   GLY   116   A   PRO   115   B
-  TRP   118   A   ALA    43   B
-  MET   120   A   MET    44   B
-  TRP   118   A   VAL    42   B
-  GLY   116   A   GLY   116   B
-  GLY   116   A   PHE   114   B
-  ALA   119   A   ALA    43   B
-  ASP    11   A   MET   120   B
-  MET    44   A   ALA   119   B
-  ALA    43   A   TRP   118   B
-  VAL    42   A   GLN    57   B
-  MET    64   A   MET    64   B
-  MET    39   A   ALA   119   B
-  MET   120   A   MET    13   B
-  ALA    43   A   GLY   116   B
+  GLY   116   A   ALA    43   B
   MET   120   A   ASP    11   B
-  ALA    12   A   MET   120   B
+  MET    64   A   TYR    72   B
+  ALA    43   A   TRP   118   B
+  VAL    42   A   TRP   118   B
   MET   120   A   ALA    12   B
-  MET    13   A   MET    13   B
-  MET    64   A   PRO   115   B
-  MET    13   A   MET   120   B
+  VAL    42   A   GLN    57   B
+  MET    39   A   ALA   119   B
+  GLN    57   A   VAL    42   B
+  PHE   114   A   GLY   116   B
+  MET    64   A   MET    64   B
+  TYR    72   A   MET    64   B
+  MET    44   A   ALA   119   B
+  MET   120   A   MET    13   B
+  PRO   115   A   GLY   116   B
+  ALA    43   A   GLY   116   B
+  ALA    12   A   MET   120   B
+  ALA   119   A   MET    44   B
   MET    44   A   MET   120   B
+  ASP    11   A   MET   120   B
+  TRP   118   A   ALA    43   B
+  ALA    43   A   ALA   119   B
+  MET    13   A   MET    13   B
+  MET    13   A   GLY   116   B
+  MET   120   A   MET    44   B
+  MET    13   A   MET   120   B
+  PRO   115   A   PRO   115   B
+  TRP   118   A   VAL    42   B
+  PRO   115   A   MET    64   B
+  ALA   119   A   MET    39   B

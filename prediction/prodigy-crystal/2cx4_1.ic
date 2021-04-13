@@ -1,58 +1,56 @@
-  CYS    80   A   PHE    45   B
-  TRP    79   A   SER    46   B
-  SER    77   A   LEU   116   B
-  PHE    45   A   CYS    80   B
-  PHE    21   A   LYS   114   B
+  TRP    79   A   ALA    43   B
   CYS    80   A   CYS    80   B
-  TRP    79   A   PRO    47   B
-  TYR    98   A   VAL   119   B
+  ASN    99   A   GLY   115   B
+  PRO    42   A   TYR    98   B
+  ALA    43   A   TRP    79   B
+  ASP    76   A   SER    77   B
   TYR    98   A   LEU   116   B
+  CYS    80   A   ALA    44   B
+  SER    77   A   ASP    76   B
   ASN    99   A   LEU   116   B
-  PHE    45   A   LYS    83   B
-  LYS    83   A   PHE    45   B
   LYS   114   A   PHE    21   B
-  LYS    83   A   GLU    87   B
-  TYR    98   A   PRO    42   B
-  TRP    79   A   PHE    56   B
+  LYS    83   A   PHE    45   B
+  PHE    45   A   PHE    45   B
+  VAL    75   A   TYR    98   B
+  ASN    99   A   LYS   117   B
+  PRO    47   A   TRP    79   B
+  SER    77   A   ALA    44   B
+  ASP    76   A   TYR    98   B
   LYS   117   A   ASN    99   B
-  LEU   116   A   SER    77   B
+  ALA    44   A   SER    77   B
+  VAL   119   A   TYR    98   B
   LEU   116   A   ASN    99   B
-  ALA    44   A   TRP    79   B
-  LEU   116   A   PRO    78   B
+  TRP    79   A   PHE    56   B
+  LYS   117   A   TYR    98   B
+  LYS    83   A   LYS    83   B
+  PHE    45   A   LYS    83   B
+  ARG   100   A   TYR    98   B
+  LEU   116   A   PHE    21   B
+  TYR    98   A   VAL   119   B
+  SER    77   A   ALA    43   B
+  MET   118   A   TYR    98   B
+  TRP    79   A   PRO    47   B
+  CYS    80   A   PHE    45   B
+  SER    46   A   TRP    79   B
+  ALA    43   A   SER    77   B
+  TRP    79   A   ALA    44   B
+  ALA    44   A   CYS    80   B
+  TRP    79   A   LYS   114   B
   ARG   100   A   ARG   100   B
   PHE    45   A   TRP    79   B
-  LYS   114   A   TRP    79   B
-  TYR    98   A   VAL    75   B
-  ALA    44   A   SER    77   B
-  ASP    76   A   SER    77   B
-  ARG   100   A   TYR    98   B
-  VAL   119   A   TYR    98   B
-  ALA    43   A   TRP    79   B
-  LYS   117   A   TYR    98   B
-  TRP    79   A   ALA    43   B
-  LEU   116   A   TYR    98   B
-  TRP    79   A   ALA    44   B
-  TRP    79   A   LEU   116   B
-  PHE    45   A   PHE    45   B
-  ALA    43   A   SER    77   B
-  ALA    44   A   CYS    80   B
-  TYR    98   A   ARG   100   B
-  LEU   116   A   PHE    21   B
-  VAL    75   A   TYR    98   B
-  SER    46   A   TRP    79   B
-  CYS    80   A   ALA    44   B
-  LYS    83   A   LYS    83   B
-  PRO    78   A   LEU   116   B
-  TRP    79   A   LYS   114   B
-  ASP    76   A   TYR    98   B
-  PRO    42   A   TYR    98   B
-  GLU    87   A   LYS    83   B
-  PRO    47   A   TRP    79   B
-  TRP    79   A   PHE    45   B
-  SER    77   A   ASP    76   B
-  LEU   116   A   TRP    79   B
-  SER    77   A   ALA    43   B
-  TYR    98   A   LYS   117   B
-  ASN    99   A   GLY   115   B
-  ASN    99   A   LYS   117   B
+  TYR    98   A   PRO    42   B
   GLY   115   A   ASN    99   B
+  TYR    98   A   ARG   100   B
+  LYS   114   A   TRP    79   B
+  PHE    45   A   CYS    80   B
+  PHE    21   A   LYS   114   B
+  TYR    98   A   MET   118   B
+  GLU    87   A   LYS    83   B
+  TRP    79   A   SER    46   B
+  LEU   116   A   TYR    98   B
+  TYR    98   A   VAL    75   B
+  TYR    98   A   LYS   117   B
+  ALA    44   A   TRP    79   B
+  LEU   113   A   PHE    21   B
+  TRP    79   A   PHE    45   B
+  LYS    83   A   GLU    87   B

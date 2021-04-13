@@ -1,25 +1,23 @@
-  ASP    81   A   ARG    74   B
-  ARG    84   A   GLY    72   B
   GLY    58   A   ASN    70   B
-  ASP    81   A   SER    71   B
-  ARG    57   A   SER    73   B
-  ARG    84   A   SER    71   B
-  CYS    59   A   LEU    11   B
-  CYS    83   A   LEU    11   B
-  ARG    57   A   THR    13   B
-  CYS    83   A   SER    73   B
-  ASP    81   A   SER    73   B
+  ASP    81   A   ARG    74   B
   LEU    64   A   GLY    72   B
-  ARG    57   A   LEU    11   B
-  CYS    59   A   GLY    72   B
-  CYS    83   A   GLY    72   B
-  LYS    56   A   LYS    10   B
-  ASP    81   A   GLY    72   B
-  GLY    58   A   LEU    11   B
-  LEU    64   A   SER    71   B
-  GLY    58   A   LYS    10   B
-  ARG    57   A   THR    12   B
   ARG    57   A   LYS    10   B
   ARG    57   A   GLY    14   B
-  ARG    57   A   ARG     7   B
+  CYS    83   A   LEU    11   B
+  CYS    83   A   SER    73   B
+  ARG    84   A   GLY    72   B
+  LYS    56   A   LYS    10   B
   SER    82   A   SER    73   B
+  GLY    58   A   LEU    11   B
+  CYS    59   A   GLY    72   B
+  ARG    57   A   THR    12   B
+  ASP    81   A   SER    73   B
+  ARG    57   A   THR    13   B
+  ARG    57   A   LEU    11   B
+  ARG    57   A   SER    73   B
+  ASP    81   A   SER    71   B
+  ARG    84   A   SER    71   B
+  ASP    81   A   GLY    72   B
+  ARG    57   A   ARG     7   B
+  CYS    83   A   GLY    72   B
+  SER    82   A   THR    12   B

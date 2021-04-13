@@ -1,41 +1,35 @@
-  GLU    57   A   HIS     6   B
-  LEU    71   A   LEU    71   B
-  GLN    54   A   ASN    50   B
-  SER    52   A   ILE    53   B
-  ASN    50   A   GLN    54   B
-  ILE    53   A   PRO    51   B
-  ILE    53   A   LEU    71   B
+  VAL    67   A   HIS     7   B
+  THR    49   A   ILE    53   B
+  HIS    68   A   HIS    68   B
   HIS    68   A   HIS     7   B
-  ASN    50   A   PHE    55   B
+  HIS    68   A   LEU    71   B
+  PRO    51   A   SER    52   B
+  ILE    53   A   PRO    51   B
+  HIS    68   A   ASP    72   B
   PRO    51   A   ILE    53   B
+  GLN    54   A   ASN    50   B
+  ILE    53   A   HIS     7   B
+  ASN    50   A   GLN    54   B
+  SER    52   A   SER    52   B
+  GLU    57   A   HIS     6   B
+  SER    52   A   ILE    53   B
+  SER    66   A   HIS     7   B
   HIS     8   A   ILE    53   B
+  ILE    53   A   ILE    53   B
+  GLU    57   A   HIS     7   B
+  ILE    53   A   HIS     8   B
+  ASN    50   A   PHE    55   B
+  ASN    50   A   ILE    53   B
   PRO    51   A   PRO    51   B
   SER    52   A   ASN    50   B
-  ILE    53   A   HIS     7   B
-  HIS     8   A   GLU    57   B
-  ASN    50   A   SER    52   B
-  GLU    57   A   HIS     7   B
-  ILE    11   A   ILE    53   B
-  ILE    53   A   SER    52   B
-  SER    66   A   HIS     7   B
-  SER    52   A   PRO    51   B
-  PHE    55   A   ASN    50   B
-  VAL    67   A   LEU    71   B
-  THR    49   A   ILE    53   B
-  LEU    71   A   ILE    53   B
-  GLN    54   A   THR    49   B
-  ILE    53   A   LEU    56   B
-  GLN    54   A   HIS     8   B
-  LEU    56   A   ILE    53   B
-  PRO    51   A   SER    52   B
-  HIS    68   A   HIS    68   B
-  LEU    71   A   VAL    67   B
   ILE    53   A   THR    49   B
-  HIS    68   A   LEU    71   B
-  ILE    53   A   HIS     8   B
-  ASN    50   A   ILE    53   B
-  GLU    57   A   HIS     8   B
-  VAL    67   A   HIS     7   B
-  HIS    68   A   ASP    72   B
+  HIS     8   A   GLU    57   B
+  GLN    54   A   HIS     8   B
+  LEU    71   A   ILE    53   B
+  ILE    53   A   SER    52   B
+  PHE    55   A   ASN    50   B
+  SER    52   A   PRO    51   B
   ILE    53   A   ASN    50   B
-  SER    52   A   SER    52   B
+  GLU    57   A   HIS     8   B
+  GLN    54   A   THR    49   B
+  ASN    50   A   SER    52   B

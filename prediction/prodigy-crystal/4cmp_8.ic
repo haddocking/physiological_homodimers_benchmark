@@ -1,59 +1,55 @@
-  PRO   435   A   ASP   951   B
-  ASP   951   A   GLU    93   B
-  ARG   695   A   GLN   699   B
-  TYR   947   A   LYS    96   B
-  HIS   702   A   ASN   696   B
-  GLN   699   A   LEU   700   B
-  LYS    96   A   TYR   947   B
-  PRO   435   A   GLU   949   B
-  ASN   950   A   PHE   433   B
-  ASP   703   A   LYS   530   B
-  GLU   949   A   PHE   433   B
   PHE   433   A   ASN   950   B
-  ASN   950   A   LYS   152   B
-  MET   698   A   HIS   702   B
-  ASP   951   A   LYS    96   B
-  GLU   949   A   LYS   152   B
-  ASP   703   A   ASN   696   B
-  HIS   702   A   GLN   699   B
-  GLU   949   A   VAL    97   B
-  GLU   949   A   PHE   436   B
-  ASN   950   A   GLU    93   B
-  ASP   948   A   GLU    93   B
-  SER   705   A   LYS   530   B
-  GLU   949   A   GLU    93   B
-  GLN   699   A   GLN   699   B
-  LEU   700   A   GLN   699   B
-  LYS    96   A   ASP   948   B
-  GLN   699   A   HIS   702   B
-  ASP   703   A   GLN   699   B
-  GLU    93   A   ASP   948   B
-  LYS   530   A   ASP   704   B
-  PHE   433   A   GLU   949   B
-  LYS   152   A   ASN   950   B
-  LYS    96   A   GLU   949   B
-  VAL    97   A   GLU   949   B
-  ASP   439   A   GLU   442   B
-  LYS   438   A   GLU   442   B
-  ASN   950   A   PRO   435   B
-  TYR   434   A   ASN   950   B
-  GLU    93   A   GLU   949   B
-  GLU   949   A   PRO   435   B
-  HIS   702   A   MET   698   B
   ASN   696   A   ASP   704   B
   LYS   952   A   PHE   433   B
-  LYS   530   A   LYS   709   B
-  PHE   436   A   GLU   949   B
-  PRO   435   A   ASN   950   B
-  GLN   699   A   ASP   703   B
+  GLN   699   A   LEU   700   B
   ASN   696   A   HIS   702   B
+  GLU   949   A   LYS   152   B
   ASP   704   A   LYS   530   B
-  LYS   152   A   GLU   949   B
+  LYS    96   A   TYR   947   B
   ASN   950   A   TYR   434   B
-  ASP   951   A   PRO   435   B
-  GLU   949   A   TYR   434   B
-  ASP   948   A   LYS    96   B
-  GLU   949   A   LYS    96   B
+  GLU   949   A   VAL    97   B
+  SER   705   A   LYS   530   B
+  GLN   699   A   ASP   703   B
+  LYS   530   A   LYS   709   B
+  GLU   949   A   PHE   433   B
+  TYR   434   A   ASN   950   B
+  LYS    96   A   GLU   949   B
+  ASP   703   A   LYS   530   B
+  TYR   947   A   LYS    96   B
+  GLN   699   A   GLN   699   B
   GLU   442   A   ASP   439   B
   HIS   702   A   HIS   702   B
+  GLU   949   A   LYS    96   B
+  GLU    93   A   ASP   948   B
+  ASN   950   A   LYS   152   B
+  ASP   703   A   ASN   696   B
+  ASP   439   A   GLU   442   B
+  HIS   702   A   ASN   696   B
+  ASP   948   A   LYS    96   B
+  ASN   950   A   PHE   433   B
+  VAL    97   A   GLU   949   B
+  ASP   703   A   GLN   699   B
+  HIS   702   A   GLN   699   B
+  GLU   949   A   GLU    93   B
+  ARG   695   A   GLN   699   B
+  PRO   435   A   ASN   950   B
+  LYS   152   A   GLU   949   B
+  LYS   530   A   ASP   704   B
+  LEU   700   A   GLN   699   B
+  MET   698   A   HIS   702   B
+  ASP   951   A   LYS    96   B
+  ASP   948   A   GLU    93   B
+  PRO   435   A   ASP   951   B
+  LYS    96   A   ASP   948   B
+  GLU   949   A   TYR   434   B
+  PHE   433   A   GLU   949   B
+  GLU    93   A   GLU   949   B
+  LYS   152   A   ASN   950   B
+  HIS   702   A   MET   698   B
+  GLN   699   A   HIS   702   B
+  ASN   950   A   GLU    93   B
   TYR   434   A   GLU   949   B
+  ASN   950   A   PRO   435   B
+  ASP   951   A   GLU    93   B
+  ASP   951   A   PRO   435   B
+  LYS   438   A   GLU   442   B

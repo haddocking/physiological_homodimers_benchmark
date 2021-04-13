@@ -1,33 +1,44 @@
-  GLY   570   A   GLU   572   B
-  GLY   570   A   THR   577   B
-  THR   577   A   GLY   570   B
-  ASP   569   A   VAL   582   B
-  GLU   572   A   GLU   572   B
-  PRO   195   A   LYS   568   B
-  HIS   197   A   ASP   569   B
-  PRO   195   A   GLY   570   B
-  GLY   581   A   ASP   569   B
-  GLU   572   A   GLY   570   B
-  GLY   570   A   TYR   573   B
-  THR   578   A   ASP   569   B
-  ASP   569   A   GLY   581   B
-  THR   574   A   GLU   572   B
-  ASP   569   A   PRO   195   B
-  THR   577   A   ASP   569   B
-  PHE   576   A   GLY   570   B
-  GLY   570   A   THR   574   B
-  PRO   195   A   ASP   569   B
   GLY   570   A   PRO   195   B
-  GLU   572   A   THR   574   B
-  LYS   568   A   PRO   195   B
+  THR   578   A   ASP   569   B
   ASP   569   A   THR   578   B
-  VAL   582   A   ASP   569   B
-  ASP   569   A   PHE   576   B
+  GLU   572   A   THR   574   B
   PHE   576   A   ASP   569   B
-  ASP   569   A   HIS   197   B
-  ASP   569   A   THR   577   B
+  PRO   195   A   GLY   570   B
+  ASP   569   A   PHE   576   B
+  ASP   569   A   GLY   581   B
+  GLU   572   A   GLU   572   B
+  MET   571   A   TYR   573   B
+  GLU   572   A   GLY   570   B
+  GLY   570   A   TRP   194   B
+  GLY   570   A   THR   574   B
+  THR   574   A   GLU   572   B
   THR   574   A   GLY   570   B
+  TYR   573   A   GLU   572   B
   TRP   194   A   GLY   570   B
   TYR   573   A   GLY   570   B
-  GLY   570   A   TRP   194   B
+  GLY   570   A   GLU   572   B
+  PRO   195   A   LYS   568   B
+  MET   571   A   GLU   572   B
+  THR   577   A   ASP   569   B
+  PRO   195   A   ASP   569   B
+  ASP   569   A   HIS   197   B
+  GLU   572   A   TYR   573   B
+  ASP   569   A   THR   577   B
+  PRO   195   A   MET   571   B
+  HIS   197   A   ASP   569   B
+  THR   577   A   GLY   570   B
+  GLU   572   A   MET   571   B
+  GLY   570   A   TYR   573   B
+  ASP   569   A   VAL   582   B
+  THR   574   A   MET   571   B
+  TYR   573   A   MET   571   B
+  MET   571   A   PRO   195   B
   GLY   570   A   PHE   576   B
+  MET   571   A   MET   571   B
+  LYS   568   A   PRO   195   B
+  PHE   576   A   GLY   570   B
+  MET   571   A   THR   574   B
+  ASP   569   A   PRO   195   B
+  GLY   581   A   ASP   569   B
+  GLY   570   A   THR   577   B
+  VAL   582   A   ASP   569   B

@@ -1,19 +1,18 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/5ayp_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/5ayp_1.pdb
 [!] Structure contains gaps:
-	A GLN3 < Fragment 0 > A GLU129
-	A ASP132 < Fragment 1 > A ARG223
-	A LEU257 < Fragment 2 > A ARG295
-	B GLN3 < Fragment 3 > B MET91
-	B LYS100 < Fragment 4 > B ASP228
-	B THR250 < Fragment 5 > B ARG295
+	A GLN3 < Fragment 0 > A ARG223
+	A LEU257 < Fragment 1 > A ARG295
+	B GLN3 < Fragment 2 > B MET91
+	B LYS100 < Fragment 3 > B ASP228
+	B THR250 < Fragment 4 > B ARG295
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 143
+[+] No. of intermolecular contacts: 124
 [+] No. of charged-charged contacts: 13
 [+] No. of charged-polar contacts: 10
-[+] No. of charged-apolar contacts: 23
+[+] No. of charged-apolar contacts: 19
 [+] No. of polar-polar contacts: 0
-[+] No. of apolar-polar contacts: 29
-[+] No. of apolar-apolar contacts: 68
+[+] No. of apolar-polar contacts: 26
+[+] No. of apolar-apolar contacts: 56
 [+] Link density: 0.06
-[+] Class: BIO 0.992 0.008
+[+] Class: BIO 0.988 0.012
 

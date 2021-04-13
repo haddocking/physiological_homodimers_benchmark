@@ -1,35 +1,33 @@
-  TYR    96   A   GLU    89   B
-  ILE    85   A   ILE    55   B
-  ALA    88   A   PRO    54   B
-  ARG    51   A   GLU    89   B
-  ALA    95   A   ARG    91   B
-  ASP    26   A   HIS    78   B
-  LYS    58   A   ILE    85   B
-  ALA    92   A   ALA    92   B
+  PRO    54   A   ALA    88   B
+  PRO    54   A   GLU    89   B
+  ASP    22   A   ASP    22   B
+  ILE    55   A   ILE    85   B
   LYS    58   A   ASP    82   B
-  GLU    89   A   PRO    54   B
-  GLU    89   A   TYR    96   B
-  ALA    92   A   TYR    96   B
   TYR    96   A   TYR    96   B
-  ARG    91   A   ALA    95   B
-  ILE    85   A   LYS    58   B
-  ARG    51   A   ARG    51   B
   PRO    54   A   ILE    85   B
+  TYR    96   A   PRO    50   B
+  ILE    85   A   PRO    54   B
+  ALA    95   A   ARG    91   B
+  ARG    51   A   GLU    89   B
+  ALA    92   A   ALA    92   B
+  ALA    88   A   ALA    95   B
+  ARG    91   A   ALA    95   B
+  ARG    51   A   ARG    51   B
   PRO    50   A   TYR    96   B
   ALA    92   A   ALA    95   B
-  ALA    88   A   TYR    96   B
-  TYR    96   A   ALA    92   B
-  ILE    85   A   PRO    54   B
-  ALA    88   A   ALA    95   B
-  ALA    95   A   ALA    92   B
-  ASP    22   A   ASP    22   B
-  TYR    96   A   ALA    88   B
-  ILE    55   A   ILE    85   B
-  TYR    96   A   PRO    50   B
-  PRO    54   A   ALA    88   B
-  ALA    95   A   ALA    88   B
-  PRO    54   A   GLU    89   B
-  GLU    89   A   ARG    51   B
-  HIS    78   A   ASP    26   B
-  ALA    95   A   ALA    95   B
   ASP    82   A   LYS    58   B
+  TYR    96   A   ALA    92   B
+  ALA    95   A   ALA    92   B
+  ALA    88   A   PRO    54   B
+  GLU    89   A   PRO    54   B
+  GLU    89   A   ARG    51   B
+  ILE    85   A   ILE    55   B
+  ASP    26   A   HIS    78   B
+  TYR    96   A   ALA    88   B
+  ALA    95   A   ALA    95   B
+  ALA    88   A   TYR    96   B
+  ALA    95   A   ALA    88   B
+  GLU    89   A   TYR    96   B
+  HIS    78   A   ASP    26   B
+  TYR    96   A   GLU    89   B
+  ALA    92   A   TYR    96   B

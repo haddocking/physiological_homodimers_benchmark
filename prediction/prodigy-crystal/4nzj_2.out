@@ -1,37 +1,17 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4nzj_2.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4nzj_2.pdb
 [!] Structure contains gaps:
-	A VAL4 < Fragment 0 > A PRO40
-	A GLN42 < Fragment 1 > A VAL64
-	A THR66 < Fragment 2 > A PRO101
-	A GLY103 < Fragment 3 > A ALA125
-	A ILE127 < Fragment 4 > A GLY130
-	A ARG132 < Fragment 5 > A ALA231
-	A GLU233 < Fragment 6 > A LYS237
-	A GLY239 < Fragment 7 > A ASP319
-	A LEU321 < Fragment 8 > A SER329
-	A GLU337 < Fragment 9 > A CYS352
-	A ALA355 < Fragment 10 > A ASN366
-	A ASN368 < Fragment 11 > A ASP477
-	B VAL4 < Fragment 12 > B PRO40
-	B GLN42 < Fragment 13 > B VAL64
-	B THR66 < Fragment 14 > B PRO101
-	B GLY103 < Fragment 15 > B ALA125
-	B ILE127 < Fragment 16 > B GLY130
-	B ARG132 < Fragment 17 > B ALA231
-	B GLU233 < Fragment 18 > B LYS237
-	B GLY239 < Fragment 19 > B ASP319
-	B LEU321 < Fragment 20 > B SER329
-	B GLU337 < Fragment 21 > B CYS352
-	B ALA355 < Fragment 22 > B ASN366
-	B ASN368 < Fragment 23 > B ASP477
+	A VAL4 < Fragment 0 > A MET330
+	A GLU337 < Fragment 1 > A ASP477
+	B VAL4 < Fragment 2 > B MET330
+	B GLU337 < Fragment 3 > B ASP477
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 85
-[+] No. of charged-charged contacts: 9
+[+] No. of intermolecular contacts: 79
+[+] No. of charged-charged contacts: 11
 [+] No. of charged-polar contacts: 32
-[+] No. of charged-apolar contacts: 20
+[+] No. of charged-apolar contacts: 14
 [+] No. of polar-polar contacts: 4
 [+] No. of apolar-polar contacts: 8
-[+] No. of apolar-apolar contacts: 12
+[+] No. of apolar-apolar contacts: 10
 [+] Link density: 0.06
-[+] Class: BIO 0.536 0.464
+[+] Class: XTAL 0.452 0.548
 

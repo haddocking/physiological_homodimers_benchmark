@@ -1,58 +1,51 @@
-  ILE    70   A   VAL    45   B
-  SER    52   A   LYS    83   B
-  LYS    83   A   ILE    53   B
+  ASP    28   A   LYS    43   B
+  PRO     2   A   GLU    67   B
+  ASN    22   A   LYS    83   B
+  ASP    46   A   LYS   126   B
+  ASP    44   A   ILE    71   B
+  PRO     2   A   ASP    28   B
   GLU    21   A   LYS    82   B
-  MET     1   A   ILE    71   B
+  LYS    73   A   ASP    46   B
+  GLU    64   A   TYR    29   B
+  ILE    70   A   ASP    44   B
+  LYS    83   A   ILE    53   B
   LEU    65   A   PRO     2   B
   LEU    65   A   TYR    29   B
-  ASP    48   A   LYS   126   B
-  LYS   126   A   ASP    48   B
-  ASN    22   A   LYS    83   B
-  LEU    65   A   LEU    65   B
-  LYS    68   A   ASP    44   B
-  ILE    49   A   LEU   127   B
-  ILE    79   A   SER    52   B
-  GLU    64   A   TYR    29   B
-  TYR    29   A   TYR    29   B
-  ASP    44   A   LYS    72   B
-  ASN    22   A   LYS    82   B
-  GLU    64   A   LEU    65   B
-  ASP    44   A   ILE    71   B
-  ASN    22   A   ILE    79   B
-  VAL    45   A   LYS    72   B
-  SER    52   A   LEU   123   B
-  ILE    53   A   LYS    83   B
-  LEU   123   A   SER    52   B
   ASN    26   A   ASP    28   B
-  ILE    70   A   ASP    44   B
-  ILE    49   A   PRO    74   B
-  LYS    82   A   GLU    21   B
-  LEU    24   A   PRO    74   B
-  LYS    83   A   SER    52   B
-  GLU    64   A   GLU    64   B
-  MET     1   A   ILE    70   B
-  MET     1   A   LYS    68   B
-  ILE    53   A   ILE    79   B
-  ASP    46   A   LYS   126   B
-  PRO     2   A   ASP    28   B
-  VAL    45   A   PRO    74   B
-  PRO     2   A   TYR    29   B
-  MET     1   A   LYS    69   B
-  PRO     2   A   GLU    67   B
-  LYS    82   A   ASN    22   B
+  LYS    68   A   ASP    44   B
+  SER    52   A   LEU   123   B
   MET     1   A   ASP    28   B
-  ASP    28   A   LYS    43   B
-  ILE    49   A   LYS   126   B
+  LYS    82   A   ASN    22   B
+  PRO     2   A   TYR    29   B
+  ASN    22   A   LYS    82   B
+  MET     1   A   ILE    71   B
   ASP    44   A   ILE    70   B
-  LYS   126   A   ILE    49   B
-  TYR    29   A   ASN    26   B
+  ASN    22   A   ILE    79   B
   PRO    74   A   ILE    49   B
-  VAL    45   A   LYS    73   B
-  ILE    79   A   ILE    53   B
-  GLU    67   A   ASP    44   B
-  LYS    73   A   ASP    46   B
+  GLU    64   A   LEU    65   B
+  ASP    48   A   LYS   126   B
+  MET     1   A   LYS    69   B
+  ASP    44   A   LYS    72   B
+  TYR    29   A   ASN    26   B
   ILE    70   A   ASP    46   B
+  LEU    65   A   LEU    65   B
+  SER    52   A   LYS    83   B
+  MET     1   A   LYS    68   B
+  VAL    45   A   PRO    74   B
+  GLU    67   A   ASP    44   B
+  ILE    70   A   VAL    45   B
+  ILE    53   A   LYS    83   B
+  LYS   126   A   ASP    48   B
+  LYS    82   A   GLU    21   B
+  VAL    45   A   LYS    72   B
+  ILE    49   A   LYS   126   B
   TYR    29   A   ASP    28   B
+  VAL    45   A   LYS    73   B
+  ILE    49   A   LEU   127   B
+  TYR    29   A   TYR    29   B
+  LYS    83   A   SER    52   B
+  MET     1   A   ILE    70   B
+  ILE    79   A   ILE    53   B
   LYS    69   A   ASP    44   B
-  ILE    79   A   ILE    49   B
-  ILE    49   A   LEU   123   B
+  ILE    53   A   ILE    79   B
+  GLU    64   A   GLU    64   B

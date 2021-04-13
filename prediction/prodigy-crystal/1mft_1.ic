@@ -1,68 +1,51 @@
-  ALA    14   A   LEU     7   B
-  GLU    11   A   GLU    41   B
-  LYS    43   A   ASP    40   B
-  ILE    37   A   HIS    44   B
-  VAL    33   A   TRP    47   B
   ALA    21   A   TYR     3   B
-  ILE    37   A   TRP    47   B
-  LEU     7   A   TYR    18   B
-  TYR    18   A   HIS    44   B
-  ASP    40   A   HIS    44   B
-  GLU    11   A   TYR    18   B
-  TRP    47   A   ASP    40   B
-  LYS    30   A   ILE    51   B
-  ASP    40   A   ASP    40   B
-  TRP    47   A   VAL    33   B
+  ILE    37   A   HIS    44   B
   LEU    48   A   TYR    18   B
   ASP    40   A   TRP    47   B
-  VAL    33   A   ILE    51   B
-  LYS    36   A   TRP    47   B
-  THR    50   A   VAL    33   B
-  TYR    18   A   LEU     7   B
+  ASP    40   A   ASP    40   B
   LYS    30   A   ASN    52   B
-  ILE    37   A   LEU    48   B
-  HIS    44   A   HIS    44   B
+  GLU    11   A   GLU    41   B
   ILE    51   A   VAL    33   B
-  LEU    48   A   LEU    34   B
-  HIS    44   A   ASP    40   B
-  ILE    51   A   GLU    29   B
-  LEU    34   A   LEU    48   B
-  TYR    18   A   LEU    48   B
+  LEU    17   A   LEU     7   B
+  GLU    41   A   GLU    11   B
+  TRP    47   A   ILE    37   B
+  TRP    47   A   ASP    40   B
+  LEU    10   A   GLN    13   B
   HIS    44   A   ILE    37   B
+  LEU     4   A   LYS    30   B
+  TYR    18   A   HIS    44   B
+  TYR    18   A   LEU     7   B
+  TYR    18   A   LEU    48   B
+  ILE    37   A   GLU    11   B
+  ASP    40   A   HIS    44   B
+  HIS    44   A   ASP    40   B
+  GLU    29   A   ILE    51   B
+  GLU    11   A   TYR    18   B
+  ILE    51   A   LYS    30   B
   TYR     3   A   GLU    20   B
-  GLN    13   A   LEU    10   B
-  GLU     6   A   LEU    17   B
+  TYR     3   A   ALA    21   B
+  LEU     7   A   TYR    18   B
   ALA    21   A   LEU     7   B
   TYR     3   A   LEU    17   B
-  GLU    41   A   GLU    41   B
-  TRP    47   A   ILE    37   B
-  GLU    41   A   HIS    44   B
-  LEU     4   A   LYS    30   B
-  LEU    34   A   LEU     4   B
-  ILE    37   A   GLU    11   B
-  LEU    34   A   LEU     7   B
-  TYR     3   A   ALA    21   B
-  TYR     3   A   LYS    24   B
   HIS    44   A   GLU    41   B
+  LYS    36   A   TRP    47   B
+  TYR     3   A   LYS    24   B
   LEU    10   A   LEU    10   B
-  TYR    18   A   GLU    11   B
-  ALA    14   A   LEU    10   B
-  LEU     7   A   LEU    17   B
   LEU    17   A   GLU     6   B
-  HIS    44   A   TYR    18   B
-  GLU    41   A   GLU    11   B
-  LEU     7   A   ALA    21   B
-  GLU    11   A   ILE    37   B
-  LEU     4   A   LEU    34   B
-  LEU    10   A   GLN    13   B
-  LEU    10   A   LEU    17   B
-  LEU    17   A   LEU     7   B
-  TRP    47   A   LYS    36   B
-  LEU    48   A   ILE    37   B
-  ILE    51   A   LEU    34   B
-  LEU    17   A   LEU    10   B
+  HIS    44   A   HIS    44   B
+  TYR    18   A   GLU    11   B
   LEU    10   A   ALA    14   B
-  ILE    51   A   LYS    30   B
-  GLU    29   A   ILE    51   B
-  LEU     7   A   LEU    34   B
+  GLU    41   A   GLU    41   B
+  HIS    44   A   TYR    18   B
+  ILE    37   A   TRP    47   B
+  GLU    41   A   HIS    44   B
+  VAL    33   A   TRP    47   B
+  TRP    47   A   VAL    33   B
+  LYS    30   A   ILE    51   B
+  LEU     7   A   LEU    17   B
+  LYS    43   A   ASP    40   B
   LYS    30   A   TYR     3   B
+  GLU    11   A   ILE    37   B
+  ILE    51   A   GLU    29   B
+  TRP    47   A   LYS    36   B
+  VAL    33   A   ILE    51   B

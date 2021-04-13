@@ -1,60 +1,50 @@
-  ILE    83   A   ILE     8   B
-  ILE    31   A   ILE    31   B
-  ILE    75   A   ILE    75   B
-  CYS    68   A   CYS    68   B
-  ILE    67   A   ILE    67   B
-  SER    70   A   SER    70   B
-  THR    77   A   ILE     8   B
-  ILE    31   A   ILE     8   B
-  LYS    10   A   LYS    85   B
-  GLY    69   A   CYS    68   B
+  LYS     9   A   ALA    84   B
   ILE    81   A   TYR     7   B
-  ILE    81   A   ILE    31   B
+  GLU    80   A   LYS     4   B
+  CYS    68   A   SER    70   B
+  VAL     6   A   LYS    82   B
+  SER    70   A   SER    70   B
   TYR     7   A   ILE    81   B
   LYS    82   A   VAL     6   B
-  ILE     8   A   ALA    84   B
-  ALA    84   A   TYR     7   B
-  ALA    84   A   LYS    10   B
-  VAL     6   A   LYS    82   B
-  TYR     7   A   LYS    82   B
   VAL     6   A   GLU    80   B
-  ILE    81   A   ILE     8   B
-  ILE     8   A   THR    77   B
-  VAL     5   A   GLU    80   B
-  LYS    73   A   ILE    67   B
-  ALA    84   A   ILE     8   B
-  ILE    67   A   CYS    68   B
-  LYS    82   A   TYR     7   B
-  CYS    68   A   SER    70   B
-  TYR     7   A   ILE    83   B
-  ILE    83   A   LYS    10   B
-  ILE     8   A   ILE    81   B
-  GLU    80   A   VAL     5   B
-  CYS    68   A   GLY    69   B
-  SER    70   A   CYS    68   B
-  CYS    68   A   ILE    67   B
-  ILE     8   A   ILE    75   B
+  LYS    10   A   LYS    85   B
   LYS    85   A   LYS    10   B
+  ALA    84   A   TYR     7   B
+  ILE     8   A   ILE    83   B
+  THR    77   A   ILE     8   B
+  ILE     8   A   ILE    81   B
+  ILE    83   A   ILE     8   B
+  ILE     8   A   THR    77   B
+  ILE    81   A   ILE     8   B
+  PRO    71   A   CYS    68   B
+  CYS    68   A   CYS    68   B
+  ALA    84   A   ILE     8   B
+  SER    70   A   CYS    68   B
+  CYS    68   A   PRO    71   B
+  ILE    67   A   CYS    68   B
+  LYS    10   A   ILE    83   B
+  LYS    66   A   LYS    73   B
+  LYS    82   A   TYR     7   B
+  VAL     6   A   ILE    81   B
+  ILE    83   A   LYS    10   B
+  LYS    10   A   ALA    84   B
   GLY    69   A   SER    70   B
+  TYR     7   A   LYS    82   B
+  ALA    84   A   LYS     9   B
+  GLU    80   A   VAL     6   B
+  LYS    73   A   LYS    66   B
+  CYS    68   A   GLY    69   B
+  SER    70   A   GLY    69   B
+  ALA    84   A   LYS    10   B
+  LYS    73   A   ILE    67   B
   ILE     8   A   LYS    82   B
   LYS    82   A   ILE     8   B
-  ILE    31   A   ILE    81   B
-  ILE    75   A   ILE     8   B
-  LYS     9   A   ALA    84   B
-  ILE    67   A   LYS    73   B
-  LYS    10   A   ILE    83   B
-  PRO    71   A   CYS    68   B
-  CYS    68   A   PRO    71   B
-  ALA    84   A   LYS     9   B
-  SER    70   A   GLY    69   B
-  ILE    83   A   TYR     7   B
-  ILE     8   A   ILE    83   B
-  GLU    80   A   VAL     6   B
-  LYS    10   A   ALA    84   B
-  ILE     8   A   ILE    31   B
-  GLU    80   A   LYS     4   B
-  ILE    81   A   ILE    81   B
-  VAL     6   A   ILE    81   B
-  ILE    81   A   VAL     6   B
-  LYS     4   A   GLU    80   B
   TYR     7   A   ALA    84   B
+  VAL     5   A   GLU    80   B
+  CYS    68   A   ILE    67   B
+  ILE    67   A   LYS    73   B
+  LYS     4   A   GLU    80   B
+  ILE    81   A   VAL     6   B
+  ILE     8   A   ALA    84   B
+  GLU    80   A   VAL     5   B
+  GLY    69   A   CYS    68   B

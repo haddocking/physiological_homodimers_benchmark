@@ -1,19 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4axv_2.pdb
-[!] Structure contains gaps:
-	A VAL1 < Fragment 0 > A ALA7
-	A SER9 < Fragment 1 > A SER84
-	A ASN86 < Fragment 2 > A PRO241
-	B VAL1 < Fragment 3 > B ALA7
-	B SER9 < Fragment 4 > B SER84
-	B ASN86 < Fragment 5 > B PRO241
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4axv_2.pdb
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 56
+[+] No. of intermolecular contacts: 54
 [+] No. of charged-charged contacts: 14
 [+] No. of charged-polar contacts: 14
-[+] No. of charged-apolar contacts: 8
+[+] No. of charged-apolar contacts: 6
 [+] No. of polar-polar contacts: 7
 [+] No. of apolar-polar contacts: 4
 [+] No. of apolar-apolar contacts: 9
 [+] Link density: 0.09
-[+] Class: XTAL 0.452 0.548
+[+] Class: XTAL 0.436 0.564
 

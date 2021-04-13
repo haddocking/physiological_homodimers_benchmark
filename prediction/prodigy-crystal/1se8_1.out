@@ -1,27 +1,13 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1se8_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1se8_1.pdb
 [!] Structure contains gaps:
-	A ARG3 < Fragment 0 > A GLY4
-	A ASN6 < Fragment 1 > A GLY26
-	A ALA28 < Fragment 2 > A VAL40
-	A ARG48 < Fragment 3 > A GLU89
-	A LYS95 < Fragment 4 > A ARG105
-	A GLU107 < Fragment 5 > A ARG124
-	A SER126 < Fragment 6 > A ALA128
-	A ASN130 < Fragment 7 > A ASN189
-	A LYS191 < Fragment 8 > A VAL199
-	A GLY203 < Fragment 9 > A THR211
-	A ARG218 < Fragment 10 > A ARG233
-	B ARG3 < Fragment 11 > B GLY4
-	B ASN6 < Fragment 12 > B GLY26
-	B ALA28 < Fragment 13 > B VAL40
-	B ARG48 < Fragment 14 > B GLU89
-	B LYS95 < Fragment 15 > B ARG105
-	B GLU107 < Fragment 16 > B ARG124
-	B SER126 < Fragment 17 > B ALA128
-	B ASN130 < Fragment 18 > B ASN189
-	B LYS191 < Fragment 19 > B VAL199
-	B GLY203 < Fragment 20 > B THR211
-	B ARG218 < Fragment 21 > B ARG233
+	A ARG3 < Fragment 0 > A VAL40
+	A ARG48 < Fragment 1 > A GLU89
+	A LYS95 < Fragment 2 > A THR211
+	A ARG218 < Fragment 3 > A ARG233
+	B ARG3 < Fragment 4 > B VAL40
+	B ARG48 < Fragment 5 > B GLU89
+	B LYS95 < Fragment 6 > B THR211
+	B ARG218 < Fragment 7 > B ARG233
 [+] Selection: A, B
 [+] No. of intermolecular contacts: 30
 [+] No. of charged-charged contacts: 11

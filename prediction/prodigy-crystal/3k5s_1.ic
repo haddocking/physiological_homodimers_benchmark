@@ -1,57 +1,50 @@
-  ASP   202   A   ARG   104   B
-  ASN   101   A   GLN   100   B
-  ILE    98   A   PRO    10   B
-  GLY   204   A   ARG   104   B
-  LEU   205   A   LEU   205   B
-  LEU     3   A   LEU     3   B
-  ILE    98   A   GLN   100   B
-  ASN    12   A   THR   139   B
-  THR     5   A   THR     5   B
-  LEU   205   A   GLY   204   B
-  ASP    99   A   GLN   100   B
-  ILE    98   A   ILE    98   B
-  ASP   140   A   ARG    14   B
-  ASN   101   A   MET   198   B
-  ASP   140   A   ASN    12   B
   LEU   205   A   VAL   203   B
-  LEU     3   A   ILE    25   B
-  ASP   102   A   VAL   203   B
-  VAL   203   A   ARG   104   B
-  ILE    25   A   LEU     3   B
-  ASN   103   A   VAL   203   B
+  GLN   100   A   ASN   101   B
   THR   139   A   ARG    14   B
-  VAL   203   A   ASN   103   B
-  GLN   100   A   ILE    98   B
-  GLY   204   A   LEU   205   B
-  ASN    12   A   MET   198   B
-  SER   138   A   ARG    19   B
-  ARG    14   A   ASP   140   B
-  ARG   104   A   ASP   202   B
-  ARG    14   A   SER   138   B
-  SER   138   A   ARG    14   B
-  LEU     8   A   LEU     8   B
-  PRO    10   A   LEU     8   B
-  ASP   102   A   MET   198   B
-  VAL   203   A   LEU   205   B
-  ILE     9   A   LEU     8   B
-  MET   198   A   ASN    12   B
-  MET   198   A   ASN   101   B
   ASN    12   A   ASP   140   B
+  ARG    14   A   ASP   140   B
+  ASN    12   A   MET   198   B
+  MET   198   A   ASN    12   B
+  ASN   101   A   ASN   101   B
+  GLY   204   A   ARG   104   B
+  ARG   104   A   GLY   204   B
+  GLN   100   A   ASP    99   B
+  ASP   102   A   MET   198   B
+  ARG    14   A   SER   138   B
+  GLN   100   A   ILE    98   B
+  GLN   100   A   GLN   100   B
+  ASP   102   A   VAL   203   B
+  ARG    14   A   THR   139   B
+  SER   138   A   ARG    14   B
+  ASN   101   A   GLN   100   B
+  ASN   103   A   VAL   203   B
+  ARG    14   A   LEU   143   B
+  ARG   104   A   VAL   203   B
+  MET   198   A   ASN   101   B
+  ASP   202   A   ARG   104   B
+  VAL   203   A   LEU   205   B
   MET   198   A   ASP   102   B
-  LEU   143   A   ARG    14   B
-  ARG    14   A   PRO   137   B
+  VAL   203   A   ASN   103   B
+  VAL   203   A   ARG   104   B
+  ASP   140   A   ASN    12   B
   ASN   141   A   GLN   100   B
   VAL   203   A   ASN   101   B
-  GLN   100   A   ASN   101   B
-  VAL   203   A   ASP   102   B
-  GLN   100   A   THR   139   B
-  GLN   100   A   ASP    99   B
-  ASN   101   A   VAL   203   B
+  ILE    98   A   ILE    98   B
+  ASN    12   A   THR   139   B
+  ILE    98   A   GLN   100   B
+  ARG    14   A   PRO   137   B
+  SER   138   A   ARG    19   B
+  ILE    98   A   PRO    10   B
+  LEU     8   A   LEU     8   B
   PRO   137   A   ARG    14   B
-  ASN   101   A   ASN   101   B
-  GLN   100   A   GLN   100   B
-  ARG   104   A   VAL   203   B
   PRO    10   A   ILE    98   B
   GLN   100   A   ASN   141   B
-  ARG    14   A   THR   139   B
-  ARG    14   A   LEU   143   B
+  ASP   140   A   ARG    14   B
+  THR     5   A   THR     5   B
+  ASN   101   A   MET   198   B
+  ARG   104   A   ASP   202   B
+  ASN   101   A   VAL   203   B
+  GLN   100   A   THR   139   B
+  VAL   203   A   ASP   102   B
+  LEU   143   A   ARG    14   B
+  ASP    99   A   GLN   100   B

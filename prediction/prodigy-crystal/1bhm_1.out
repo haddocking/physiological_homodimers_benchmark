@@ -1,15 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1bhm_1.pdb
-[!] Structure contains gaps:
-	A MET1 < Fragment 0 > A MET198
-	B MET1 < Fragment 1 > B ASP208
-[+] Selection: A, B, C, D
-[+] No. of intermolecular contacts: 66
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1bhm_1.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 58
 [+] No. of charged-charged contacts: 19
-[+] No. of charged-polar contacts: 9
-[+] No. of charged-apolar contacts: 14
+[+] No. of charged-polar contacts: 10
+[+] No. of charged-apolar contacts: 15
 [+] No. of polar-polar contacts: 4
 [+] No. of apolar-polar contacts: 6
-[+] No. of apolar-apolar contacts: 14
+[+] No. of apolar-apolar contacts: 4
 [+] Link density: 0.09
-[+] Class: BIO 0.556 0.444
+[+] Class: XTAL 0.204 0.796
 

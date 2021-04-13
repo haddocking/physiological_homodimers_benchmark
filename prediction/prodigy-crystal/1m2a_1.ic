@@ -1,42 +1,41 @@
-  TYR    68   A   PRO    69   B
-  GLY    54   A   THR    51   B
+  PHE     3   A   TYR    68   B
+  TRP    73   A   PHE     3   B
+  MET    56   A   THR    51   B
+  THR    51   A   GLY    54   B
+  VAL    49   A   ASN    57   B
+  PRO    69   A   PRO    69   B
+  MET    56   A   VAL    49   B
+  PHE     7   A   TYR    68   B
+  PHE     3   A   TRP    73   B
+  PHE     7   A   PHE     7   B
+  GLY    54   A   PRO    52   B
   TYR    68   A   HIS     5   B
   THR    53   A   THR    53   B
-  PHE     3   A   TRP    73   B
-  VAL    49   A   ASN    57   B
-  VAL    66   A   HIS     5   B
-  PRO    69   A   PRO    69   B
-  PHE     7   A   THR    53   B
-  MET    56   A   HIS     5   B
   TYR    68   A   PHE     3   B
-  PRO    52   A   GLY    54   B
-  PHE     7   A   MET    56   B
-  THR    51   A   CYS    55   B
-  GLY    54   A   THR    53   B
-  THR    53   A   GLY    54   B
-  GLY    54   A   PRO    52   B
-  ASN    57   A   VAL    49   B
   HIS     5   A   TYR    68   B
-  PRO    52   A   CYS    55   B
-  THR    53   A   THR    51   B
-  TYR    68   A   TYR    68   B
-  CYS    55   A   THR    51   B
-  TYR    68   A   PHE     7   B
-  THR    51   A   THR    53   B
+  GLY    54   A   THR    51   B
+  ASN    57   A   VAL    49   B
+  THR    51   A   CYS    55   B
+  MET    56   A   HIS     5   B
+  PRO    52   A   GLY    54   B
+  VAL    66   A   HIS     5   B
+  HIS     5   A   TRP    73   B
+  THR    53   A   GLY    54   B
+  PHE     7   A   MET    56   B
   THR    51   A   MET    56   B
   TRP    73   A   HIS     5   B
+  TYR    68   A   PRO    69   B
   MET    56   A   PHE     7   B
-  HIS     5   A   MET    56   B
-  PRO    52   A   THR    53   B
-  THR    53   A   PHE     7   B
-  MET    56   A   THR    51   B
-  TRP    73   A   PHE     3   B
-  PHE     3   A   TYR    68   B
   PRO    52   A   PRO    52   B
-  PRO    69   A   TYR    68   B
-  PHE     7   A   TYR    68   B
-  THR    51   A   GLY    54   B
-  PHE     7   A   PHE     7   B
-  HIS     5   A   TRP    73   B
+  CYS    55   A   THR    51   B
+  TYR    68   A   TYR    68   B
+  PHE     7   A   THR    53   B
+  THR    51   A   THR    53   B
   THR    53   A   PRO    52   B
-  CYS    55   A   PRO    52   B
+  TYR    68   A   PHE     7   B
+  GLY    54   A   THR    53   B
+  PRO    69   A   TYR    68   B
+  HIS     5   A   MET    56   B
+  THR    53   A   PHE     7   B
+  THR    53   A   THR    51   B
+  PRO    52   A   THR    53   B

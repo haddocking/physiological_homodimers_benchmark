@@ -1,10 +1,11 @@
-  LYS   292   A   GLU   375   B
-  GLU   375   A   LYS   292   B
   LYS   248   A   SER   247   B
-  GLU   251   A   LYS   248   B
-  SER   244   A   SER   244   B
-  LYS   248   A   LYS   248   B
-  LYS   248   A   GLU   251   B
-  SER   247   A   LYS   248   B
   SER   244   A   LEU   245   B
+  SER   244   A   LYS   248   B
+  GLU   375   A   LYS   292   B
+  LYS   248   A   SER   244   B
+  LYS   248   A   GLU   251   B
   LEU   245   A   SER   244   B
+  SER   244   A   SER   244   B
+  GLU   251   A   LYS   248   B
+  LYS   292   A   GLU   375   B
+  SER   247   A   LYS   248   B

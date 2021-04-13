@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1xlu_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1xlu_1.pdb
 [!] Structure contains gaps:
 	A ILE4 < Fragment 0 > A CYS65
 	A GLN67 < Fragment 1 > A VAL377

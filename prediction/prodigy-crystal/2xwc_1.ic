@@ -1,46 +1,46 @@
-  CYS   187   A   HIS   198   B
-  ILE   184   A   GLU   201   B
-  CYS   152   A   LEU   205   B
-  ASN   149   A   GLU   201   B
-  CYS    84   A   LEU   205   B
-  LYS    73   A   LYS    73   B
   LEU    89   A   PHE   207   B
   GLU   201   A   CYS   187   B
-  SER   151   A   ALA   202   B
-  PHE   207   A   LEU    89   B
-  ASN    86   A   LEU   205   B
-  GLY    90   A   PHE   207   B
-  PHE   207   A   GLY    90   B
-  ASP   197   A   CYS   187   B
-  ALA   202   A   CYS   152   B
-  PHE   207   A   PRO    85   B
+  HIS    87   A   PHE   207   B
   SER   151   A   HIS   198   B
-  HIS   198   A   CYS   187   B
+  PHE   207   A   PRO    85   B
+  GLU   201   A   CYS   185   B
+  ARG   158   A   ASP   195   B
+  PHE   207   A   LEU    89   B
   ASN    86   A   PHE   207   B
-  GLU   201   A   ALA   186   B
-  ALA   202   A   SER   151   B
-  CYS   152   A   ALA   202   B
-  ASN    86   A   TYR   206   B
+  LYS    73   A   LYS    73   B
+  CYS   185   A   HIS   198   B
+  ASN   149   A   GLU   201   B
+  ILE   184   A   GLU   201   B
+  GLU   201   A   SER   151   B
+  ARG   158   A   ARG   158   B
+  PRO    85   A   PHE   207   B
+  HIS   198   A   CYS   185   B
+  HIS    87   A   LEU   205   B
+  CYS   187   A   HIS   198   B
+  SER   151   A   GLU   201   B
+  ASP   191   A   HIS   198   B
   GLU   201   A   ILE   184   B
-  HIS   198   A   ASP   191   B
+  ASN    86   A   LEU   205   B
+  PHE   207   A   GLY    90   B
+  HIS   198   A   SER   151   B
+  CYS   152   A   ALA   202   B
+  PHE   207   A   HIS    87   B
+  GLU    75   A   GLU    75   B
+  ASN    86   A   TYR   206   B
+  GLU   201   A   ASN   149   B
   CYS   185   A   GLU   201   B
+  GLY    90   A   PHE   207   B
+  HIS   198   A   ASP   191   B
+  PHE   207   A   ASN    86   B
   LEU   205   A   HIS    87   B
   ALA   186   A   GLU   201   B
-  HIS   198   A   SER   151   B
-  GLU   201   A   CYS   185   B
-  PRO    85   A   PHE   207   B
-  PHE   207   A   ASN    86   B
+  ASP   195   A   ARG   158   B
+  ALA   202   A   CYS   152   B
+  GLU   201   A   ALA   186   B
   CYS   187   A   GLU   201   B
-  GLU   201   A   SER   151   B
-  LEU   205   A   ASN    86   B
-  HIS    87   A   LEU   205   B
-  GLU    75   A   GLU    75   B
-  CYS   185   A   HIS   198   B
-  SER   151   A   GLU   201   B
+  SER   151   A   ALA   202   B
+  HIS   198   A   ARG   158   B
   TYR   206   A   ASN    86   B
-  GLU   201   A   ASN   149   B
-  ASP   191   A   HIS   198   B
-  LEU   205   A   CYS    84   B
-  LEU   205   A   CYS   152   B
-  HIS   198   A   CYS   185   B
-  CYS   187   A   ASP   197   B
+  ALA   202   A   SER   151   B
+  HIS   198   A   CYS   187   B
+  LEU   205   A   ASN    86   B

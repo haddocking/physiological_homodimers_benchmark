@@ -1,26 +1,24 @@
   ASP   772   A   ARG   776   B
-  ARG   776   A   ASP   771   B
-  HIS   408   A   LYS   109   B
-  ALA   404   A   LYS   106   B
   ASP   772   A   ASP   772   B
-  GLN   773   A   ARG   776   B
-  LYS   635   A   GLN   770   B
-  LYS   106   A   ALA   404   B
-  ARG   695   A   ASP   772   B
-  ALA   404   A   GLY   107   B
-  ARG   776   A   ASP   772   B
-  PRO    89   A   SER    86   B
-  ALA   404   A   ASP   105   B
-  SER    86   A   PRO    89   B
-  GLY   107   A   ALA   404   B
-  ARG   767   A   ASP   772   B
-  ARG   776   A   GLN   773   B
-  ASP   771   A   ARG   776   B
-  ASP   772   A   ARG   695   B
-  ASP   105   A   ALA   404   B
-  LYS   109   A   HIS   408   B
-  GLN   770   A   LYS   635   B
-  ARG   695   A   ARG   695   B
   GLN   627   A   GLN   773   B
-  GLN   773   A   GLN   627   B
+  ASP   772   A   ARG   695   B
+  ALA   404   A   ASP   105   B
+  ALA   404   A   LYS   106   B
+  ARG   695   A   ARG   695   B
   ASP   772   A   ARG   767   B
+  GLY   107   A   ALA   404   B
+  ARG   776   A   GLN   773   B
+  ALA   404   A   GLY   107   B
+  GLN   773   A   ARG   776   B
+  ARG   776   A   ASP   771   B
+  ARG   767   A   ASP   772   B
+  HIS   408   A   LYS   109   B
+  ASP   771   A   ARG   776   B
+  GLN   770   A   LYS   635   B
+  ARG   776   A   ASP   772   B
+  LYS   106   A   ALA   404   B
+  ASP   105   A   ALA   404   B
+  LYS   635   A   GLN   770   B
+  GLN   773   A   GLN   627   B
+  LYS   109   A   HIS   408   B
+  ARG   695   A   ASP   772   B

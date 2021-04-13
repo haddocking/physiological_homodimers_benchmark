@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5yij_5.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/5yij_5.pdb
 [!] Structure contains gaps:
 	A GLY1 < Fragment 0 > A LYS276
 	A ASN280 < Fragment 1 > A GLU962

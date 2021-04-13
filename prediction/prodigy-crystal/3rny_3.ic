@@ -1,39 +1,42 @@
-  TYR   187   A   GLU   135   B
-  TYR    77   A   LEU   181   B
-  TYR   136   A   TYR   187   B
-  ASN   179   A   GLN    79   B
-  LEU   182   A   ARG    76   B
+  PRO   185   A   CYS   186   B
+  CYS   186   A   SER   139   B
   SER   139   A   THR   184   B
-  ARG    76   A   LEU   181   B
+  TYR   187   A   GLU   135   B
+  GLN    79   A   ASN   179   B
+  THR   184   A   THR   184   B
+  TYR    77   A   ARG    76   B
+  GLY   180   A   GLN    79   B
+  LEU   181   A   GLN    79   B
+  ASN   179   A   PRO    81   B
   TYR   136   A   MET   183   B
-  HIS    80   A   LEU   181   B
+  CYS   186   A   CYS   186   B
   CYS   186   A   THR   184   B
-  GLN   140   A   LEU   182   B
-  TYR   136   A   LEU   181   B
   LEU   181   A   TYR   136   B
-  PRO    81   A   ASN   179   B
-  GLN   140   A   THR   184   B
-  THR   184   A   SER   139   B
-  TYR   136   A   LEU   182   B
-  LEU   182   A   GLN   140   B
+  LYS   278   A   CYS   186   B
   GLN    79   A   LEU   181   B
+  GLN    79   A   GLY   180   B
+  GLU   135   A   TYR   187   B
+  GLN   140   A   ARG    76   B
   SER   139   A   TYR   187   B
+  LEU   182   A   ARG    76   B
+  MET   183   A   GLN   140   B
+  CYS   186   A   PRO   185   B
+  THR   184   A   GLN   140   B
   TYR   187   A   SER   139   B
   TYR   187   A   LYS   132   B
   TYR   187   A   TYR   136   B
-  CYS   186   A   PRO   185   B
-  MET   183   A   GLN   140   B
-  LEU   181   A   GLN    79   B
-  LEU   181   A   HIS    80   B
-  CYS   186   A   SER   139   B
-  GLN   140   A   MET   183   B
-  MET   183   A   TYR   136   B
-  THR   184   A   GLN   140   B
-  THR   184   A   THR   184   B
-  SER   139   A   CYS   186   B
   LEU   182   A   TYR   136   B
-  PRO    81   A   LEU   181   B
-  CYS   186   A   CYS   186   B
   LYS   132   A   TYR   187   B
-  ASN   179   A   PRO    81   B
-  GLU   135   A   TYR   187   B
+  ASN   179   A   HIS    80   B
+  TYR   136   A   LEU   182   B
+  LEU   182   A   GLN   140   B
+  TYR   136   A   TYR   187   B
+  TYR   136   A   LEU   181   B
+  ASN   179   A   GLN    79   B
+  THR   184   A   SER   139   B
+  MET   183   A   TYR   136   B
+  HIS    80   A   LEU   181   B
+  GLN   140   A   MET   183   B
+  ARG    76   A   ARG    76   B
+  GLN   140   A   THR   184   B
+  GLN   140   A   LEU   182   B

@@ -1,24 +1,26 @@
-  ASN    13   A   LEU    52   B
+  PRO    50   A   PRO    50   B
   SER    51   A   LEU    52   B
   SER    51   A   GLN    49   B
+  LEU    52   A   MET    11   B
+  LEU    55   A   MET    11   B
+  VAL    56   A   MET    11   B
   LEU    52   A   SER    51   B
-  LEU    55   A   LEU    52   B
-  LEU    52   A   LEU    52   B
+  MET    11   A   LEU    55   B
+  MET    11   A   PRO    66   B
   LEU    52   A   GLN    49   B
-  PRO    50   A   PRO    50   B
-  ILE    70   A   LEU    52   B
-  LEU    52   A   LEU    55   B
   GLN    49   A   SER    51   B
-  ILE    70   A   ILE    70   B
-  PRO    50   A   SER    51   B
-  LEU    52   A   LEU    12   B
   GLN    49   A   LEU    52   B
-  LEU    52   A   ILE    70   B
-  PRO    50   A   LEU    52   B
-  LEU    12   A   LEU    52   B
-  GLN    49   A   ASP    53   B
+  MET    11   A   LEU    52   B
   SER    51   A   PRO    50   B
-  LEU    52   A   PRO    50   B
+  MET    10   A   VAL    56   B
+  MET    11   A   VAL    56   B
+  PRO    50   A   SER    51   B
+  PRO    50   A   LEU    52   B
+  GLN    49   A   ASP    53   B
+  VAL    56   A   MET    10   B
   ASP    53   A   GLN    49   B
+  PRO    66   A   MET    10   B
+  PRO    66   A   MET    11   B
   SER    51   A   SER    51   B
-  LEU    52   A   ASN    13   B
+  LEU    52   A   PRO    50   B
+  MET    10   A   PRO    66   B

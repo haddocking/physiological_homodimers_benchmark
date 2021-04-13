@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5vm9_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/5vm9_1.pdb
 [!] Structure contains gaps:
 	A MET18 < Fragment 0 > A THR112
 	A PRO122 < Fragment 1 > A PHE129
@@ -24,10 +24,10 @@
 [+] No. of intermolecular contacts: 65
 [+] No. of charged-charged contacts: 19
 [+] No. of charged-polar contacts: 11
-[+] No. of charged-apolar contacts: 25
+[+] No. of charged-apolar contacts: 24
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 0
-[+] No. of apolar-apolar contacts: 10
+[+] No. of apolar-apolar contacts: 11
 [+] Link density: 0.07
-[+] Class: XTAL 0.2 0.8
+[+] Class: XTAL 0.216 0.784
 

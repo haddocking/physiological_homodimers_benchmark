@@ -1,60 +1,60 @@
-  PRO    84   A   ASN    27   B
-  LYS    78   A   TYR    20   B
-  GLY   137   A   LYS   215   B
-  HIS    24   A   SER   373   B
-  GLN    85   A   SER    29   B
-  PHE    22   A   GLN    85   B
-  GLU    81   A   ASN    27   B
-  GLN    85   A   ASN    27   B
   HIS    24   A   ALA   374   B
-  LYS    78   A   ARG    14   B
-  TYR   377   A   GLY     7   B
-  GLU     9   A   TYR   377   B
-  HIS    24   A   GLU    81   B
-  TYR   377   A   TRP     8   B
-  LYS    78   A   ARG    11   B
-  ILE    25   A   ALA   374   B
-  ASN    27   A   GLU    81   B
-  GLN   371   A   GLN   108   B
-  PHE    22   A   GLU    81   B
-  TYR   106   A   ASN    27   B
-  SER   373   A   ILE    25   B
-  ALA   374   A   HIS    24   B
-  GLU    81   A   ARG    11   B
-  ALA   374   A   ILE    25   B
-  GLU    80   A   ASN    27   B
-  THR   402   A   LYS   138   B
-  ARG    11   A   LYS    78   B
   ASN    27   A   PRO    84   B
+  SER   373   A   ASN    27   B
+  HIS    24   A   GLU    81   B
+  ASN    27   A   GLU    81   B
+  GLU    81   A   ARG    11   B
+  GLU     9   A   TYR   377   B
+  GLN   371   A   GLN   108   B
+  HIS    24   A   SER   373   B
   GLN    85   A   ALA    28   B
-  TYR   377   A   GLU     9   B
-  ASN   136   A   ILE   214   B
+  ASN    27   A   SER   373   B
   SER   373   A   HIS    24   B
-  LYS   138   A   THR   402   B
-  TYR   377   A   HIS    24   B
+  GLN   371   A   ASN   136   B
+  GLY   137   A   LYS   215   B
+  ALA   374   A   HIS    24   B
+  GLN    85   A   SER    29   B
   GLN   108   A   PRO   370   B
-  THR   402   A   GLU   114   B
+  GLN    85   A   ASN    27   B
   ASN   136   A   GLN   371   B
   HIS    24   A   TYR   377   B
-  GLU    81   A   HIS    24   B
-  ASN    27   A   GLU    80   B
-  ASN   136   A   LYS   215   B
-  ASN    27   A   SER   373   B
-  GLU    81   A   PHE    22   B
-  GLN    85   A   PHE    22   B
-  GLN   371   A   ASN   136   B
-  GLY     7   A   TYR   377   B
-  ILE    25   A   SER   373   B
-  HIS    24   A   ARG   380   B
-  TYR   135   A   GLN   371   B
-  PRO   370   A   GLN   108   B
-  SER    29   A   GLN    85   B
-  TRP     8   A   TYR   377   B
-  ARG    11   A   GLU    81   B
-  GLN   108   A   GLN   371   B
+  TYR   377   A   TRP     8   B
   TYR    20   A   LYS    78   B
+  THR   402   A   GLU   114   B
+  ARG    11   A   LYS    78   B
+  PRO    84   A   ASN    27   B
+  SER   373   A   ILE    25   B
+  ALA   374   A   ILE    25   B
+  SER    29   A   GLN    85   B
+  LYS    78   A   ARG    14   B
+  LYS    78   A   ARG    11   B
+  ILE    25   A   ALA   374   B
+  ASN   136   A   LYS   215   B
+  GLU    81   A   PHE    22   B
+  ILE    25   A   SER   373   B
+  TYR   377   A   GLU     9   B
+  TYR   135   A   GLN   371   B
+  LYS    78   A   TYR    20   B
+  HIS    24   A   ARG   380   B
+  TYR   377   A   GLY     7   B
+  PHE    22   A   GLN    85   B
+  GLN   108   A   GLN   371   B
+  TYR   377   A   HIS    24   B
+  GLU    81   A   HIS    24   B
+  ARG    11   A   GLU    81   B
   GLN   108   A   GLN   108   B
-  SER   373   A   ASN    27   B
-  ALA    28   A   GLN    85   B
-  ARG   102   A   ASN    27   B
+  PRO   370   A   GLN   108   B
+  ASN   136   A   ILE   214   B
+  GLU    80   A   ASN    27   B
+  ASN    27   A   GLU    80   B
   ASN    27   A   GLN    85   B
+  THR   402   A   LYS   138   B
+  GLY     7   A   TYR   377   B
+  GLN    85   A   PHE    22   B
+  PHE    22   A   GLU    81   B
+  ARG   102   A   ASN    27   B
+  LYS   138   A   THR   402   B
+  ALA    28   A   GLN    85   B
+  TYR   106   A   ASN    27   B
+  TRP     8   A   TYR   377   B
+  GLU    81   A   ASN    27   B

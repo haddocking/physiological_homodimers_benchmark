@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1kie_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1kie_1.pdb
 [!] Structure contains gaps:
 	A SER13 < Fragment 0 > A CYS257
 	A TYR270 < Fragment 1 > A CYS339
@@ -12,6 +12,6 @@
 [+] No. of polar-polar contacts: 3
 [+] No. of apolar-polar contacts: 20
 [+] No. of apolar-apolar contacts: 22
-[+] Link density: 0.10
-[+] Class: BIO 0.664 0.336
+[+] Link density: 0.09
+[+] Class: BIO 0.716 0.284
 

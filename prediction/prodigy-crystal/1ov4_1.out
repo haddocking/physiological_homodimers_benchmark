@@ -1,11 +1,11 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1ov4_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1ov4_1.pdb
 [!] Structure contains gaps:
 	A SER10 < Fragment 0 > A GLU233
 	A TYR246 < Fragment 1 > A LEU253
 	A SER259 < Fragment 2 > A GLU293
-	B SER10 < Fragment 3 > B GLU233
-	B TYR246 < Fragment 4 > B LEU253
-	B SER259 < Fragment 5 > B GLU293
+	B SER18 < Fragment 3 > B GLU241
+	B TYR254 < Fragment 4 > B LEU261
+	B SER267 < Fragment 5 > B GLU301
 [+] Selection: A, B
 [+] No. of intermolecular contacts: 27
 [+] No. of charged-charged contacts: 2

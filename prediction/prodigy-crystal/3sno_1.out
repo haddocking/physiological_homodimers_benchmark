@@ -1,27 +1,19 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3sno_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3sno_1.pdb
 [!] Structure contains gaps:
-	A ALA11 < Fragment 0 > A PRO34
-	A VAL36 < Fragment 1 > A GLN92
-	A GLY94 < Fragment 2 > A PRO102
-	A ALA104 < Fragment 3 > A VAL146
-	A THR148 < Fragment 4 > A ARG151
-	A PHE205 < Fragment 5 > A PRO237
-	A GLY238 < Fragment 6 > A GLY315
-	B ALA11 < Fragment 7 > B PRO34
-	B VAL36 < Fragment 8 > B GLN92
-	B GLY94 < Fragment 9 > B PRO102
-	B ALA104 < Fragment 10 > B VAL146
-	B THR148 < Fragment 11 > B ARG151
-	B PHE205 < Fragment 12 > B PRO237
-	B GLY238 < Fragment 13 > B GLY315
+	A ALA11 < Fragment 0 > A ARG151
+	A PHE205 < Fragment 1 > A PRO237
+	A GLY238 < Fragment 2 > A GLY315
+	B ALA11 < Fragment 3 > B ARG151
+	B PHE205 < Fragment 4 > B PRO237
+	B GLY238 < Fragment 5 > B GLY315
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 38
+[+] No. of intermolecular contacts: 44
 [+] No. of charged-charged contacts: 0
 [+] No. of charged-polar contacts: 2
 [+] No. of charged-apolar contacts: 4
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 8
-[+] No. of apolar-apolar contacts: 24
+[+] No. of apolar-apolar contacts: 30
 [+] Link density: 0.12
-[+] Class: BIO 0.552 0.448
+[+] Class: BIO 0.792 0.208
 

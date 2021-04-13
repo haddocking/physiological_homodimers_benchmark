@@ -1,60 +1,64 @@
-  GLU   231   A   ARG   148   B
-  ARG   220   A   ARG   452   B
-  GLU   189   A   ARG   151   B
-  LYS   223   A   PRO   451   B
-  ASP   185   A   ARG   151   B
-  GLN   228   A   ARG   148   B
-  ARG   182   A   ARG   148   B
-  LEU   186   A   GLU   469   B
-  GLU   469   A   ALA   224   B
-  PHE   221   A   PRO   467   B
-  ARG   179   A   ARG   148   B
-  PRO   451   A   ARG   220   B
-  ALA   224   A   GLU   469   B
-  PHE   221   A   GLU   469   B
-  GLU   469   A   ARG   220   B
-  ARG   220   A   PRO   451   B
-  TYR   468   A   ARG   220   B
-  GLN   450   A   ARG   182   B
   PRO   451   A   GLY   216   B
-  ARG   220   A   PRO   453   B
-  PRO   451   A   LYS   223   B
-  PRO   149   A   ARG   182   B
-  ARG   148   A   ARG   182   B
-  HIS   145   A   PRO   178   B
-  PRO   453   A   ARG   220   B
+  ARG   220   A   ARG   452   B
   GLN   450   A   ALA   224   B
-  ARG   148   A   GLU   231   B
-  ASP   185   A   GLU   469   B
-  GLU   469   A   ARG   182   B
-  LYS   217   A   ARG   452   B
-  ARG   220   A   GLN   450   B
+  LYS   217   A   SER   466   B
+  PHE   221   A   PRO   467   B
+  ARG   220   A   PRO   453   B
   PRO   467   A   PHE   221   B
-  ARG   148   A   ARG   179   B
-  ARG   452   A   ARG   220   B
   ARG   220   A   TYR   468   B
-  GLY   216   A   PRO   451   B
-  ARG   148   A   GLN   228   B
-  LYS   217   A   PRO   451   B
-  GLU   469   A   ASP   185   B
-  ARG   151   A   GLU   189   B
-  PRO   467   A   GLU   189   B
-  ARG   182   A   PRO   149   B
+  TYR   468   A   ARG   220   B
   ARG   182   A   GLU   469   B
-  ARG   220   A   PRO   467   B
-  PHE   221   A   ARG   151   B
-  GLU   469   A   PHE   221   B
-  ARG   452   A   LYS   217   B
-  TYR   468   A   PHE   221   B
-  ARG   220   A   GLU   469   B
-  GLU   469   A   LEU   186   B
-  ALA   224   A   GLN   450   B
   ARG   151   A   ASP   185   B
+  LYS   217   A   PRO   451   B
+  PRO   453   A   ARG   220   B
   GLN   450   A   ARG   220   B
+  ARG   148   A   ARG   182   B
+  GLU   469   A   PHE   221   B
+  PRO   451   A   LYS   223   B
+  PHE   221   A   GLU   469   B
+  PHE   221   A   ARG   151   B
+  PHE   150   A   ARG   182   B
+  LYS   217   A   SER   454   B
+  GLN   450   A   ARG   182   B
+  LYS   223   A   PRO   451   B
+  GLU   469   A   LEU   186   B
+  ARG   148   A   ARG   179   B
+  ARG   220   A   GLU   469   B
+  HIS   145   A   PRO   178   B
   ARG   182   A   GLN   450   B
-  PRO   178   A   HIS   145   B
+  LYS   217   A   ARG   452   B
+  PRO   451   A   ARG   220   B
+  GLU   469   A   ALA   224   B
+  PRO   467   A   GLU   189   B
+  ALA   224   A   GLU   469   B
+  ARG   151   A   PHE   221   B
   PRO   451   A   LYS   217   B
   PRO   467   A   ARG   220   B
+  ARG   182   A   PRO   149   B
+  ASP   185   A   GLU   469   B
+  ARG   220   A   PRO   467   B
+  LYS   217   A   PRO   453   B
+  HIS   455   A   LYS   217   B
+  ARG   148   A   GLN   228   B
+  GLN   228   A   ARG   148   B
+  ARG   220   A   PRO   451   B
+  ARG   182   A   ARG   148   B
+  TYR   468   A   PHE   221   B
+  GLU   469   A   ARG   220   B
+  ARG   148   A   GLU   231   B
+  PRO   149   A   ARG   182   B
+  GLY   216   A   PRO   451   B
+  ARG   452   A   ARG   220   B
+  ARG   220   A   GLN   450   B
   GLU   189   A   PRO   467   B
-  ARG   151   A   PHE   221   B
+  GLU   231   A   ARG   148   B
+  ALA   224   A   GLN   450   B
+  ASP   185   A   ARG   151   B
+  GLU   469   A   ASP   185   B
+  ARG   452   A   LYS   217   B
+  GLU   469   A   ARG   182   B
   PHE   221   A   TYR   468   B
+  LEU   186   A   GLU   469   B
+  ARG   179   A   ARG   148   B
+  ARG   151   A   GLU   189   B
+  GLU   189   A   ARG   151   B

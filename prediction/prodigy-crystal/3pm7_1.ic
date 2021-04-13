@@ -1,64 +1,50 @@
-  SER    17   A   GLU    61   B
-  LEU    57   A   LEU    41   B
-  GLU    61   A   GLU    43   B
-  LEU    41   A   ILE    55   B
-  LYS    25   A   THR    56   B
-  LYS    25   A   GLU    61   B
-  LEU    41   A   LEU    57   B
-  LYS    25   A   LEU    57   B
-  ILE    69   A   SER    66   B
-  LEU    65   A   LEU    16   B
-  LEU    27   A   LEU    65   B
-  GLY    54   A   ILE    55   B
-  ALA    14   A   THR    68   B
-  LEU    27   A   THR    68   B
-  LEU    16   A   LEU    57   B
-  GLU    43   A   GLU    61   B
-  THR    68   A   LEU    27   B
   VAL    15   A   GLU    64   B
   ILE    55   A   LEU    41   B
-  LEU    65   A   LEU    27   B
-  GLU    64   A   VAL    15   B
-  GLU    60   A   LEU    16   B
-  LYS    70   A   LEU    73   B
-  ILE    55   A   ARG    42   B
-  GLU    61   A   SER    17   B
-  LYS    25   A   THR    58   B
-  LEU    16   A   GLU    60   B
-  ILE    55   A   LYS    25   B
-  LEU    57   A   LYS    25   B
-  LEU    65   A   LEU    65   B
-  LEU    16   A   GLU    61   B
+  PHE    62   A   MET    72   B
+  MET    72   A   VAL    13   B
   GLU    61   A   LYS    25   B
-  ARG    42   A   ILE    55   B
-  GLY    54   A   LYS    53   B
-  LEU    41   A   LEU    65   B
-  LEU    73   A   SER    66   B
-  LEU    65   A   LEU    41   B
-  THR    58   A   LYS    25   B
-  LEU    16   A   GLU    64   B
-  THR    68   A   VAL    13   B
-  ILE    55   A   ILE    55   B
-  ILE    55   A   LYS    53   B
+  LEU    16   A   GLU    60   B
   PHE    62   A   ILE    69   B
-  ILE    69   A   LEU    65   B
-  GLU    43   A   ILE    55   B
-  LEU    41   A   LEU    41   B
-  SER    66   A   ILE    69   B
-  LYS    25   A   ILE    55   B
-  THR    68   A   ALA    14   B
-  LEU    65   A   ILE    69   B
+  LEU    16   A   GLU    64   B
+  LEU    16   A   GLU    61   B
+  VAL    13   A   MET    72   B
+  LYS    25   A   LEU    57   B
   VAL    13   A   THR    68   B
-  THR    56   A   LYS    25   B
-  LEU    16   A   LEU    65   B
-  GLU    64   A   LEU    16   B
-  SER    66   A   LEU    73   B
-  LEU    73   A   LYS    70   B
-  LEU    57   A   LEU    16   B
+  GLY    54   A   LYS    53   B
+  GLU    60   A   LEU    16   B
+  THR    58   A   LYS    25   B
+  GLU    64   A   VAL    15   B
+  GLU    61   A   GLU    43   B
+  SER    17   A   GLU    61   B
+  LYS    25   A   GLU    61   B
+  LEU    57   A   LYS    25   B
+  SER    66   A   ILE    69   B
   GLY    54   A   GLY    54   B
+  LYS    25   A   ILE    55   B
   GLU    61   A   LEU    16   B
+  ILE    55   A   LYS    25   B
+  THR    68   A   VAL    13   B
+  LYS    25   A   THR    58   B
+  MET    72   A   PHE    62   B
+  LEU    16   A   LEU    65   B
+  THR    56   A   LYS    25   B
+  SER    66   A   LEU    73   B
   LYS    53   A   ILE    55   B
+  LEU    41   A   ILE    55   B
+  GLY    54   A   ILE    55   B
+  GLU    64   A   LEU    16   B
+  ILE    55   A   LYS    53   B
+  MET    72   A   PHE    39   B
   GLU    60   A   SER    17   B
-  ILE    69   A   ILE    69   B
-  ILE    69   A   PHE    62   B
+  THR    68   A   ALA    14   B
   ILE    55   A   GLY    54   B
+  ALA    14   A   THR    68   B
+  GLU    61   A   SER    17   B
+  ILE    69   A   PHE    62   B
+  LYS    25   A   THR    56   B
+  LEU    65   A   LEU    16   B
+  ILE    69   A   SER    66   B
+  GLU    43   A   GLU    61   B
+  PHE    39   A   MET    72   B
+  ILE    69   A   ILE    69   B
+  ILE    55   A   ILE    55   B

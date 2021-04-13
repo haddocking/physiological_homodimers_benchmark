@@ -1,50 +1,45 @@
-  ASP   196   A   ALA   177   B
+  ALA   171   A   ALA   171   B
+  ILE   185   A   ILE   180   B
+  ALA   174   A   ALA   171   B
+  TYR   188   A   ALA   177   B
   ASN   189   A   ILE   180   B
-  ILE   192   A   GLN   178   B
-  PRO   182   A   ASN   189   B
+  ALA   167   A   ALA   177   B
+  SER   175   A   ALA   171   B
+  GLN   178   A   TYR   188   B
+  LEU   173   A   TYR   188   B
+  PRO   179   A   ASN   189   B
+  GLN   178   A   ASN   189   B
   VAL   170   A   ALA   174   B
+  TYR   188   A   GLN   178   B
+  ALA   167   A   SER   175   B
+  PRO   179   A   ILE   192   B
+  ALA   174   A   VAL   170   B
   ILE   192   A   PRO   179   B
-  ILE   180   A   ILE   185   B
-  ASN   189   A   GLN   178   B
   ALA   174   A   TYR   188   B
   ASN   189   A   PRO   179   B
-  ALA   174   A   ALA   167   B
+  TYR   181   A   ASN   189   B
   ALA   177   A   ILE   192   B
-  ILE   185   A   ILE   180   B
-  LEU   195   A   ALA   177   B
-  ILE   180   A   VAL   170   B
-  ALA   167   A   ALA   177   B
-  GLN   178   A   TYR   188   B
-  VAL   170   A   VAL   170   B
-  ALA   174   A   VAL   170   B
-  LEU   173   A   TYR   188   B
-  ALA   171   A   ALA   174   B
-  PRO   179   A   TYR   188   B
   ILE   180   A   TYR   188   B
-  TYR   188   A   ILE   180   B
-  TYR   188   A   LEU   173   B
-  TYR   188   A   ALA   177   B
-  GLN   178   A   ASN   189   B
-  TYR   188   A   GLN   178   B
-  ILE   185   A   ILE   185   B
-  VAL   170   A   ILE   180   B
-  PRO   179   A   ASN   189   B
-  ASN   189   A   TYR   181   B
-  ILE   180   A   ASN   189   B
+  ILE   192   A   ALA   177   B
+  TYR   188   A   ALA   174   B
+  ALA   167   A   ALA   174   B
+  ALA   177   A   LEU   195   B
   TRP    86   A   ASN   189   B
+  ASN   189   A   TRP    86   B
+  ALA   174   A   ALA   167   B
   ALA   177   A   TYR   188   B
   ALA   171   A   SER   175   B
-  ALA   177   A   ALA   167   B
-  ALA   174   A   ALA   171   B
-  ILE   192   A   ALA   177   B
-  TYR   181   A   ASN   189   B
-  SER   175   A   ALA   171   B
+  ILE   180   A   ILE   185   B
+  ILE   180   A   ASN   189   B
+  TYR   188   A   ILE   180   B
+  VAL   170   A   VAL   170   B
+  ILE   185   A   ILE   185   B
+  LEU   195   A   ALA   177   B
   GLN   178   A   ILE   192   B
-  ALA   167   A   ALA   174   B
+  ALA   177   A   ALA   167   B
+  ILE   192   A   GLN   178   B
+  ASN   189   A   GLN   178   B
   TYR   188   A   PRO   179   B
-  PRO   179   A   ILE   192   B
-  ALA   171   A   ALA   171   B
-  ASN   189   A   PRO   182   B
-  ASN   189   A   TRP    86   B
-  ALA   177   A   LEU   195   B
-  TYR   188   A   ALA   174   B
+  TYR   188   A   LEU   173   B
+  PRO   179   A   TYR   188   B
+  ALA   171   A   ALA   174   B

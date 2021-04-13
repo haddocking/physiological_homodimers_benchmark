@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2e1d_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2e1d_1.pdb
 [+] Selection: A, B
 [+] No. of intermolecular contacts: 48
 [+] No. of charged-charged contacts: 17

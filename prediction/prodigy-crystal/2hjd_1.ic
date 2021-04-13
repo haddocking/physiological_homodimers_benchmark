@@ -1,70 +1,46 @@
   LEU    24   A   ALA    64   B
-  HIS    80   A   LEU    20   B
-  GLU    78   A   GLU    78   B
-  ASN    35   A   GLU    74   B
-  ILE    77   A   LEU    32   B
+  LEU    70   A   ASP    28   B
   ILE    77   A   ALA    85   B
-  ILE    77   A   LEU    14   B
-  LEU    20   A   TYR    72   B
-  LEU    24   A   GLY    65   B
-  ILE    77   A   VAL    17   B
   ASP    28   A   ALA    64   B
-  GLY    65   A   ASP    28   B
-  LEU    14   A   HIS    80   B
-  ALA    81   A   SER    84   B
-  LEU    70   A   LEU    32   B
-  ALA    85   A   ILE    77   B
-  ALA    81   A   GLN    82   B
-  LEU    20   A   ILE    73   B
-  GLU    74   A   LEU    32   B
-  ILE    77   A   LEU    89   B
-  HIS    69   A   LEU    20   B
-  LEU    89   A   ILE    77   B
+  ALA    64   A   LEU    24   B
+  ALA    64   A   ASP    28   B
   LEU    20   A   MET    76   B
-  GLU    74   A   ASN    35   B
-  ALA    64   A   ARG    22   B
-  HIS    80   A   LEU    14   B
-  TYR    72   A   LEU    20   B
-  LEU    24   A   LEU    70   B
-  ILE    73   A   LEU    20   B
-  GLY    65   A   LEU    24   B
-  LEU    32   A   ILE    77   B
-  LEU    32   A   GLU    74   B
-  LEU    20   A   HIS    69   B
-  HIS    69   A   LEU    24   B
+  LEU    24   A   GLY    65   B
+  PRO    16   A   HIS    80   B
+  LEU    14   A   ALA    81   B
   LEU    20   A   HIS    80   B
-  LEU    24   A   HIS    69   B
-  ALA    81   A   ALA    85   B
-  THR    21   A   ILE    73   B
-  ALA    81   A   ALA    81   B
-  ALA    85   A   ALA    81   B
+  LEU    20   A   HIS    69   B
+  LEU    20   A   ILE    73   B
+  ALA    81   A   SER    84   B
+  ILE    77   A   VAL    17   B
+  ASN    35   A   GLU    74   B
+  HIS    69   A   LEU    20   B
+  ILE    73   A   THR    21   B
+  LEU    32   A   GLU    74   B
+  GLU    74   A   ASN    35   B
   ARG    22   A   ALA    64   B
-  LEU    14   A   ILE    77   B
-  LEU    24   A   ILE    73   B
+  LEU    70   A   LEU    32   B
+  GLY    65   A   ASP    28   B
+  GLU    74   A   LEU    32   B
+  ALA    81   A   ALA    81   B
   ASP    28   A   GLY    65   B
-  GLN    82   A   ALA    81   B
+  ALA    81   A   ALA    85   B
+  ALA    81   A   GLN    82   B
+  LEU    14   A   HIS    80   B
   VAL    17   A   ILE    77   B
   MET    76   A   LEU    20   B
-  GLY    66   A   ASP    28   B
-  THR    31   A   LEU    70   B
-  ALA    64   A   GLY    23   B
-  ALA    64   A   ASP    28   B
-  LEU    20   A   ILE    77   B
-  GLY    23   A   ALA    64   B
-  LEU    14   A   ALA    81   B
-  ALA    81   A   LEU    14   B
   ASP    28   A   GLY    66   B
-  ASP    28   A   LEU    70   B
-  LEU    70   A   LEU    24   B
-  HIS    80   A   PRO    16   B
-  PRO    16   A   HIS    80   B
-  ILE    73   A   LEU    24   B
-  ALA    64   A   LEU    24   B
-  ILE    77   A   LEU    20   B
-  LEU    32   A   ILE    73   B
-  LEU    70   A   ASP    28   B
-  ILE    73   A   THR    21   B
-  ILE    73   A   LEU    32   B
-  LEU    70   A   THR    31   B
+  ALA    64   A   ARG    22   B
+  GLN    82   A   ALA    81   B
+  GLY    66   A   ASP    28   B
   SER    84   A   ALA    81   B
-  LEU    32   A   LEU    70   B
+  ALA    85   A   ILE    77   B
+  THR    21   A   ILE    73   B
+  GLY    23   A   ALA    64   B
+  ALA    64   A   GLY    23   B
+  ASP    28   A   LEU    70   B
+  HIS    80   A   PRO    16   B
+  ALA    81   A   LEU    14   B
+  THR    31   A   GLU    74   B
+  ILE    73   A   LEU    20   B
+  ALA    85   A   ALA    81   B

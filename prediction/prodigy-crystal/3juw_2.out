@@ -1,27 +1,17 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3juw_2.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3juw_2.pdb
 [!] Structure contains gaps:
-	C ARG8 < Fragment 0 > C SER22
-	C ALA24 < Fragment 1 > C ALA31
-	C GLU33 < Fragment 2 > C GLY58
-	C TRP60 < Fragment 3 > C GLU77
-	C ARG79 < Fragment 4 > C ALA118
-	C GLN120 < Fragment 5 > C SER129
-	C GLN133 < Fragment 6 > C ALA174
-	A ARG8 < Fragment 7 > A SER22
-	A ALA24 < Fragment 8 > A ALA31
-	A GLU33 < Fragment 9 > A GLY58
-	A TRP60 < Fragment 10 > A GLU77
-	A ARG79 < Fragment 11 > A ALA118
-	A GLN120 < Fragment 12 > A SER129
-	A GLN133 < Fragment 13 > A ALA174
-[+] Selection: C, A
-[+] No. of intermolecular contacts: 49
+	A ARG10 < Fragment 0 > A SER131
+	A GLN135 < Fragment 1 > A ALA176
+	B ARG8 < Fragment 2 > B SER129
+	B GLN133 < Fragment 3 > B ALA174
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 57
 [+] No. of charged-charged contacts: 15
 [+] No. of charged-polar contacts: 2
 [+] No. of charged-apolar contacts: 10
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 6
-[+] No. of apolar-apolar contacts: 16
+[+] No. of apolar-apolar contacts: 24
 [+] Link density: 0.11
-[+] Class: XTAL 0.316 0.684
+[+] Class: BIO 0.56 0.44
 

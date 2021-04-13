@@ -1,19 +1,20 @@
-  GLU   385   A   LYS    13   B
-  SER   388   A   GLN    10   B
   LYS    13   A   GLU   385   B
-  GLN     6   A   LYS    13   B
-  GLN     6   A   GLN    10   B
-  GLN   190   A   SER   131   B
-  GLU    70   A   ARG   252   B
-  GLU    73   A   ASN   255   B
-  GLN    68   A   LEU    69   B
-  GLN    68   A   GLN    68   B
   GLN    10   A   SER   388   B
-  LEU    69   A   GLN    68   B
-  GLU   385   A   GLU   385   B
-  GLN    10   A   GLN     6   B
+  GLN    68   A   LEU    69   B
   ARG   252   A   GLU    70   B
-  GLU    73   A   ARG   253   B
-  GLU    70   A   ARG   318   B
-  ASN   255   A   GLU    73   B
+  GLN    68   A   GLN    68   B
+  GLN   190   A   SER   131   B
+  GLN    10   A   GLN     6   B
   ARG   318   A   GLU    70   B
+  ARG   253   A   GLU    73   B
+  GLU    73   A   ASN   255   B
+  GLU   385   A   GLU   385   B
+  GLN     6   A   GLN    10   B
+  LEU    69   A   GLN    68   B
+  GLU    73   A   ARG   253   B
+  SER   388   A   GLN    10   B
+  GLU    70   A   ARG   318   B
+  GLN     6   A   LYS    13   B
+  ASN   255   A   GLU    73   B
+  GLU   385   A   LYS    13   B
+  GLU    70   A   ARG   252   B

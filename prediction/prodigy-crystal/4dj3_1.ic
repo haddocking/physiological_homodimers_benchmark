@@ -1,41 +1,47 @@
-  PHE   271   A   PHE   261   B
-  TRP   265   A   TRP   258   B
-  SER   259   A   PRO   264   B
-  ARG    82   A   GLN    92   B
-  ALA    86   A   ARG    82   B
-  ARG   275   A   TRP   265   B
-  PRO   264   A   ILE   273   B
-  PHE   261   A   SER   260   B
-  TRP   265   A   PRO   236   B
-  SER   257   A   TRP   265   B
-  PHE   261   A   ILE   273   B
-  ILE   273   A   TRP   265   B
-  TRP   265   A   THR   177   B
-  PHE   261   A   PHE   271   B
-  TRP   265   A   ILE   273   B
-  PHE    44   A   ARG    82   B
-  TRP   265   A   SER   257   B
-  THR   177   A   TRP   265   B
-  PRO   264   A   PRO   236   B
-  ILE   273   A   PHE   261   B
-  SER   259   A   TRP   265   B
-  THR    88   A   ARG    82   B
-  PRO   264   A   SER   259   B
   PHE   271   A   PHE   271   B
-  SER   260   A   PHE   261   B
-  ALA    89   A   ARG    82   B
-  ARG    11   A   ASN   298   B
-  PHE   261   A   PHE   261   B
-  PRO    90   A   ARG    82   B
+  PRO   264   A   SER   259   B
+  PHE   261   A   PHE   271   B
+  CYS   108   A   ALA   303   B
+  LEU    12   A   ASN   298   B
+  ARG    82   A   GLN    92   B
+  ARG    82   A   TYR    85   B
   TRP   265   A   SER   259   B
-  GLY   274   A   TRP   265   B
+  ALA    89   A   ARG    82   B
+  ALA    86   A   ARG    82   B
+  PRO    90   A   ARG    82   B
+  TRP   265   A   SER   257   B
   PRO   236   A   TRP   265   B
-  ILE   273   A   PRO   264   B
-  TRP   258   A   TRP   265   B
-  TRP   265   A   GLY   274   B
+  TRP   265   A   TRP   258   B
+  ILE   273   A   TRP   265   B
+  THR   177   A   TRP   265   B
+  SER   259   A   PRO   264   B
+  ARG    82   A   ALA    86   B
+  THR    88   A   ARG    82   B
+  PHE   261   A   ILE   273   B
+  ILE   273   A   PHE   261   B
+  TRP   265   A   THR   177   B
+  SER   257   A   TRP   265   B
   GLY    10   A   LYS   294   B
   TRP   265   A   ARG   275   B
-  ARG    11   A   LYS   294   B
+  TRP   258   A   TRP   265   B
+  ARG    82   A   ARG    82   B
+  PRO   264   A   PRO   236   B
+  ARG    82   A   ALA    89   B
+  ARG    11   A   ASN   298   B
+  TRP   265   A   ILE   273   B
   PRO   236   A   PRO   264   B
-  PHE    84   A   ARG    82   B
+  TRP   265   A   GLY   274   B
+  ILE   273   A   PRO   264   B
+  PHE   271   A   PHE   261   B
   TYR    85   A   ARG    82   B
+  PHE   261   A   PHE   261   B
+  TRP   265   A   PRO   236   B
+  PHE    44   A   ARG    82   B
+  PHE    84   A   ARG    82   B
+  ARG   275   A   TRP   265   B
+  PRO   264   A   ILE   273   B
+  ARG    11   A   LYS   294   B
+  SER   260   A   PHE   261   B
+  GLY   274   A   TRP   265   B
+  PHE   261   A   SER   260   B
+  SER   259   A   TRP   265   B

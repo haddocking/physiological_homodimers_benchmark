@@ -1,35 +1,21 @@
-  ALA    10   A   LEU     4   B
-  LEU     4   A   LEU     7   B
-  LEU     4   A   ILE    14   B
-  GLY     8   A   ALA    11   B
-  LEU     4   A   ALA    11   B
-  GLU    23   A   PHE    27   B
-  LEU     7   A   LEU    25   B
-  GLY     5   A   ALA    11   B
-  VAL    22   A   ALA    29   B
-  GLN    24   A   PHE    27   B
-  LEU    36   A   LEU     4   B
-  LEU     4   A   ALA    10   B
-  LEU    25   A   LEU     7   B
-  LEU     4   A   LEU    25   B
-  PHE    27   A   GLN    24   B
-  ILE    14   A   LEU     4   B
-  GLY     8   A   GLY     8   B
-  ALA    29   A   VAL    22   B
-  GLU    23   A   ALA    29   B
+  PHE    27   A   VAL    22   B
   ALA    29   A   GLU    23   B
-  PHE    27   A   LEU    25   B
+  GLU    23   A   PHE    27   B
+  ALA    11   A   GLY     5   B
+  PHE    27   A   GLU    23   B
+  LEU     4   A   ALA    11   B
+  VAL    22   A   LEU     4   B
+  LEU     4   A   VAL    22   B
+  GLY     5   A   ALA    11   B
+  GLN    24   A   PHE    27   B
+  GLY     8   A   GLY     8   B
+  PHE    27   A   GLN    24   B
+  GLY     8   A   ALA    11   B
+  VAL    22   A   ALA    29   B
   ALA    11   A   LEU     4   B
-  LEU     4   A   LEU    36   B
-  LEU     7   A   LEU     7   B
+  ALA    29   A   VAL    22   B
+  VAL    22   A   PHE    27   B
   LEU    25   A   PHE    27   B
   ALA    11   A   GLY     8   B
-  LEU    25   A   LEU     4   B
-  LEU     4   A   VAL    22   B
-  VAL    22   A   PHE    27   B
-  VAL    22   A   LEU     4   B
-  PHE    27   A   VAL    22   B
-  PHE    27   A   GLU    23   B
-  LEU     7   A   LEU     4   B
-  ALA    11   A   GLY     5   B
-  LEU    25   A   LEU    25   B
+  GLU    23   A   ALA    29   B
+  PHE    27   A   LEU    25   B

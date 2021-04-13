@@ -1,47 +1,43 @@
-  VAL     4   A   ILE    64   B
-  TYR    63   A   HIS    30   B
-  HIS    30   A   TYR    63   B
-  PRO    61   A   GLY    29   B
-  MET     3   A   MET     3   B
-  GLY    29   A   HIS    60   B
-  VAL    31   A   ILE    62   B
-  CYS    28   A   PRO    61   B
-  HIS    60   A   GLU    27   B
-  GLY    29   A   PRO    61   B
-  VAL    31   A   TYR    63   B
-  ILE    62   A   VAL    31   B
-  GLU    27   A   HIS    60   B
-  MET     3   A   GLY     1   B
-  ILE    62   A   SER    25   B
-  MET     3   A   VAL     4   B
-  VAL     4   A   VAL     4   B
-  GLY     1   A   MET     3   B
-  HIS    60   A   SER    25   B
   ILE    62   A   ILE    62   B
+  TYR    63   A   GLY    29   B
+  HIS    60   A   THR    26   B
+  ILE    62   A   SER    25   B
+  VAL     4   A   ALA     2   B
+  TYR    63   A   HIS    30   B
+  HIS    60   A   GLU    27   B
+  VAL    31   A   ILE    64   B
+  GLY     1   A   MET     3   B
+  MET     3   A   GLY     1   B
+  HIS    30   A   TYR    63   B
+  MET     3   A   ALA     2   B
+  ILE    62   A   GLY    29   B
+  GLU    27   A   HIS    60   B
   TYR    63   A   VAL    31   B
+  VAL    31   A   ILE    62   B
+  GLU    27   A   GLU    27   B
   VAL     4   A   MET     3   B
-  CYS    28   A   TYR    63   B
   TYR    63   A   CYS    28   B
   SER    25   A   ILE    62   B
-  ILE    62   A   GLY    29   B
-  SER    25   A   HIS    60   B
-  ILE    64   A   VAL     4   B
-  HIS    60   A   GLY    29   B
-  HIS    60   A   THR    26   B
-  GLU    27   A   PRO    61   B
-  PRO    61   A   GLU    27   B
-  ALA     2   A   VAL     4   B
-  TYR    63   A   GLY    29   B
-  GLU    27   A   GLU    27   B
-  HIS    60   A   HIS    60   B
   GLY    29   A   ILE    62   B
-  THR    26   A   HIS    60   B
-  VAL    31   A   ILE    64   B
-  ILE    64   A   VAL    31   B
+  VAL     4   A   VAL     4   B
+  VAL     4   A   ILE    64   B
+  VAL    31   A   TYR    63   B
+  SER    25   A   HIS    60   B
   ALA     2   A   MET     3   B
-  MET     3   A   ALA     2   B
-  GLY    29   A   TYR    63   B
-  VAL     4   A   ALA     2   B
-  PRO    61   A   SER    25   B
+  CYS    28   A   TYR    63   B
+  GLY    29   A   HIS    60   B
+  HIS    60   A   SER    25   B
+  HIS    60   A   HIS    60   B
   PRO    61   A   CYS    28   B
-  SER    25   A   PRO    61   B
+  GLY    29   A   TYR    63   B
+  ALA     2   A   VAL     4   B
+  ILE    64   A   VAL     4   B
+  THR    26   A   HIS    60   B
+  HIS    60   A   GLY    29   B
+  CYS    28   A   PRO    61   B
+  ILE    64   A   VAL    31   B
+  MET     3   A   MET     3   B
+  ILE    62   A   VAL    31   B
+  GLY    29   A   PRO    61   B
+  PRO    61   A   GLY    29   B
+  MET     3   A   VAL     4   B

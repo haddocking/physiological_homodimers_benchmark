@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4mgt_2.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4mgt_2.pdb
 [!] Structure contains gaps:
 	A MET1 < Fragment 0 > A ALA125
 	A SER128 < Fragment 1 > A SER148
@@ -14,6 +14,6 @@
 [+] No. of polar-polar contacts: 6
 [+] No. of apolar-polar contacts: 12
 [+] No. of apolar-apolar contacts: 16
-[+] Link density: 0.13
-[+] Class: XTAL 0.432 0.568
+[+] Link density: 0.12
+[+] Class: XTAL 0.448 0.552
 

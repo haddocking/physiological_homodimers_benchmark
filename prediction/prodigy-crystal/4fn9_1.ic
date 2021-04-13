@@ -1,21 +1,21 @@
-  TRP   188   A   PHE   191   B
   SER   184   A   LYS   196   B
-  TRP   188   A   TRP   188   B
-  SER   184   A   HIS   252   B
-  HIS   252   A   TRP   188   B
-  SER   184   A   TYR   192   B
-  PHE   191   A   TRP   188   B
-  TYR   192   A   TRP   188   B
-  ALA   185   A   TYR   192   B
-  PHE   251   A   TRP   188   B
-  HIS   252   A   ASN   187   B
-  TYR   192   A   SER   184   B
   TRP   188   A   GLN   189   B
-  LYS   253   A   SER   184   B
-  LYS   196   A   TRP   188   B
-  LYS   196   A   SER   184   B
-  TRP   188   A   HIS   252   B
-  THR   195   A   TRP   188   B
-  TRP   188   A   TYR   192   B
   TYR   192   A   ALA   185   B
+  THR   195   A   TRP   188   B
+  PHE   191   A   TRP   188   B
+  LYS   196   A   SER   184   B
+  HIS   252   A   ASN   187   B
   HIS   252   A   SER   184   B
+  TYR   192   A   TRP   188   B
+  PHE   251   A   TRP   188   B
+  LYS   253   A   SER   184   B
+  ALA   185   A   TYR   192   B
+  TRP   188   A   TRP   188   B
+  LYS   196   A   TRP   188   B
+  SER   184   A   TYR   192   B
+  TRP   188   A   TYR   192   B
+  HIS   252   A   TRP   188   B
+  TRP   188   A   PHE   191   B
+  SER   184   A   HIS   252   B
+  TRP   188   A   HIS   252   B
+  TYR   192   A   SER   184   B

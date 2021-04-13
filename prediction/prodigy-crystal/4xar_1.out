@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4xar_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4xar_1.pdb
 [!] Structure contains gaps:
 	A ARG32 < Fragment 0 > A LEU119
 	A LEU142 < Fragment 1 > A LEU365

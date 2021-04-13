@@ -1,12 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4pyz_4.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4pyz_4.pdb
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 60
-[+] No. of charged-charged contacts: 8
+[+] No. of intermolecular contacts: 58
+[+] No. of charged-charged contacts: 9
 [+] No. of charged-polar contacts: 14
-[+] No. of charged-apolar contacts: 9
+[+] No. of charged-apolar contacts: 10
 [+] No. of polar-polar contacts: 0
-[+] No. of apolar-polar contacts: 10
-[+] No. of apolar-apolar contacts: 19
-[+] Link density: 0.10
-[+] Class: XTAL 0.428 0.572
+[+] No. of apolar-polar contacts: 8
+[+] No. of apolar-apolar contacts: 17
+[+] Link density: 0.09
+[+] Class: XTAL 0.336 0.664
 

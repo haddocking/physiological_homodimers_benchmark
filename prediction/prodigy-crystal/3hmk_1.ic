@@ -1,41 +1,34 @@
-  LYS   279   A   GLY   315   B
-  THR   320   A   TRP   324   B
-  LYS   279   A   LEU    48   B
-  GLU   276   A   LEU   319   B
-  LEU   322   A   LEU   319   B
-  LEU   281   A   LEU   280   B
-  LEU   280   A   LEU   281   B
-  LEU   319   A   TRP   324   B
-  LYS   279   A   PHE    49   B
-  PHE    49   A   PHE    49   B
-  LYS   279   A   LEU   280   B
-  PHE    49   A   LEU   280   B
-  LEU   280   A   LYS   279   B
-  TRP   275   A   LEU   281   B
-  LEU   322   A   LEU   322   B
-  LYS   279   A   LEU   281   B
-  GLY   315   A   LYS   279   B
-  PHE    49   A   LEU    29   B
-  LEU   319   A   GLU   276   B
-  ASN   316   A   LYS   279   B
-  LYS   279   A   GLY    53   B
-  LEU   281   A   TRP   275   B
-  TRP   275   A   LEU   319   B
-  LEU   281   A   LEU   281   B
+  LYS   279   A   LYS   279   B
+  LEU   280   A   PHE    49   B
   VAL   317   A   LYS   279   B
   MET   278   A   PHE    49   B
-  LEU   319   A   TRP   275   B
-  LEU   319   A   GLN   272   B
+  THR   320   A   TRP   324   B
+  LEU   280   A   LEU   281   B
+  LYS   279   A   LEU   280   B
   LEU   281   A   LYS   279   B
-  GLN   272   A   LEU   319   B
-  LEU    29   A   PHE    49   B
+  PHE    49   A   PHE    49   B
+  PHE    49   A   LEU   280   B
   LYS   279   A   VAL   317   B
-  PHE    49   A   MET   278   B
-  LEU   280   A   PHE    49   B
-  LYS   279   A   LYS   279   B
-  PHE    49   A   LYS   279   B
-  LEU   280   A   LEU   280   B
+  LEU   319   A   GLU   276   B
+  LYS   279   A   LEU    48   B
+  LEU   319   A   TRP   275   B
   GLY    53   A   LYS   279   B
-  LYS   279   A   ASN   316   B
+  LYS   279   A   PHE    49   B
+  PHE    49   A   MET   278   B
+  LYS   279   A   LEU   281   B
+  ASN   316   A   LYS   279   B
   LEU    48   A   LYS   279   B
+  GLU   276   A   LEU   319   B
+  LEU   280   A   LYS   279   B
+  LEU   281   A   LEU   280   B
+  LEU   281   A   LEU   281   B
+  LEU   281   A   TRP   275   B
+  LYS   279   A   GLY   315   B
   GLU   276   A   CYS   113   B
+  LYS   279   A   ASN   316   B
+  LEU   319   A   TRP   324   B
+  PHE    49   A   LYS   279   B
+  TRP   275   A   LEU   281   B
+  GLY   315   A   LYS   279   B
+  TRP   275   A   LEU   319   B
+  LYS   279   A   GLY    53   B

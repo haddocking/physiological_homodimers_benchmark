@@ -1,16 +1,16 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/3hy1_5.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3hy1_5.pdb
 [!] Structure contains gaps:
 	A SER1 < Fragment 0 > A GLY440
 	B SER1 < Fragment 1 > B HIS188
 	B ARG206 < Fragment 2 > B GLU437
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 101
-[+] No. of charged-charged contacts: 23
-[+] No. of charged-polar contacts: 24
+[+] No. of intermolecular contacts: 99
+[+] No. of charged-charged contacts: 22
+[+] No. of charged-polar contacts: 23
 [+] No. of charged-apolar contacts: 39
 [+] No. of polar-polar contacts: 3
 [+] No. of apolar-polar contacts: 3
 [+] No. of apolar-apolar contacts: 9
-[+] Link density: 0.05
-[+] Class: XTAL 0.404 0.596
+[+] Link density: 0.04
+[+] Class: XTAL 0.392 0.608
 

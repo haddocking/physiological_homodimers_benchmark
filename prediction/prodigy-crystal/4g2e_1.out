@@ -1,17 +1,17 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4g2e_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4g2e_1.pdb
 [!] Structure contains gaps:
 	A GLY1 < Fragment 0 > A VAL45
 	A THR52 < Fragment 1 > A SER157
 	B GLY1 < Fragment 2 > B VAL45
 	B THR52 < Fragment 3 > B SER157
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 60
+[+] No. of intermolecular contacts: 50
 [+] No. of charged-charged contacts: 1
 [+] No. of charged-polar contacts: 6
-[+] No. of charged-apolar contacts: 4
+[+] No. of charged-apolar contacts: 2
 [+] No. of polar-polar contacts: 1
 [+] No. of apolar-polar contacts: 12
-[+] No. of apolar-apolar contacts: 36
-[+] Link density: 0.10
-[+] Class: BIO 0.844 0.156
+[+] No. of apolar-apolar contacts: 28
+[+] Link density: 0.09
+[+] Class: BIO 0.78 0.22
 

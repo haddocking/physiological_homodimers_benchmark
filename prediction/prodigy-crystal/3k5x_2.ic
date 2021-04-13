@@ -1,55 +1,50 @@
-  ASN   384   A   ARG    32   B
-  TYR    33   A   ASN   384   B
   ARG    32   A   ALA   385   B
-  THR    78   A   ASP   129   B
-  ASP    85   A   ALA   133   B
+  ASN   384   A   ARG    89   B
+  THR   134   A   GLU    82   B
+  ARG    89   A   PRO   382   B
+  ARG    32   A   GLN   389   B
+  LEU    81   A   THR   134   B
   THR   134   A   THR    78   B
-  LEU    81   A   LEU    81   B
-  LEU   141   A   ALA   140   B
-  ALA   137   A   LEU   141   B
-  LEU   141   A   LEU   141   B
-  ILE   128   A   THR    78   B
-  LEU    81   A   ALA   137   B
-  ASP    85   A   ARG   136   B
+  ASN   384   A   VAL    31   B
+  GLU    82   A   ALA   133   B
+  THR    78   A   SER   131   B
+  ASN   384   A   ARG    32   B
+  ALA   133   A   ASP    85   B
+  VAL    77   A   THR    78   B
+  ARG    89   A   ARG   136   B
+  LEU   141   A   ALA   137   B
+  PRO   382   A   ARG    89   B
+  GLU    82   A   SER   131   B
+  ARG   136   A   ARG    89   B
+  ALA   385   A   ARG    32   B
   SER   131   A   GLU    82   B
+  ALA   137   A   LEU   141   B
+  LEU    81   A   ALA   137   B
+  ASP    85   A   ALA   133   B
+  ALA   133   A   LEU    81   B
+  ASN   384   A   ASP    34   B
+  ASP    34   A   ASN   384   B
+  ALA   137   A   LEU    81   B
+  THR    78   A   THR   134   B
+  VAL    31   A   ASN   384   B
+  THR    78   A   VAL    77   B
+  SER   131   A   THR    78   B
+  GLU    82   A   THR   134   B
+  ASN   384   A   TYR    33   B
+  THR   134   A   LEU    81   B
+  ILE   128   A   THR    78   B
+  LEU    81   A   ALA   133   B
+  GLN   389   A   ARG    32   B
+  ARG    32   A   THR   386   B
   THR   386   A   ARG    32   B
   VAL    77   A   VAL    77   B
-  ARG   136   A   ARG    89   B
-  LEU    81   A   VAL    77   B
-  ASP    34   A   ASN   384   B
-  ARG    89   A   ASN   384   B
-  SER   131   A   THR    78   B
-  ALA   133   A   ASP    85   B
-  PRO   382   A   ARG    89   B
-  THR   134   A   LEU    81   B
-  ALA   137   A   LEU    81   B
-  ASN   384   A   TYR    33   B
-  GLU    82   A   SER   131   B
-  GLU    82   A   ALA   133   B
-  LEU   141   A   ALA   137   B
-  VAL    77   A   THR    78   B
-  ALA   385   A   ARG    32   B
-  GLN   389   A   ARG    32   B
-  ASN   384   A   VAL    31   B
-  ARG    32   A   ASN   384   B
-  ASN   384   A   ARG    89   B
   ASP   129   A   THR    78   B
-  THR    78   A   THR   134   B
+  ASP    85   A   ARG   136   B
   ARG   136   A   ASP    85   B
-  THR    78   A   VAL    77   B
-  ARG    89   A   ARG   136   B
-  ARG    32   A   GLN   389   B
-  LEU    81   A   ALA   133   B
-  ARG    32   A   THR   386   B
-  VAL    31   A   ASN   384   B
-  THR   134   A   GLU    82   B
-  LEU    81   A   THR   134   B
-  ASN   384   A   ASP    34   B
-  ALA   133   A   LEU    81   B
-  ALA   140   A   LEU   141   B
-  THR    78   A   SER   131   B
-  ARG    89   A   PRO   382   B
-  GLU    82   A   THR   134   B
-  VAL    77   A   LEU    81   B
   THR    78   A   ILE   128   B
+  ARG    32   A   ASN   384   B
+  LEU   141   A   LEU   141   B
   ALA   133   A   GLU    82   B
+  ARG    89   A   ASN   384   B
+  THR    78   A   ASP   129   B
+  TYR    33   A   ASN   384   B

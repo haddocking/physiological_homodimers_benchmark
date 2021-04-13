@@ -1,53 +1,51 @@
-  THR    29   A   VAL    19   B
-  LYS    28   A   HIS    61   B
-  SER    25   A   HIS    61   B
-  THR    29   A   THR    29   B
+  GLY    17   A   ASP    22   B
+  VAL    19   A   THR    29   B
+  SER    25   A   VAL    19   B
+  LYS    28   A   LYS    65   B
+  THR    64   A   LYS    28   B
+  CYS    18   A   ASP    22   B
   HIS    61   A   SER    25   B
-  PHE    33   A   ARG    32   B
-  LYS    65   A   ARG    32   B
-  LEU    24   A   SER    57   B
+  ARG    32   A   PHE    33   B
   PHE    33   A   THR    29   B
-  THR    16   A   LEU    24   B
-  LEU    24   A   GLY    17   B
-  ASP    20   A   ASP    20   B
+  ASP    20   A   VAL    19   B
+  ASP    22   A   CYS    15   B
   ASP    66   A   ARG    32   B
-  ARG    32   A   ASP    66   B
+  THR    29   A   PHE    33   B
+  GLU    79   A   GLU   217   B
+  LEU    24   A   HIS    61   B
+  LYS    28   A   PHE    33   B
+  PHE    33   A   LYS    28   B
+  THR    29   A   VAL    19   B
+  ARG    32   A   PRO    34   B
+  ASP    22   A   CYS    18   B
+  SER    25   A   CYS    18   B
+  LYS    65   A   LYS    28   B
+  ASP    22   A   GLY    17   B
+  SER    25   A   GLY    17   B
+  SER    25   A   HIS    61   B
+  CYS    18   A   ASP    20   B
+  THR    16   A   LEU    24   B
+  GLY    17   A   LEU    24   B
   ASP    20   A   CYS    18   B
   GLY    17   A   SER    25   B
-  SER    25   A   GLY    17   B
-  ASP    20   A   VAL    19   B
-  LYS    58   A   LEU    24   B
-  ASP    22   A   CYS    15   B
-  THR    16   A   ASP    22   B
-  ARG    32   A   PRO    34   B
-  PHE    33   A   PHE    33   B
-  ASP    22   A   GLY    17   B
-  VAL    19   A   LEU    21   B
-  ARG    32   A   LYS    65   B
-  CYS    18   A   ASP    22   B
-  LEU    21   A   VAL    19   B
-  ARG    32   A   ARG    32   B
-  LYS    28   A   PHE    33   B
-  HIS    61   A   LEU    24   B
-  CYS    18   A   ASP    20   B
-  THR    29   A   PHE    33   B
-  VAL    19   A   ASP    20   B
-  PHE    33   A   LYS    28   B
-  LYS    65   A   LYS    28   B
-  CYS    15   A   ASP    22   B
-  VAL    19   A   THR    29   B
-  GLY    17   A   LEU    24   B
-  LEU    24   A   LYS    58   B
-  ASP    22   A   CYS    18   B
-  LYS    28   A   LEU    67   B
-  LYS    28   A   THR    64   B
+  PHE    33   A   ARG    32   B
   ASP    22   A   THR    16   B
-  GLY    17   A   ASP    22   B
-  LYS    28   A   LYS    65   B
+  LYS    65   A   ARG    32   B
+  HIS    61   A   LYS    28   B
+  LEU    24   A   GLY    17   B
+  THR    29   A   THR    29   B
+  CYS    15   A   ASP    22   B
   VAL    19   A   SER    25   B
-  PRO    34   A   ARG    32   B
-  LEU    24   A   THR    16   B
-  SER    25   A   VAL    19   B
-  LEU    24   A   HIS    61   B
+  PHE    33   A   PHE    33   B
   VAL    19   A   VAL    19   B
-  ARG    32   A   PHE    33   B
+  ARG    32   A   ASP    66   B
+  HIS    61   A   LEU    24   B
+  LYS    28   A   THR    64   B
+  LEU    24   A   THR    16   B
+  VAL    19   A   ASP    20   B
+  ARG    32   A   LYS    65   B
+  LYS    28   A   HIS    61   B
+  PRO    34   A   ARG    32   B
+  THR    16   A   ASP    22   B
+  ASP    20   A   ASP    20   B
+  ARG    32   A   ARG    32   B

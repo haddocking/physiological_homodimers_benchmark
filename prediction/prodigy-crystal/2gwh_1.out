@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2gwh_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2gwh_1.pdb
 [!] Structure contains gaps:
 	A ARG12 < Fragment 0 > A MET287
 	A THR290 < Fragment 1 > A PHE298

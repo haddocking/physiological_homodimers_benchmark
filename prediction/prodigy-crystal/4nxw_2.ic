@@ -1,47 +1,47 @@
-  GLN   233   A   ARG   229   B
-  ASP   235   A   LYS   244   B
-  LEU    24   A   PRO   280   B
-  LEU   241   A   SER   236   B
-  ASP   281   A   ARG    28   B
-  SER   236   A   LYS   244   B
-  PRO   280   A   LEU   241   B
-  MET   282   A   ARG    28   B
-  LEU    24   A   ASP   281   B
-  PRO   280   A   PRO   280   B
-  TYR    27   A   ASP   235   B
-  ASP   235   A   GLN    38   B
-  LYS   244   A   ALA   234   B
-  GLN    38   A   ALA   234   B
-  LYS   244   A   ASP   235   B
-  SER   236   A   TYR    27   B
-  ASP   277   A   ARG    28   B
-  GLN   233   A   ASP    76   B
-  ASP   281   A   LEU    24   B
-  LEU   241   A   PRO   280   B
-  SER   236   A   SER   240   B
-  ASP    77   A   ALA   234   B
-  SER   236   A   LEU   241   B
-  LYS   244   A   GLN   233   B
-  ARG    28   A   ASP   281   B
-  ALA   234   A   ASP    77   B
-  ASP    77   A   GLN   233   B
-  ARG    28   A   SER   279   B
-  ASP   235   A   TYR    27   B
   SER   240   A   SER   236   B
-  ASP    77   A   ALA   230   B
-  GLN   233   A   LYS   244   B
-  GLN    38   A   ASP   235   B
+  ALA   230   A   ASP    77   B
   ALA   234   A   LYS   244   B
+  LEU   241   A   SER   236   B
+  TYR    75   A   GLN   233   B
+  ARG    28   A   ASP   281   B
+  GLN   233   A   ARG   229   B
+  ASP   281   A   ARG    28   B
+  ARG    28   A   MET   282   B
+  ASP   235   A   GLN    38   B
+  GLN   233   A   LYS   244   B
+  ASP   277   A   ARG    28   B
+  ASP    77   A   ALA   230   B
+  SER   236   A   LEU   241   B
+  GLN    38   A   ASP   235   B
   ASP    76   A   GLN   233   B
-  GLN   233   A   ASP    77   B
+  ASP   281   A   LEU    24   B
   PRO   280   A   LEU    24   B
   TYR    27   A   SER   236   B
-  SER   279   A   ARG    28   B
-  ALA   234   A   TYR    27   B
-  LYS   244   A   SER   236   B
+  MET   282   A   ARG    28   B
+  LEU    24   A   ASP   281   B
+  ASP    77   A   ALA   234   B
+  GLN    38   A   ALA   234   B
+  ASP   235   A   TYR    27   B
+  TYR    27   A   ASP   235   B
   ALA   234   A   GLN    38   B
-  TYR    27   A   ALA   234   B
-  ARG    28   A   ASP   277   B
+  LYS   244   A   SER   236   B
+  GLN   233   A   TYR    75   B
+  SER   236   A   TYR    27   B
+  ALA   234   A   ASP    77   B
+  ASP   235   A   LYS   244   B
   ARG   229   A   GLN   233   B
-  ARG    28   A   MET   282   B
-  ALA   230   A   ASP    77   B
+  ASP    77   A   GLN   233   B
+  ARG    28   A   SER   279   B
+  SER   236   A   SER   240   B
+  SER   236   A   LYS   244   B
+  LEU    24   A   PRO   280   B
+  LYS   244   A   ASP   235   B
+  GLN   233   A   ASP    77   B
+  ARG    28   A   ASP   277   B
+  TYR    27   A   ALA   234   B
+  LYS   244   A   GLN   233   B
+  GLN   233   A   ASP    76   B
+  SER   279   A   ARG    28   B
+  PRO   280   A   PRO   280   B
+  LYS   244   A   ALA   234   B
+  ALA   234   A   TYR    27   B

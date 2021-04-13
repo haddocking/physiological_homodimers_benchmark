@@ -1,46 +1,34 @@
+  ASN   168   A   SER   166   B
+  ILE   161   A   TYR   204   B
+  ILE   161   A   ILE   208   B
+  ILE   161   A   ALA   201   B
+  LEU   162   A   ILE   208   B
+  SER   166   A   ASN   168   B
+  ALA   201   A   ASP   156   B
+  ASP   209   A   ALA   165   B
+  SER   164   A   ARG   205   B
+  ALA   165   A   ILE   208   B
+  ASP   156   A   ALA   201   B
+  LEU   159   A   ILE   181   B
+  VAL   174   A   LEU   162   B
+  LEU   162   A   CYS   177   B
+  CYS   177   A   LEU   162   B
   ILE   208   A   LEU   162   B
-  ARG   205   A   ALA   165   B
-  LEU   162   A   SER   178   B
-  SER   166   A   LEU   212   B
+  ILE   181   A   PRO   158   B
   VAL   174   A   SER   166   B
   ILE   181   A   LEU   159   B
-  PRO   158   A   ILE   181   B
-  ARG   205   A   SER   164   B
-  ALA   201   A   ILE   161   B
-  VAL   174   A   LEU   162   B
-  TYR   204   A   ILE   161   B
-  CYS   177   A   LEU   162   B
-  ARG   205   A   ILE   161   B
-  ASN   168   A   SER   166   B
-  PRO   158   A   ILE   208   B
-  SER   166   A   VAL   174   B
-  ALA   201   A   ASP   156   B
-  TYR   204   A   PRO   158   B
-  ILE   161   A   ILE   208   B
-  LEU   162   A   LEU   212   B
-  ILE   161   A   ALA   201   B
   ILE   161   A   ARG   205   B
-  LEU   162   A   ILE   181   B
-  ILE   208   A   ALA   165   B
-  ASP   156   A   ALA   201   B
-  ALA   165   A   LEU   212   B
-  ALA   165   A   ASP   209   B
-  LEU   212   A   ALA   165   B
-  ASP   209   A   ALA   165   B
-  LEU   212   A   SER   166   B
-  SER   166   A   ASN   168   B
-  ALA   165   A   ILE   208   B
+  ALA   201   A   ILE   161   B
   LEU   162   A   VAL   174   B
-  ILE   208   A   ILE   161   B
-  ALA   165   A   ARG   205   B
-  LEU   212   A   LEU   162   B
-  ILE   181   A   PRO   158   B
+  ARG   205   A   SER   164   B
+  ALA   165   A   ASP   209   B
+  ILE   208   A   ALA   165   B
   PRO   158   A   TYR   204   B
-  SER   164   A   ARG   205   B
-  ILE   161   A   TYR   204   B
-  ILE   181   A   LEU   162   B
-  ILE   208   A   PRO   158   B
-  LEU   162   A   CYS   177   B
-  LEU   159   A   ILE   181   B
-  SER   178   A   LEU   162   B
-  LEU   162   A   ILE   208   B
+  TYR   204   A   ILE   161   B
+  TYR   204   A   PRO   158   B
+  ARG   205   A   ILE   161   B
+  PRO   158   A   ILE   181   B
+  ALA   165   A   ARG   205   B
+  ILE   208   A   ILE   161   B
+  SER   166   A   VAL   174   B
+  ARG   205   A   ALA   165   B

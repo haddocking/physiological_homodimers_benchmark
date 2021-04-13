@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/6dfk_9.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/6dfk_9.pdb
 [!] Structure contains gaps:
 	A ASN7 < Fragment 0 > A LYS79
 	A ILE123 < Fragment 1 > A ASN271
@@ -9,9 +9,9 @@
 [+] No. of charged-charged contacts: 12
 [+] No. of charged-polar contacts: 11
 [+] No. of charged-apolar contacts: 26
-[+] No. of polar-polar contacts: 4
+[+] No. of polar-polar contacts: 5
 [+] No. of apolar-polar contacts: 8
-[+] No. of apolar-apolar contacts: 3
+[+] No. of apolar-apolar contacts: 2
 [+] Link density: 0.07
 [+] Class: XTAL 0.152 0.848
 

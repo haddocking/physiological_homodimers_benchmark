@@ -1,50 +1,39 @@
-  PHE   122   A   ASP    90   B
-  LEU    68   A   LEU   160   B
-  LEU   142   A   ALA   161   B
-  GLY   162   A   ARG   143   B
-  GLY   158   A   ARG   143   B
-  ARG   143   A   LEU   160   B
-  SER   118   A   LEU   120   B
-  ALA   161   A   LEU   142   B
-  ARG   143   A   ALA   161   B
-  PHE   122   A   SER    88   B
-  ASP    90   A   ARG   126   B
-  LEU   163   A   LEU   120   B
-  SER    88   A   LEU   120   B
-  LEU   120   A   ASP   119   B
-  ASP    90   A   ALA   123   B
-  ASP   119   A   LEU   120   B
-  LEU   142   A   LEU   163   B
-  LEU   160   A   ARG   143   B
-  LEU   160   A   LEU    68   B
-  ASP    90   A   PHE   122   B
-  ASP   119   A   PHE   122   B
-  ARG   126   A   ARG   126   B
-  PHE   122   A   ASP   119   B
-  ARG   143   A   GLY   158   B
   ARG   126   A   ASP    90   B
-  GLY   162   A   LEU   142   B
-  LEU   142   A   GLY   162   B
   ALA   123   A   ALA   123   B
-  PHE   122   A   PRO    87   B
-  PRO    87   A   LEU   120   B
-  LEU   163   A   LEU   142   B
-  LEU   120   A   PRO    87   B
-  ALA   123   A   ASP    90   B
-  PHE   122   A   LEU   163   B
+  ARG   126   A   PHE   122   B
   LEU   120   A   SER   118   B
-  ALA   161   A   ARG   143   B
-  LEU   142   A   PRO   159   B
+  PHE   122   A   SER    88   B
   LEU   163   A   PHE   122   B
-  SER    88   A   PHE   122   B
-  ARG   143   A   GLY   162   B
-  LEU   120   A   LEU   163   B
-  LEU    68   A   PRO   159   B
   PRO   159   A   ARG   143   B
   PRO   159   A   LEU    68   B
-  PRO    87   A   PHE   122   B
-  ARG   126   A   ALA   123   B
+  LEU   120   A   ASP   119   B
+  ARG   143   A   GLY   158   B
+  ASP    90   A   ALA   123   B
+  ARG   126   A   ARG   126   B
+  LEU   160   A   ARG   143   B
   ARG   143   A   PRO   159   B
-  PRO   159   A   LEU   142   B
-  ARG   126   A   PHE   122   B
+  SER   118   A   LEU   120   B
+  LEU   142   A   GLY   162   B
+  SER    88   A   PHE   122   B
+  LEU   163   A   LEU   142   B
+  ARG   143   A   ALA   161   B
+  GLY   162   A   LEU   142   B
+  ALA   161   A   ARG   143   B
+  ASP    90   A   PHE   122   B
+  ASP   119   A   PHE   122   B
+  ASP    90   A   ARG   126   B
+  PHE   122   A   ASP   119   B
+  ALA   123   A   ASP    90   B
+  ARG   143   A   GLY   162   B
+  PRO    87   A   PHE   122   B
+  LEU    68   A   PRO   159   B
+  ARG   126   A   ALA   123   B
+  GLY   158   A   ARG   143   B
+  LEU   142   A   ALA   161   B
+  ARG   143   A   LEU   160   B
+  LEU   142   A   LEU   163   B
+  ASP   119   A   LEU   120   B
+  PHE   122   A   PRO    87   B
   LEU   120   A   LEU   120   B
+  ALA   161   A   LEU   142   B
+  PHE   122   A   ASP    90   B

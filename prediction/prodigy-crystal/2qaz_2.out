@@ -1,12 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2qaz_2.pdb
-[+] Selection: C, D
-[+] No. of intermolecular contacts: 56
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2qaz_2.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 54
 [+] No. of charged-charged contacts: 1
 [+] No. of charged-polar contacts: 2
-[+] No. of charged-apolar contacts: 14
+[+] No. of charged-apolar contacts: 15
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 1
-[+] No. of apolar-apolar contacts: 38
+[+] No. of apolar-apolar contacts: 35
 [+] Link density: 0.11
-[+] Class: BIO 0.86 0.14
+[+] Class: BIO 0.856 0.144
 

@@ -1,64 +1,52 @@
-  ALA    18   A   VAL    64   B
-  LEU    14   A   LEU    83   B
-  ARG    57   A   ARG    20   B
-  LEU    14   A   ILE    84   B
-  LEU    11   A   LEU    83   B
-  TYR    87   A   LEU    14   B
-  GLN    17   A   ILE    63   B
-  LEU    14   A   VAL    64   B
-  GLU    19   A   SER    60   B
-  TYR    10   A   LEU    83   B
-  LEU    83   A   ASP     7   B
+  ALA    18   A   TYR    87   B
+  TYR    87   A   ALA    15   B
+  HIS    79   A   ASP     7   B
+  SER    60   A   ALA    18   B
+  LYS    90   A   GLU    23   B
+  ARG    20   A   GLU    94   B
+  TYR    10   A   ILE    67   B
+  LYS    90   A   ARG    20   B
+  GLU    23   A   GLU    94   B
   LEU    83   A   LEU    11   B
-  ALA    18   A   ILE    91   B
-  TYR    10   A   ILE    84   B
+  LEU    14   A   TYR    87   B
+  LEU    11   A   LEU    83   B
+  ASP     7   A   HIS    79   B
+  GLN    17   A   ILE    63   B
+  ALA    18   A   ILE    63   B
+  LEU    83   A   TYR    10   B
+  ILE    63   A   ALA    18   B
+  GLU    19   A   SER    60   B
+  ASP     7   A   LEU    83   B
+  ALA    18   A   VAL    64   B
+  GLU    94   A   GLU    23   B
+  GLU    23   A   LYS    90   B
   ARG    20   A   SER    60   B
   SER    60   A   GLU    19   B
-  TYR    10   A   GLU    71   B
-  ARG    20   A   GLU    94   B
-  GLU    23   A   LYS    90   B
-  ALA    18   A   TYR    87   B
-  GLN    80   A   TYR    10   B
-  ILE    91   A   ALA    18   B
-  LEU    83   A   LEU    14   B
-  GLU    23   A   TYR    87   B
-  ILE    67   A   LEU    14   B
-  ARG    20   A   ILE    91   B
+  TYR    10   A   GLN    80   B
+  ILE    84   A   TYR    10   B
+  TYR    87   A   LEU    14   B
+  TYR    87   A   ALA    18   B
+  ALA    15   A   TYR    87   B
+  ARG    57   A   ARG    20   B
+  ALA    18   A   SER    60   B
   ILE    91   A   ARG    20   B
-  LEU    14   A   TYR    87   B
+  VAL    64   A   ALA    18   B
+  GLN    80   A   TYR    10   B
+  TYR    10   A   ILE    84   B
+  GLU    71   A   TYR    10   B
+  TYR    87   A   GLU    23   B
+  ARG    20   A   LYS    90   B
+  ARG    20   A   ILE    91   B
+  TYR    87   A   ARG    20   B
   ARG    20   A   ARG    57   B
-  LEU    14   A   ILE    67   B
-  LEU    11   A   TYR    87   B
-  TYR    87   A   ALA    15   B
-  LEU    83   A   TYR    10   B
+  LEU    14   A   ILE    84   B
+  GLU    94   A   ARG    20   B
   ILE    63   A   GLN    17   B
   ILE    67   A   TYR    10   B
-  ASP     7   A   LEU    83   B
-  ALA    18   A   ILE    63   B
-  LYS    90   A   GLU    23   B
-  GLU    23   A   GLU    94   B
-  SER    60   A   ALA    18   B
-  LYS    90   A   ARG    20   B
-  VAL    64   A   ALA    18   B
-  TYR    10   A   ILE    67   B
-  GLU    94   A   GLU    23   B
+  TYR    10   A   LEU    83   B
+  LEU    83   A   ASP     7   B
   ARG    20   A   TYR    87   B
-  TYR    10   A   GLN    80   B
-  GLU    94   A   ARG    20   B
-  TYR    87   A   LEU    11   B
-  SER    60   A   ARG    20   B
-  TYR    87   A   ALA    18   B
+  GLU    23   A   TYR    87   B
   ILE    84   A   LEU    14   B
-  ASP     7   A   HIS    79   B
-  ALA    15   A   TYR    87   B
-  GLN    17   A   ILE    67   B
-  HIS    79   A   ASP     7   B
-  ALA    18   A   SER    60   B
-  TYR    87   A   GLU    23   B
-  ILE    67   A   GLN    17   B
-  ILE    63   A   ALA    18   B
-  TYR    87   A   ARG    20   B
-  ILE    84   A   TYR    10   B
-  GLU    71   A   TYR    10   B
-  ARG    20   A   LYS    90   B
-  VAL    64   A   LEU    14   B
+  TYR    10   A   GLU    71   B
+  SER    60   A   ARG    20   B

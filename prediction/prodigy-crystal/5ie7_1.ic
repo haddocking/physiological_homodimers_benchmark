@@ -1,48 +1,44 @@
-  LYS   230   A   THR   229   B
-  VAL   212   A   THR   218   B
-  ALA   215   A   THR   218   B
-  ILE   225   A   THR   218   B
-  VAL   226   A   ILE   235   B
-  PRO   217   A   ALA   215   B
-  ILE   225   A   PHE   222   B
-  ILE   235   A   PHE   222   B
-  THR   218   A   PRO   217   B
-  LEU   237   A   PHE   222   B
-  THR   218   A   ALA   214   B
-  THR   216   A   PRO   217   B
-  LEU   237   A   GLU   219   B
-  ALA   214   A   GLU   219   B
-  THR   218   A   ILE   225   B
-  GLU   219   A   ALA   214   B
-  PHE   222   A   ILE   225   B
-  PRO   217   A   PRO   217   B
-  PRO   217   A   ALA   214   B
-  THR   218   A   GLY   213   B
-  VAL   226   A   THR   229   B
-  ILE   225   A   VAL   226   B
-  ILE   235   A   VAL   226   B
-  LEU   237   A   THR   218   B
-  ALA   214   A   THR   218   B
-  ALA   215   A   PRO   217   B
-  PHE   222   A   ILE   235   B
-  GLY   213   A   THR   218   B
   THR   218   A   THR   216   B
-  ILE   225   A   ILE   225   B
-  THR   229   A   THR   229   B
+  GLU   219   A   LEU   237   B
   THR   216   A   THR   216   B
+  THR   229   A   THR   229   B
+  PHE   222   A   LEU   237   B
+  GLY   213   A   THR   218   B
+  THR   218   A   ALA   214   B
   GLY   236   A   PHE   222   B
+  THR   218   A   GLY   213   B
+  LYS   230   A   THR   229   B
+  THR   218   A   ALA   215   B
   PRO   217   A   THR   216   B
+  LEU   237   A   PHE   222   B
+  PRO   217   A   ALA   215   B
+  VAL   226   A   ILE   235   B
+  ILE   235   A   VAL   226   B
+  THR   218   A   PRO   217   B
+  THR   216   A   PRO   217   B
+  PHE   222   A   GLY   236   B
+  PRO   217   A   PRO   217   B
+  PHE   222   A   ILE   225   B
+  ILE   225   A   VAL   226   B
+  ILE   235   A   PHE   222   B
   THR   218   A   THR   218   B
-  GLU   219   A   GLY   213   B
   THR   218   A   VAL   212   B
   THR   216   A   THR   218   B
-  PHE   222   A   GLY   236   B
   VAL   226   A   ILE   225   B
-  ALA   214   A   PRO   217   B
+  VAL   226   A   THR   229   B
+  GLU   219   A   ALA   214   B
+  GLU   219   A   GLY   213   B
   PRO   217   A   THR   218   B
-  THR   218   A   LEU   237   B
+  ALA   214   A   GLU   219   B
   THR   229   A   VAL   226   B
-  PHE   222   A   LEU   237   B
-  GLU   219   A   LEU   237   B
+  ILE   225   A   PHE   222   B
+  LEU   237   A   GLU   219   B
+  ALA   214   A   PRO   217   B
   THR   229   A   LYS   230   B
-  THR   218   A   ALA   215   B
+  VAL   212   A   THR   218   B
+  ALA   215   A   PRO   217   B
+  PHE   222   A   ILE   235   B
+  ALA   214   A   THR   218   B
+  ILE   225   A   ILE   225   B
+  PRO   217   A   ALA   214   B
+  ALA   215   A   THR   218   B

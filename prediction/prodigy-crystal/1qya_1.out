@@ -1,17 +1,17 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1qya_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1qya_1.pdb
 [!] Structure contains gaps:
 	A LEU11 < Fragment 0 > A ILE81
 	A HIS84 < Fragment 1 > A LEU109
 	A LYS112 < Fragment 2 > A LEU307
 	B GLU1 < Fragment 3 > B LEU307
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 74
+[+] No. of intermolecular contacts: 66
 [+] No. of charged-charged contacts: 14
 [+] No. of charged-polar contacts: 2
-[+] No. of charged-apolar contacts: 21
+[+] No. of charged-apolar contacts: 20
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 0
-[+] No. of apolar-apolar contacts: 37
+[+] No. of apolar-apolar contacts: 30
 [+] Link density: 0.11
-[+] Class: BIO 0.904 0.096
+[+] Class: BIO 0.876 0.124
 

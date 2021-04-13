@@ -1,16 +1,16 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/3hie_3.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3hie_3.pdb
 [!] Structure contains gaps:
 	A LEU8 < Fragment 0 > A ARG171
 	B ASN6 < Fragment 1 > B ARG26
 	B PRO35 < Fragment 2 > B ARG171
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 130
+[+] No. of intermolecular contacts: 122
 [+] No. of charged-charged contacts: 4
-[+] No. of charged-polar contacts: 14
-[+] No. of charged-apolar contacts: 31
+[+] No. of charged-polar contacts: 13
+[+] No. of charged-apolar contacts: 29
 [+] No. of polar-polar contacts: 1
-[+] No. of apolar-polar contacts: 29
-[+] No. of apolar-apolar contacts: 51
+[+] No. of apolar-polar contacts: 28
+[+] No. of apolar-apolar contacts: 47
 [+] Link density: 0.10
-[+] Class: BIO 0.988 0.012
+[+] Class: BIO 0.996 0.004
 

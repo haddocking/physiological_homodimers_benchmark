@@ -1,29 +1,16 @@
-  LEU   265   A   MET   198   B
-  LEU   236   A   GLU   237   B
-  GLY   235   A   LEU   201   B
-  ARG   194   A   LEU   234   B
-  LEU   236   A   LEU   236   B
-  LEU   234   A   ARG   194   B
-  LEU   195   A   LEU   265   B
-  GLN   165   A   GLU   264   B
-  LEU   265   A   GLN   165   B
-  GLU   237   A   ARG   238   B
-  ARG   194   A   LEU   265   B
-  GLU   237   A   LEU   236   B
-  LEU   265   A   ARG   194   B
-  GLU   264   A   GLN   165   B
-  LEU   265   A   LEU   195   B
-  LEU   201   A   GLY   235   B
-  ARG   194   A   PHE   266   B
-  GLN   165   A   LEU   265   B
-  GLU   261   A   ARG   194   B
-  ARG   194   A   GLU   261   B
-  ARG   194   A   HIS   262   B
-  MET   198   A   LEU   265   B
   PHE   266   A   MET   198   B
-  LEU   236   A   GLY   235   B
-  GLY   235   A   LEU   236   B
-  MET   198   A   PHE   266   B
-  ARG   238   A   GLU   237   B
+  GLU   264   A   GLN   165   B
+  MET   198   A   LEU   265   B
   HIS   262   A   ARG   194   B
+  ARG   194   A   GLU   261   B
+  LEU   265   A   MET   198   B
+  ARG   238   A   GLU   237   B
+  GLN   165   A   GLU   264   B
+  ARG   194   A   HIS   262   B
   PHE   266   A   ARG   194   B
+  GLU   261   A   ARG   194   B
+  ARG   194   A   PHE   266   B
+  MET   198   A   PHE   266   B
+  LEU   265   A   GLN   165   B
+  GLN   165   A   LEU   265   B
+  GLU   237   A   ARG   238   B

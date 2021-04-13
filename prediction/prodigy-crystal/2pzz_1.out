@@ -1,15 +1,10 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2pzz_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2pzz_1.pdb
 [!] Structure contains gaps:
-	A LEU2 < Fragment 0 > A ARG68
-	A VAL70 < Fragment 1 > A GLY74
-	A THR76 < Fragment 2 > A ILE116
-	A LYS118 < Fragment 3 > A ASN134
-	C LEU2 < Fragment 4 > C ARG68
-	C VAL70 < Fragment 5 > C GLU72
-	C ALA79 < Fragment 6 > C ASP97
-	C GLY102 < Fragment 7 > C ILE116
-	C LYS118 < Fragment 8 > C PRO125
-[+] Selection: A, C
+	A LEU2 < Fragment 0 > A ASN134
+	B LEU2 < Fragment 1 > B GLU72
+	B ALA79 < Fragment 2 > B ASP97
+	B GLY102 < Fragment 3 > B PRO125
+[+] Selection: A, B
 [+] No. of intermolecular contacts: 48
 [+] No. of charged-charged contacts: 11
 [+] No. of charged-polar contacts: 13

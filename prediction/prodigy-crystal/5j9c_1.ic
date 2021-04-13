@@ -1,50 +1,49 @@
-  ASN    91   A   VAL    95   B
-  SER    32   A   PRO    60   B
-  ASP    92   A   ASN    91   B
-  ILE    34   A   PRO    60   B
-  ALA    57   A   VAL    95   B
-  SER    32   A   PHE    58   B
-  VAL    95   A   ALA    57   B
-  THR    30   A   SER    63   B
-  PHE    58   A   VAL    95   B
-  GLY    33   A   PRO    60   B
-  ALA    64   A   THR    30   B
-  ARG   132   A   ASP    92   B
-  SER    32   A   THR    59   B
-  TYR    94   A   ARG   132   B
-  THR    30   A   ALA    64   B
-  ALA    98   A   PHE    58   B
-  ARG   132   A   TYR    94   B
-  TYR    94   A   PRO    60   B
-  ASP    92   A   ARG   132   B
-  THR    30   A   ALA   102   B
-  VAL    95   A   ASN    91   B
-  PHE    58   A   ILE    29   B
-  TYR    94   A   PHE    58   B
-  ALA   102   A   THR    30   B
-  VAL    95   A   VAL    95   B
-  PHE    58   A   PHE    58   B
-  SER    32   A   SER    63   B
-  ASP    92   A   TYR    90   B
-  THR    30   A   ASN   103   B
-  PRO    60   A   SER    32   B
   PRO    60   A   TYR    94   B
-  TYR    90   A   ASP    92   B
-  ASN   103   A   THR    30   B
+  TYR    94   A   PHE    58   B
+  THR    30   A   SER    63   B
+  ALA   102   A   ILE    29   B
   PHE    58   A   ALA    98   B
-  ASN    91   A   ASP    92   B
-  THR    59   A   SER    32   B
-  THR    59   A   TYR    94   B
-  SER    63   A   SER    32   B
-  ILE    29   A   ALA   102   B
+  ARG   132   A   ASP    92   B
+  ASP    92   A   ASN    91   B
+  ASP    92   A   ARG   132   B
   VAL    95   A   PHE    58   B
-  TYR    94   A   THR    59   B
+  TYR    94   A   ARG   132   B
+  SER    32   A   THR    59   B
+  SER    63   A   SER    32   B
+  TYR    94   A   PRO    60   B
   ALA    57   A   TYR    94   B
-  TYR    94   A   ALA    57   B
-  ILE    29   A   ILE    29   B
   SER    63   A   THR    30   B
+  ALA    57   A   VAL    95   B
+  PRO    60   A   SER    32   B
+  ASN    91   A   ASP    92   B
+  ALA    57   A   ASP    92   B
+  SER    32   A   PHE    58   B
+  THR    59   A   TYR    94   B
   PHE    58   A   SER    32   B
   PHE    58   A   TYR    94   B
-  ALA   102   A   ILE    29   B
-  ASP    92   A   ALA    57   B
+  ILE    29   A   ALA   102   B
+  ASN    91   A   VAL    95   B
+  THR    30   A   ALA    64   B
   ILE    29   A   PHE    58   B
+  PHE    58   A   VAL    95   B
+  VAL    95   A   ASN    91   B
+  ASP    92   A   ALA    57   B
+  THR    30   A   ALA   102   B
+  THR    59   A   SER    32   B
+  TYR    90   A   ASP    92   B
+  TYR    94   A   ALA    57   B
+  THR    30   A   ASN   103   B
+  SER    32   A   SER    63   B
+  ASP    92   A   TYR    90   B
+  VAL    95   A   ALA    57   B
+  VAL    95   A   VAL    95   B
+  SER    32   A   PRO    60   B
+  GLY    33   A   PRO    60   B
+  PHE    58   A   PHE    58   B
+  ALA    98   A   PHE    58   B
+  ALA    64   A   THR    30   B
+  TYR    94   A   THR    59   B
+  ASN   103   A   THR    30   B
+  ALA   102   A   THR    30   B
+  PHE    58   A   ILE    29   B
+  ARG   132   A   TYR    94   B

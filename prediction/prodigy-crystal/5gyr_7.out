@@ -1,12 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/5gyr_7.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/5gyr_7.pdb
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 170
+[+] No. of intermolecular contacts: 163
 [+] No. of charged-charged contacts: 13
 [+] No. of charged-polar contacts: 5
-[+] No. of charged-apolar contacts: 44
+[+] No. of charged-apolar contacts: 43
 [+] No. of polar-polar contacts: 2
 [+] No. of apolar-polar contacts: 16
-[+] No. of apolar-apolar contacts: 90
+[+] No. of apolar-apolar contacts: 84
 [+] Link density: 0.04
-[+] Class: BIO 0.964 0.036
+[+] Class: BIO 0.988 0.012
 

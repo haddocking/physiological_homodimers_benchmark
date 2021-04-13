@@ -1,30 +1,35 @@
+  TYR    16   A   LEU    12   B
+  TYR    11   A   ASP    18   B
+  TYR    11   A   ASP    22   B
+  ASP    18   A   TYR    11   B
+  ASP    99   A   SER     5   B
+  TRP    19   A   PRO     7   B
+  PHE    25   A   SER     5   B
+  TYR    11   A   ALA    15   B
+  ASN    23   A   SER     6   B
+  LYS     8   A   TRP    19   B
+  SER     5   A   PHE    25   B
+  ALA    15   A   ALA    15   B
   SER     5   A   ASN    23   B
+  ASP    99   A   LYS     8   B
+  ALA    15   A   TYR    11   B
+  TRP    19   A   TYR    11   B
+  SER     5   A   TRP    19   B
+  TYR    11   A   TRP    19   B
+  TRP    19   A   LYS     8   B
+  GLY   100   A   LYS     8   B
+  ASP    22   A   TYR    11   B
+  SER     6   A   TRP    19   B
+  TRP    19   A   SER     5   B
+  LYS     8   A   TYR    16   B
+  ASN    66   A   ASP    22   B
   LYS     8   A   ASP    99   B
+  ASP    22   A   ASN    66   B
+  SER     5   A   ASP    99   B
+  PRO     7   A   TRP    19   B
+  ASN    23   A   SER     5   B
   SER     6   A   ASN    23   B
   LYS     8   A   GLY   100   B
-  ASN    23   A   SER     5   B
-  ASN    66   A   ASP    22   B
-  SER     6   A   TRP    19   B
-  TYR    11   A   ASP    18   B
-  SER     5   A   PHE    25   B
-  SER     5   A   ASP    99   B
-  TYR    11   A   ASP    22   B
-  TYR    11   A   ALA    15   B
-  PRO     7   A   TRP    19   B
-  LYS     8   A   TRP    19   B
+  TYR    16   A   LYS     8   B
+  LEU    12   A   TYR    16   B
   TRP    19   A   SER     6   B
-  ASP    99   A   SER     5   B
-  ASP    99   A   LYS     8   B
-  ASP    18   A   TYR    11   B
-  ASP    22   A   ASN    66   B
-  TYR    11   A   TRP    19   B
-  ASN    23   A   SER     6   B
-  SER     5   A   TRP    19   B
-  PHE    25   A   SER     5   B
-  TRP    19   A   PRO     7   B
-  ALA    15   A   TYR    11   B
-  GLY   100   A   LYS     8   B
-  TRP    19   A   TYR    11   B
-  TRP    19   A   SER     5   B
-  ASP    22   A   TYR    11   B
-  TRP    19   A   LYS     8   B

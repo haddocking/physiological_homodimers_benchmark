@@ -1,31 +1,31 @@
-  ILE   102   A   PHE   116   B
-  ALA   105   A   VAL   106   B
-  ARG   110   A   ILE   109   B
-  ALA   113   A   ARG   110   B
-  ASN   101   A   ILE   102   B
-  GLU   103   A   ARG   125   B
+  ILE   109   A   VAL   106   B
+  VAL   106   A   ALA   105   B
+  ARG   110   A   ARG   132   B
+  GLU   118   A   GLU   103   B
+  ILE   109   A   ILE   109   B
+  ARG   110   A   TYR   114   B
+  GLY   100   A   ILE   102   B
+  ILE   102   A   ILE   102   B
   VAL   106   A   ASP   115   B
   GLU   118   A   ILE   102   B
-  PHE   116   A   ILE   102   B
-  GLY   100   A   ILE   102   B
+  ASP   115   A   VAL   106   B
+  ARG   110   A   ASP   115   B
   ARG   125   A   GLU   103   B
-  ILE   109   A   VAL   106   B
+  VAL   106   A   PHE   116   B
+  ILE   102   A   GLY   100   B
+  VAL   106   A   ILE   109   B
+  PHE   116   A   ILE   102   B
+  ARG   110   A   ILE   109   B
   ILE   102   A   GLU   118   B
-  ILE   102   A   ALA   105   B
+  ILE   109   A   ARG   110   B
+  PHE   116   A   VAL   106   B
+  ILE   102   A   ASN   101   B
   GLU   103   A   GLU   118   B
   ALA   105   A   ILE   102   B
-  ARG   110   A   TYR   114   B
-  VAL   106   A   ILE   109   B
-  ILE   109   A   ARG   110   B
-  VAL   106   A   PHE   116   B
-  VAL   106   A   ALA   105   B
-  ILE   102   A   GLY   100   B
+  ASN   101   A   ILE   102   B
+  ILE   102   A   ALA   105   B
+  ALA   105   A   VAL   106   B
+  GLU   103   A   ARG   125   B
+  ALA   113   A   ARG   110   B
+  ILE   102   A   PHE   116   B
   TYR   114   A   ARG   110   B
-  ILE   109   A   ILE   109   B
-  ARG   110   A   ARG   132   B
-  PHE   116   A   VAL   106   B
-  GLU   118   A   GLU   103   B
-  ARG   110   A   ASP   115   B
-  ASP   115   A   VAL   106   B
-  ILE   102   A   ASN   101   B
-  ILE   102   A   ILE   102   B

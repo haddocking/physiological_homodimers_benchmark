@@ -1,17 +1,17 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/1som_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/1som_1.pdb
 [!] Structure contains gaps:
 	A SER4 < Fragment 0 > A PRO485
 	A SER490 < Fragment 1 > A THR535
 	B SER4 < Fragment 2 > B PRO485
 	B SER490 < Fragment 3 > B THR535
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 36
+[+] No. of intermolecular contacts: 38
 [+] No. of charged-charged contacts: 9
 [+] No. of charged-polar contacts: 8
-[+] No. of charged-apolar contacts: 11
+[+] No. of charged-apolar contacts: 12
 [+] No. of polar-polar contacts: 1
-[+] No. of apolar-polar contacts: 7
+[+] No. of apolar-polar contacts: 8
 [+] No. of apolar-apolar contacts: 0
-[+] Link density: 0.09
+[+] Link density: 0.08
 [+] Class: XTAL 0.0 1.0
 

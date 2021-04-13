@@ -1,41 +1,39 @@
-  VAL   107   A   TRP    83   B
-  TRP    83   A   PRO   106   B
-  MET    41   A   PHE    96   B
-  PRO   106   A   TRP    83   B
-  TYR    26   A   PRO    82   B
-  PHE    96   A   PHE    96   B
-  HIS   131   A   ASN   105   B
-  ASN   105   A   MET    41   B
-  ASP    85   A   TYR    26   B
-  PRO    82   A   TYR    26   B
-  TRP    83   A   ASN    24   B
-  GLY    40   A   PHE    96   B
-  ALA    29   A   TRP    83   B
-  TRP    83   A   ALA    29   B
-  MET    41   A   ASN   105   B
-  LEU   108   A   PRO   110   B
-  PHE    81   A   PRO   106   B
-  ASN   105   A   ALA    94   B
-  ASP    85   A   LYS    25   B
-  THR    84   A   TYR    26   B
-  PRO   106   A   PHE    81   B
-  PHE    96   A   MET    41   B
-  LYS    25   A   ASP    85   B
-  TYR    26   A   ARG   111   B
-  PRO   110   A   LEU   108   B
-  TYR    26   A   ASP    85   B
-  HIS   131   A   PRO   106   B
-  ARG   111   A   TYR    26   B
-  TRP    83   A   VAL   107   B
-  LEU   108   A   TRP    83   B
-  TRP    83   A   LEU   108   B
-  TYR    26   A   PRO   110   B
   PRO   110   A   TYR    26   B
+  LEU   108   A   TRP    83   B
+  HIS   131   A   PRO   106   B
+  LYS    25   A   ASP    85   B
+  PHE    96   A   PHE    96   B
+  THR    84   A   TYR    26   B
+  TRP    83   A   ASN    24   B
+  ALA    29   A   TRP    83   B
+  ASP    85   A   TYR    26   B
+  TRP    83   A   ALA    29   B
   ALA    94   A   ASN   105   B
-  ASN   105   A   HIS   131   B
+  ASN   105   A   MET    41   B
+  HIS   131   A   ASN   105   B
+  GLY    40   A   PHE    96   B
   ASN    24   A   TRP    83   B
-  TRP    83   A   TYR    26   B
-  PRO   106   A   HIS   131   B
+  ARG   111   A   TYR    26   B
+  ASN   105   A   ALA    94   B
+  PRO   106   A   TRP    83   B
   PHE    96   A   GLY    40   B
+  TYR    26   A   ASP    85   B
+  PHE    96   A   MET    41   B
   TYR    26   A   TRP    83   B
+  TYR    26   A   ARG   111   B
+  PRO   106   A   PHE    81   B
+  TYR    26   A   PRO    82   B
+  ASN   105   A   HIS   131   B
+  MET    41   A   PHE    96   B
+  TRP    83   A   LEU   108   B
+  TRP    83   A   TYR    26   B
+  PHE    81   A   PRO   106   B
+  PRO   106   A   HIS   131   B
+  ASP    85   A   LYS    25   B
+  VAL   107   A   TRP    83   B
+  TRP    83   A   VAL   107   B
+  TYR    26   A   PRO   110   B
   TYR    26   A   THR    84   B
+  TRP    83   A   PRO   106   B
+  MET    41   A   ASN   105   B
+  PRO    82   A   TYR    26   B

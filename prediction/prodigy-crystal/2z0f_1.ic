@@ -1,49 +1,47 @@
-  TYR    11   A   TYR    11   B
-  GLU    42   A   GLU    12   B
-  THR     4   A   LEU     7   B
-  GLU    12   A   THR    81   B
-  GLU    76   A   ARG     5   B
-  THR     8   A   TYR    11   B
   GLU    76   A   MET     1   B
-  TYR   101   A   MET     1   B
-  THR     4   A   ALA    73   B
-  THR     8   A   ALA    80   B
-  GLU    12   A   TYR    11   B
-  TYR    11   A   LEU     7   B
-  GLU    12   A   SER    84   B
-  LEU     7   A   TYR    11   B
-  LEU   177   A   GLU    12   B
-  THR     4   A   ILE     3   B
+  ALA    73   A   THR     4   B
+  GLU    42   A   GLU    12   B
   THR     4   A   GLU    76   B
   GLU    12   A   ARG   174   B
+  THR     4   A   ILE     3   B
+  TYR   101   A   MET     1   B
   TYR    11   A   GLU    12   B
-  GLU    76   A   THR     8   B
-  ARG     5   A   GLU    76   B
-  GLU    76   A   THR     4   B
-  SER    84   A   GLU    12   B
-  ARG   174   A   GLU    12   B
-  LEU     7   A   THR     8   B
-  LYS    69   A   MET     1   B
-  ALA    73   A   THR     4   B
-  LEU     7   A   THR     4   B
-  ALA    80   A   GLU    12   B
-  GLU    12   A   LEU   177   B
-  LEU     9   A   LEU   177   B
   ALA    80   A   THR     8   B
-  ILE     3   A   THR     4   B
-  PRO    77   A   GLU    12   B
-  THR     8   A   PRO    77   B
-  THR     8   A   LEU     7   B
-  GLU    12   A   GLU    42   B
+  LEU     7   A   THR     4   B
+  GLU    76   A   THR     8   B
   PRO    77   A   THR     8   B
-  GLU    12   A   PRO    77   B
-  MET     1   A   TYR   101   B
+  GLU    76   A   THR     4   B
+  THR     8   A   ALA    80   B
   LEU     7   A   LEU     7   B
   GLU    12   A   ALA    80   B
-  ASP   100   A   MET     1   B
-  THR    81   A   GLU    12   B
-  THR     8   A   GLU    76   B
+  ILE     3   A   THR     4   B
   TYR    11   A   THR     8   B
-  LEU     7   A   ILE     3   B
+  THR     4   A   LEU     7   B
+  ARG   174   A   GLU    12   B
+  GLU    12   A   LEU   177   B
+  TYR    11   A   TYR    11   B
+  THR    81   A   GLU    12   B
+  TYR    11   A   LEU     7   B
+  THR     8   A   PRO    77   B
   ILE     3   A   ILE     3   B
-  LEU   177   A   LEU     9   B
+  LYS    69   A   MET     1   B
+  GLU    12   A   PRO    77   B
+  THR     8   A   TYR    11   B
+  SER    84   A   GLU    12   B
+  GLU    12   A   TYR    11   B
+  THR     8   A   LEU     7   B
+  GLU    12   A   SER    84   B
+  LEU     7   A   THR     8   B
+  MET     1   A   TYR   101   B
+  LEU   177   A   GLU    12   B
+  GLU    12   A   GLU    42   B
+  THR     8   A   GLU    76   B
+  ARG     5   A   GLU    76   B
+  GLU    76   A   GLU     2   B
+  LEU     7   A   TYR    11   B
+  GLU    76   A   ARG     5   B
+  ALA    80   A   GLU    12   B
+  THR     4   A   ALA    73   B
+  ASP   100   A   MET     1   B
+  PRO    77   A   GLU    12   B
+  GLU    12   A   THR    81   B

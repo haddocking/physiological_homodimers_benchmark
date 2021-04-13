@@ -1,60 +1,55 @@
-  TYR    34   A   LEU    77   B
-  ILE    81   A   ILE    81   B
-  THR    65   A   GLN    15   B
-  VAL    69   A   PHE    19   B
-  GLU    68   A   LEU    16   B
-  LEU    16   A   GLU    68   B
-  SER    66   A   GLN    15   B
+  VAL    30   A   PHE    19   B
+  PHE    19   A   GLN    26   B
+  GLU    72   A   LEU    16   B
   PHE    19   A   PRO    67   B
   ASN    76   A   ASP    36   B
-  PRO    67   A   PHE    19   B
-  PRO    13   A   GLU    68   B
-  VAL    69   A   LEU    16   B
-  GLU    68   A   GLN    15   B
-  VAL    39   A   GLU    72   B
-  LEU    35   A   VAL    69   B
-  GLU    23   A   HIS    24   B
-  LEU    77   A   TYR    34   B
-  TYR    34   A   GLU    72   B
-  PHE    19   A   THR    27   B
-  SER    22   A   HIS    24   B
-  GLU    72   A   VAL    39   B
-  VAL    30   A   PHE    19   B
-  GLN    15   A   SER    66   B
   GLU    23   A   THR    27   B
-  GLU    72   A   TYR    34   B
-  TYR    34   A   ASN    76   B
-  THR    27   A   THR    27   B
-  ASN    76   A   TYR    34   B
-  VAL    69   A   LEU    35   B
-  PHE    19   A   VAL    69   B
-  GLU    68   A   ASP    12   B
-  GLU    72   A   LEU    35   B
-  ASN    76   A   LEU    35   B
   HIS    24   A   GLU    23   B
+  THR    27   A   PHE    19   B
+  SER    22   A   HIS    24   B
   TYR    34   A   ILE    73   B
-  GLU    68   A   PRO    13   B
-  ASP    12   A   GLU    68   B
-  LEU    16   A   GLU    72   B
-  GLN    26   A   PHE    19   B
   ASP    36   A   LYS    79   B
+  ASN    76   A   TYR    34   B
+  GLU    68   A   LEU    16   B
+  PHE    19   A   VAL    30   B
+  LEU    35   A   ASN    76   B
+  ASP    12   A   GLU    68   B
+  GLN    15   A   THR    65   B
+  PRO    67   A   PHE    19   B
+  VAL    69   A   LEU    16   B
+  LEU    35   A   ILE    73   B
   GLU    23   A   GLU    23   B
-  THR    27   A   GLU    23   B
+  LEU    77   A   LEU    77   B
+  PRO    13   A   GLU    68   B
+  GLU    72   A   TYR    34   B
+  GLU    72   A   VAL    39   B
+  THR    27   A   THR    27   B
+  LEU    16   A   VAL    69   B
+  TYR    34   A   ASN    76   B
+  SER    66   A   GLN    15   B
+  LEU    35   A   GLU    72   B
+  VAL    39   A   GLU    72   B
+  GLU    68   A   ASP    12   B
+  ILE    73   A   TYR    34   B
+  GLN    26   A   PHE    19   B
+  PHE    19   A   THR    27   B
   VAL    31   A   VAL    69   B
+  LYS    79   A   ASP    36   B
+  GLN    15   A   GLU    68   B
+  PHE    19   A   VAL    69   B
+  TYR    34   A   GLU    72   B
+  THR    27   A   GLU    23   B
+  ILE    73   A   LEU    35   B
+  THR    65   A   GLN    15   B
+  GLU    23   A   HIS    24   B
+  GLN    15   A   SER    66   B
+  LEU    16   A   GLU    72   B
+  ASN    76   A   LEU    35   B
+  ASP    36   A   ASN    76   B
+  VAL    69   A   PHE    19   B
+  GLU    68   A   PRO    13   B
+  LEU    16   A   GLU    68   B
   VAL    69   A   VAL    31   B
   HIS    24   A   SER    22   B
-  LEU    35   A   ASN    76   B
-  ILE    73   A   TYR    34   B
-  GLN    15   A   GLU    68   B
-  LEU    35   A   ILE    73   B
-  ILE    73   A   LEU    35   B
-  PHE    19   A   GLN    26   B
-  PHE    19   A   VAL    30   B
-  LYS    79   A   ASP    36   B
-  GLN    15   A   THR    65   B
-  GLU    72   A   LEU    16   B
-  ASP    36   A   ASN    76   B
-  LEU    77   A   LEU    77   B
-  THR    27   A   PHE    19   B
-  LEU    35   A   GLU    72   B
-  LEU    16   A   VAL    69   B
+  GLU    68   A   GLN    15   B
+  GLU    72   A   LEU    35   B

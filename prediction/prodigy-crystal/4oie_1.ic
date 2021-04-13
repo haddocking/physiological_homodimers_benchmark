@@ -1,52 +1,52 @@
-  THR    61   A   HIS    87   B
-  GLU    60   A   ASP    67   B
-  THR    61   A   TRP    43   B
-  GLY    18   A   VAL    21   B
-  HIS    62   A   VAL    21   B
+  VAL    21   A   THR    61   B
+  TRP    43   A   THR    61   B
+  THR    61   A   LEU    64   B
+  THR    61   A   TRP    65   B
+  ALA    20   A   VAL    21   B
+  GLY    66   A   THR    63   B
+  THR    61   A   VAL    21   B
+  GLU    60   A   LEU    64   B
   GLU    60   A   TRP    65   B
+  ASP    67   A   ASP    67   B
   TRP    65   A   THR    63   B
   TRP    65   A   GLU    60   B
-  THR    63   A   THR    63   B
-  THR    61   A   TRP    65   B
-  TRP    65   A   THR    61   B
-  LEU    64   A   HIS    62   B
-  LEU    64   A   THR    63   B
-  LEU    64   A   GLU    60   B
-  THR    19   A   ALA    20   B
-  THR    19   A   LEU    64   B
-  ASN    23   A   LYS    15   B
-  ASP    67   A   ASP    67   B
   VAL    21   A   GLY    18   B
-  ALA    20   A   ALA    20   B
+  LEU    64   A   LEU    64   B
+  THR    61   A   TRP    43   B
   GLY    18   A   LYS    22   B
+  TRP    65   A   THR    61   B
+  HIS    87   A   THR    61   B
+  THR    63   A   GLY    66   B
+  VAL    21   A   MET    17   B
+  GLY    66   A   ASP    67   B
+  MET    17   A   ASN    23   B
+  LEU    64   A   GLU    60   B
+  THR    63   A   LEU    64   B
+  GLY    18   A   VAL    21   B
+  THR    19   A   ALA    20   B
+  THR    19   A   VAL    21   B
   LEU    64   A   THR    61   B
-  HIS    62   A   TRP    43   B
+  GLY    66   A   GLY    66   B
+  THR    19   A   THR    19   B
+  THR    63   A   THR    63   B
+  LYS    22   A   GLY    18   B
+  GLU    60   A   ASP    67   B
+  ASP    67   A   GLY    66   B
+  HIS    62   A   VAL    21   B
+  LYS    22   A   MET    17   B
+  LEU    64   A   THR    63   B
+  ALA    20   A   ALA    20   B
   THR    63   A   TRP    65   B
   LYS    15   A   ASN    23   B
-  GLY    66   A   GLY    66   B
-  HIS    62   A   LEU    64   B
-  ASP    67   A   GLU    60   B
-  ASP    67   A   GLY    66   B
-  GLY    66   A   ASP    67   B
-  LEU    64   A   THR    19   B
+  ASN    23   A   MET    17   B
   VAL    21   A   ALA    20   B
-  VAL    21   A   HIS    62   B
-  THR    19   A   THR    19   B
-  GLY    66   A   THR    63   B
-  HIS    87   A   THR    61   B
-  GLY    66   A   GLU    60   B
   ALA    20   A   THR    19   B
-  VAL    21   A   THR    61   B
+  HIS    62   A   TRP    43   B
+  MET    17   A   LYS    22   B
+  VAL    21   A   HIS    62   B
   TRP    43   A   HIS    62   B
-  GLU    60   A   LEU    64   B
-  LEU    64   A   LEU    64   B
-  THR    61   A   VAL    21   B
-  THR    19   A   VAL    21   B
-  THR    61   A   LEU    64   B
-  LYS    22   A   GLY    18   B
-  TRP    43   A   THR    61   B
-  THR    63   A   GLY    66   B
-  ALA    20   A   VAL    21   B
-  GLU    60   A   GLY    66   B
+  ASN    23   A   LYS    15   B
   VAL    21   A   THR    19   B
-  THR    63   A   LEU    64   B
+  ASP    67   A   GLU    60   B
+  THR    61   A   HIS    87   B
+  MET    17   A   VAL    21   B

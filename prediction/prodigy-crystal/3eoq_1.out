@@ -1,31 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/3eoq_1.pdb
-[!] Structure contains gaps:
-	A PHE2 < Fragment 0 > A HIS50
-	A VAL52 < Fragment 1 > A ASP58
-	A ASP60 < Fragment 2 > A ARG70
-	A GLY72 < Fragment 3 > A PHE135
-	A ALA137 < Fragment 4 > A GLY169
-	A ALA171 < Fragment 5 > A ASN182
-	A VAL184 < Fragment 6 > A PRO349
-	A GLN351 < Fragment 7 > A GLY357
-	A GLU359 < Fragment 8 > A GLY405
-	B PHE2 < Fragment 9 > B HIS50
-	B VAL52 < Fragment 10 > B ASP58
-	B ASP60 < Fragment 11 > B ARG70
-	B GLY72 < Fragment 12 > B PHE135
-	B ALA137 < Fragment 13 > B GLY169
-	B ALA171 < Fragment 14 > B ASN182
-	B VAL184 < Fragment 15 > B PRO349
-	B GLN351 < Fragment 16 > B GLY357
-	B GLU359 < Fragment 17 > B ALA406
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/3eoq_1.pdb
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 57
+[+] No. of intermolecular contacts: 54
 [+] No. of charged-charged contacts: 8
 [+] No. of charged-polar contacts: 9
-[+] No. of charged-apolar contacts: 9
+[+] No. of charged-apolar contacts: 8
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 19
-[+] No. of apolar-apolar contacts: 12
-[+] Link density: 0.10
-[+] Class: BIO 0.58 0.42
+[+] No. of apolar-apolar contacts: 10
+[+] Link density: 0.09
+[+] Class: XTAL 0.444 0.556
 

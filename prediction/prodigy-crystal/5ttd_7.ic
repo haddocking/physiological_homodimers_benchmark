@@ -1,65 +1,62 @@
-  LYS   257   A   LYS   332   B
-  GLN   259   A   GLN   331   B
-  THR   255   A   LYS   332   B
-  ASN   106   A   GLU   415   B
-  LYS   262   A   GLN   259   B
-  GLY   333   A   GLN   259   B
-  ALA   420   A   THR    86   B
-  ASP    88   A   GLY   421   B
-  GLU   415   A   LYS   108   B
-  LYS   262   A   LYS   262   B
-  GLN   259   A   LYS   332   B
-  ASP   186   A   LYS   176   B
-  GLY   258   A   GLN   331   B
-  ALA   420   A   LYS    89   B
-  LYS   257   A   GLN   331   B
-  THR   418   A   THR    86   B
-  GLU   415   A   ASN   106   B
-  ALA   420   A   PRO    87   B
-  ASP   397   A   ASP    88   B
-  GLN   331   A   GLU   136   B
-  LYS   176   A   LYS   176   B
-  GLY   396   A   ASP    88   B
-  THR   418   A   GLU    84   B
-  TYR   173   A   LYS   176   B
-  PRO   260   A   PRO   260   B
+  PRO   260   A   GLN   259   B
   SER   422   A   LYS    89   B
-  LYS   332   A   LYS   257   B
-  LYS   108   A   GLU   416   B
-  GLN   259   A   GLY   333   B
-  ASP    88   A   ASP   397   B
-  LYS   176   A   ASP   186   B
-  GLY   258   A   PRO   260   B
-  PRO   260   A   GLY   258   B
-  LYS   332   A   THR   255   B
-  GLU   136   A   GLN   331   B
   LYS    89   A   SER   422   B
-  ALA   420   A   ASP    88   B
-  LYS    89   A   ALA   420   B
+  ASP   397   A   ASP    88   B
   GLN   331   A   GLY   258   B
-  GLY   421   A   ASP    88   B
-  GLU   416   A   LYS   108   B
-  LYS   108   A   ILE   417   B
-  ILE   417   A   LYS   108   B
+  THR   418   A   GLU    84   B
   ASP    88   A   SER   398   B
-  THR    86   A   ALA   420   B
-  LYS   332   A   GLY   258   B
-  LYS   176   A   TYR   173   B
-  THR    86   A   THR   418   B
+  GLN   259   A   PRO   260   B
+  TYR   173   A   LYS   176   B
+  THR   418   A   THR    86   B
+  LYS    89   A   ALA   420   B
   LYS   108   A   GLU   415   B
+  ASP    88   A   GLY   396   B
+  GLN   331   A   LYS   257   B
+  ASN   106   A   GLU   415   B
+  GLU   415   A   LYS   108   B
   GLY   423   A   LYS    89   B
+  THR    86   A   THR   418   B
+  GLY   258   A   LYS   332   B
+  ASP    88   A   GLY   421   B
+  GLU   415   A   ASN   106   B
+  GLN   331   A   GLU   136   B
+  PRO   260   A   GLY   258   B
+  ALA   420   A   LYS    89   B
+  LYS   257   A   LYS   332   B
+  ALA   420   A   PRO    87   B
+  LYS   332   A   GLN   259   B
+  GLU   416   A   LYS   108   B
   SER   398   A   ASP    88   B
   GLU    84   A   THR   418   B
-  GLN   259   A   PRO   260   B
+  GLN   259   A   LYS   332   B
   ASP    88   A   SER   422   B
-  GLN   331   A   LYS   257   B
-  ASP    88   A   ALA   420   B
-  PRO   260   A   GLN   259   B
-  LYS    89   A   GLY   423   B
-  SER   422   A   ASP    88   B
+  LYS   332   A   LYS   257   B
+  ALA   420   A   ASP    88   B
   GLN   259   A   LYS   262   B
-  GLN   331   A   GLN   259   B
-  ASP    88   A   GLY   396   B
-  GLY   258   A   LYS   332   B
+  GLY   258   A   GLN   331   B
   PRO    87   A   ALA   420   B
-  LYS   332   A   GLN   259   B
+  ASP    88   A   ALA   420   B
+  SER   422   A   ASP    88   B
+  LYS   108   A   ILE   417   B
+  ALA   420   A   THR    86   B
+  GLN   331   A   GLN   259   B
+  LYS    89   A   GLY   423   B
+  ASP   186   A   LYS   176   B
+  PRO   260   A   PRO   260   B
+  GLY   333   A   GLN   259   B
+  THR    86   A   ALA   420   B
+  GLN   259   A   GLY   333   B
+  LYS   262   A   LYS   262   B
+  LYS   176   A   ASP   186   B
+  LYS   257   A   GLN   331   B
+  LYS   176   A   TYR   173   B
+  ILE   417   A   LYS   108   B
+  GLU   136   A   GLN   331   B
+  LYS   332   A   GLY   258   B
+  ASP    88   A   ASP   397   B
+  LYS   108   A   GLU   416   B
+  GLY   421   A   ASP    88   B
+  GLN   259   A   GLN   331   B
+  GLY   258   A   PRO   260   B
+  GLY   396   A   ASP    88   B
+  LYS   262   A   GLN   259   B

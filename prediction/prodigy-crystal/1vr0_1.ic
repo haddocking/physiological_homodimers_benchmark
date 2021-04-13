@@ -1,57 +1,58 @@
-  ILE    19   A   ILE    19   B
-  GLU   162   A   THR   188   B
-  PHE   207   A   TYR   196   B
-  PHE   163   A   ALA   190   B
   PHE   163   A   PHE   163   B
-  GLY   161   A   LYS    28   B
-  THR   193   A   PHE   168   B
+  GLU   162   A   THR   188   B
+  PHE   163   A   ALA   190   B
   ASP   189   A   HIS   213   B
-  ILE   165   A   ASP   189   B
-  THR   192   A   TYR   210   B
-  ASP   189   A   ASP   166   B
-  THR   192   A   ILE   165   B
-  ASP   189   A   ALA   211   B
-  ASP   166   A   ASP   189   B
-  TYR   196   A   ASN   201   B
-  THR   193   A   PHE   163   B
-  ASN   201   A   TYR   196   B
-  TYR   210   A   ASP   189   B
-  ASP    23   A   LYS    28   B
-  PHE   168   A   THR   193   B
-  ALA   211   A   ASP   189   B
-  TYR   196   A   TYR   196   B
-  ASP   189   A   PHE   163   B
+  LYS    25   A   ASP    23   B
   LYS    28   A   GLY   161   B
-  LYS    25   A   ASP    22   B
-  LYS    28   A   GLU   162   B
+  ASP   166   A   ASP   189   B
+  ASP   189   A   ALA   211   B
+  THR   200   A   TYR   196   B
+  GLU   186   A   LYS   212   B
   TYR   196   A   VAL   197   B
-  TYR   196   A   PHE   207   B
+  THR   193   A   PHE   163   B
+  ASP   189   A   LYS   212   B
+  ASN   201   A   TYR   196   B
+  ASP   189   A   TYR   210   B
+  GLU   162   A   LYS    28   B
+  LYS    28   A   ASP    23   B
+  ASP   189   A   ASP   166   B
+  ILE   165   A   THR   193   B
+  LYS   212   A   ASP   189   B
+  THR   193   A   PHE   168   B
+  ASP   189   A   PHE   163   B
+  THR   193   A   ILE   165   B
+  LYS    28   A   GLU   162   B
+  ASP    16   A   GLU   162   B
+  ASP    22   A   LYS    25   B
+  PHE   207   A   TYR   196   B
+  THR   193   A   VAL   197   B
+  VAL   197   A   THR   193   B
+  ASP    23   A   LYS    25   B
+  PHE   163   A   THR   193   B
+  ILE    19   A   ILE    19   B
+  LYS    25   A   ASP    22   B
+  ASP   189   A   ILE   165   B
+  LYS   212   A   GLU   186   B
+  TYR   196   A   THR   200   B
   VAL   197   A   TYR   196   B
   ASP    23   A   ASP    23   B
-  ASP    23   A   LYS    25   B
-  THR   193   A   ILE   165   B
-  THR   193   A   VAL   197   B
-  PHE   163   A   THR   193   B
-  LYS    25   A   ASP    23   B
-  ILE   165   A   THR   192   B
-  ASP    16   A   GLU   162   B
-  ASP   189   A   TYR   210   B
-  LYS    28   A   ASP    23   B
-  ASP   189   A   ILE   165   B
   THR   193   A   THR   193   B
-  VAL   197   A   THR   193   B
-  ASP   189   A   LYS   212   B
-  PHE   163   A   ASP   189   B
-  THR   188   A   GLU   162   B
-  LYS   212   A   ASP   189   B
-  TYR   210   A   THR   192   B
-  ASP   189   A   SER   164   B
-  SER   164   A   ASP   189   B
-  TYR   196   A   THR   200   B
-  ASP    22   A   LYS    25   B
-  ILE   165   A   THR   193   B
   GLU   162   A   ASP    16   B
-  ALA   190   A   PHE   163   B
-  GLU   162   A   LYS    28   B
-  THR   200   A   TYR   196   B
+  PHE   163   A   ASP   189   B
+  TYR   210   A   THR   192   B
+  TYR   196   A   ASN   201   B
+  TYR   210   A   ASP   189   B
   HIS   213   A   ASP   189   B
+  THR   192   A   TYR   210   B
+  ASP   189   A   SER   164   B
+  LEU   187   A   LYS   212   B
+  ALA   211   A   ASP   189   B
+  SER   164   A   ASP   189   B
+  TYR   196   A   TYR   196   B
+  ILE   165   A   ASP   189   B
+  TYR   196   A   PHE   207   B
+  ALA   190   A   PHE   163   B
+  GLY   161   A   LYS    28   B
+  PHE   168   A   THR   193   B
+  ASP    23   A   LYS    28   B
+  THR   188   A   GLU   162   B

@@ -1,23 +1,22 @@
-  GLY     2   A   ARG    37   B
-  LEU   303   A   GLN   105   B
-  ALA     3   A   ARG    37   B
-  GLU   356   A   GLU   127   B
-  LYS   299   A   ARG    45   B
-  GLN   295   A   GLU   100   B
-  LYS   299   A   SER    42   B
-  ASP   306   A   GLN   105   B
-  SER     4   A   ARG    37   B
-  LYS   299   A   CYS    40   B
-  GLU   356   A   LYS   123   B
-  ALA     3   A   CYS    40   B
-  ASN   354   A   LYS   123   B
-  LEU   303   A   PRO   102   B
-  ARG   353   A   GLN   105   B
-  ASP   300   A   ARG    45   B
-  LEU   303   A   SER    42   B
-  ASP   300   A   SER    42   B
   LEU   301   A   SER    42   B
-  ASN   355   A   LYS   123   B
+  LYS   299   A   SER    42   B
+  SER     4   A   ARG    37   B
   GLU   356   A   LYS   120   B
-  GLY     2   A   GLU   127   B
+  ASP   300   A   ARG    45   B
+  GLU   356   A   LYS   123   B
+  LYS   299   A   CYS    40   B
+  ARG   353   A   GLN   105   B
   ASN   290   A   GLU   100   B
+  ALA     3   A   CYS    40   B
+  GLY     2   A   GLU   127   B
+  LYS   299   A   ARG    45   B
+  ASP   306   A   GLN   105   B
+  GLU   356   A   GLU   127   B
+  ALA     3   A   ARG    37   B
+  LEU   303   A   SER    42   B
+  GLN   295   A   GLU   100   B
+  LEU   303   A   GLN   105   B
+  GLY     2   A   ARG    37   B
+  ASN   354   A   LYS   123   B
+  ASP   300   A   SER    42   B
+  ASN   355   A   LYS   123   B

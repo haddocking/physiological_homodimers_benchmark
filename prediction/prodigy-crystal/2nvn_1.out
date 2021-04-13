@@ -1,11 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2nvn_1.pdb
-[!] Structure contains gaps:
-	A GLY3 < Fragment 0 > A GLU40
-	A ALA42 < Fragment 1 > A LEU62
-	A PRO64 < Fragment 2 > A PHE122
-	B GLY3 < Fragment 3 > B GLU40
-	B ALA42 < Fragment 4 > B LEU62
-	B PRO64 < Fragment 5 > B PHE122
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2nvn_1.pdb
 [+] Selection: A, B
 [+] No. of intermolecular contacts: 77
 [+] No. of charged-charged contacts: 21

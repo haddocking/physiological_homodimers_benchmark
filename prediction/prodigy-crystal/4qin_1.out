@@ -1,17 +1,17 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4qin_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4qin_1.pdb
 [!] Structure contains gaps:
 	A GLN6 < Fragment 0 > A ASN406
 	A ASP419 < Fragment 1 > A ARG464
 	B GLN6 < Fragment 2 > B ASN406
 	B ASP419 < Fragment 3 > B ARG464
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 76
+[+] No. of intermolecular contacts: 70
 [+] No. of charged-charged contacts: 0
-[+] No. of charged-polar contacts: 4
+[+] No. of charged-polar contacts: 5
 [+] No. of charged-apolar contacts: 16
-[+] No. of polar-polar contacts: 1
+[+] No. of polar-polar contacts: 2
 [+] No. of apolar-polar contacts: 8
-[+] No. of apolar-apolar contacts: 47
+[+] No. of apolar-apolar contacts: 39
 [+] Link density: 0.07
-[+] Class: BIO 0.94 0.06
+[+] Class: BIO 0.944 0.056
 

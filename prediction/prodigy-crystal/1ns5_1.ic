@@ -1,75 +1,62 @@
-  PRO   105   A   ARG   154   B
-  LEU   127   A   GLU   138   B
-  TRP    79   A   LEU   125   B
+  PRO   128   A   ARG   142   B
   THR   126   A   THR    81   B
-  THR    81   A   ALA   124   B
-  PRO   128   A   GLU   138   B
-  PRO   128   A   TYR   152   B
-  LEU   131   A   TYR    23   B
-  GLY    19   A   TRP    15   B
-  TRP    79   A   ALA   124   B
-  GLU    22   A   PRO    13   B
-  LEU   122   A   LEU   122   B
-  GLU   138   A   PRO   128   B
-  LEU   135   A   LEU   135   B
-  LEU   125   A   LEU   122   B
-  PRO   130   A   TYR    23   B
   PRO    13   A   GLU   155   B
-  THR    18   A   TRP    15   B
-  ASP    80   A   LEU   125   B
-  GLU   138   A   THR   126   B
-  LEU   131   A   GLU   138   B
-  LEU   125   A   TRP   120   B
-  VAL   134   A   LEU   131   B
-  GLU    22   A   TRP    15   B
-  LEU   131   A   LEU   131   B
-  ALA   124   A   LEU   122   B
-  LEU   135   A   LEU   131   B
-  ARG   142   A   LEU   127   B
-  VAL   134   A   TRP    15   B
-  LEU   122   A   ALA   124   B
-  TYR    23   A   TRP    15   B
-  THR   126   A   ARG   142   B
-  TRP    15   A   THR    18   B
-  SER   123   A   LEU   122   B
-  HIS   153   A   THR   126   B
-  PRO    78   A   ALA   124   B
+  GLU    22   A   PRO    13   B
+  PRO   105   A   ARG   154   B
   TRP    15   A   VAL   134   B
+  TYR    23   A   PRO   128   B
+  GLU    22   A   TRP    15   B
+  THR    81   A   LEU   125   B
+  PRO   130   A   TYR    23   B
+  ASP    80   A   LEU   125   B
+  GLY    19   A   TRP    15   B
+  TRP    15   A   GLY    19   B
+  TRP    15   A   TYR    23   B
+  LEU   125   A   SER   139   B
+  GLU   138   A   PRO   128   B
+  LEU   125   A   TRP   120   B
+  THR   126   A   GLU   138   B
+  THR   126   A   ARG   142   B
+  THR    81   A   THR   126   B
+  ARG   142   A   PRO   128   B
+  TYR    23   A   TRP    15   B
+  LEU   122   A   LEU   122   B
   LEU   122   A   SER   123   B
   SER   139   A   LEU   125   B
+  THR    81   A   ALA   124   B
   TYR   152   A   PRO   128   B
-  LEU   127   A   LEU   135   B
-  SER   123   A   SER   123   B
-  LEU   135   A   LEU   127   B
-  PRO   128   A   ARG   142   B
-  LEU   125   A   TRP    79   B
-  THR   126   A   GLU   138   B
-  GLU   138   A   LEU   131   B
-  TRP    15   A   GLY    19   B
-  ARG   142   A   PRO   128   B
-  LEU   125   A   SER   139   B
-  ALA   124   A   PRO    78   B
-  LEU   125   A   THR    81   B
-  ALA   124   A   TRP    79   B
-  LEU   131   A   VAL   134   B
+  PRO    78   A   ALA   124   B
   ASP    80   A   ALA   124   B
-  ARG   142   A   THR   126   B
-  LEU   127   A   ARG   142   B
-  TRP    15   A   TRP    15   B
-  LEU   125   A   ASP    80   B
-  ALA   124   A   THR    81   B
+  ALA   124   A   PRO    78   B
+  VAL   134   A   LEU   131   B
+  VAL   134   A   TRP    15   B
   TRP   120   A   LEU   125   B
-  TRP    15   A   GLU    22   B
-  GLU   138   A   LEU   127   B
-  LEU   131   A   LEU   135   B
-  TRP    15   A   TYR    23   B
-  THR    81   A   LEU   125   B
-  TYR    23   A   PRO   128   B
-  LEU   122   A   LEU   125   B
-  LEU    84   A   LEU   125   B
+  LEU   131   A   TYR    23   B
   PRO   128   A   TYR    23   B
-  LEU   125   A   LEU    84   B
-  LEU   135   A   LEU   125   B
+  TRP    15   A   THR    18   B
   LYS    11   A   GLU   155   B
-  THR    81   A   THR   126   B
+  THR    18   A   TRP    15   B
+  TRP    15   A   TRP    15   B
+  GLU   138   A   THR   126   B
+  LEU   125   A   ASP    80   B
+  TRP    15   A   GLU    22   B
+  TRP    79   A   ALA   124   B
+  ARG   142   A   THR   126   B
   ALA   124   A   ASP    80   B
+  LEU   131   A   VAL   134   B
+  GLU   138   A   LEU   127   B
+  SER   123   A   LEU   122   B
+  LEU   125   A   THR    81   B
+  PRO   128   A   TYR   152   B
+  SER   123   A   SER   123   B
+  ALA   124   A   THR    81   B
+  ARG   142   A   LEU   127   B
+  TRP    79   A   LEU   125   B
+  ALA   124   A   LEU   122   B
+  LEU   125   A   TRP    79   B
+  LEU   127   A   GLU   138   B
+  ALA   124   A   TRP    79   B
+  LEU   127   A   ARG   142   B
+  HIS   153   A   THR   126   B
+  LEU   122   A   ALA   124   B
+  PRO   128   A   GLU   138   B

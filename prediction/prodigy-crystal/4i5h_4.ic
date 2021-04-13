@@ -1,42 +1,35 @@
-  ASP   174   A   TYR    63   B
-  ARG   171   A   TYR    63   B
-  GLU    32   A   GLU    59   B
-  VAL   172   A   LEU   169   B
-  SER   265   A   SER   265   B
-  TYR    63   A   VAL   172   B
-  LYS   339   A   ARG    14   B
-  TYR   262   A   LEU   233   B
-  HIS    60   A   ARG   171   B
-  LYS   258   A   ASP   234   B
-  ARG    66   A   PRO   175   B
-  ASP   174   A   LEU   169   B
-  ARG   171   A   HIS    60   B
-  LEU   169   A   VAL   172   B
-  ASP   174   A   THR    62   B
-  LEU   233   A   LEU   233   B
-  THR    62   A   ASP   174   B
   ARG    66   A   ASP   174   B
-  LEU   233   A   TYR   262   B
-  ARG    14   A   GLU    59   B
-  GLU    32   A   HIS    60   B
-  VAL   172   A   ARG   171   B
-  VAL   172   A   VAL   172   B
-  ALA    34   A   VAL   172   B
+  GLU    59   A   GLU    32   B
+  ASP   174   A   TYR    63   B
+  GLU    59   A   ARG    14   B
+  ASP   234   A   LYS   258   B
+  ARG   171   A   VAL   172   B
   HIS    60   A   GLU    32   B
+  THR    62   A   ASP   174   B
+  LYS   258   A   ASP   234   B
+  VAL   172   A   VAL   172   B
+  VAL   172   A   ALA   170   B
+  TYR    63   A   ARG   171   B
+  VAL   172   A   ALA    34   B
+  ALA    34   A   VAL   172   B
+  GLU    32   A   GLU    59   B
   TYR   262   A   TYR   262   B
+  ARG    14   A   LYS   339   B
+  ARG    14   A   GLU    59   B
+  VAL   172   A   TYR    63   B
+  ASP   174   A   ARG    66   B
+  GLY    15   A   GLU    59   B
+  VAL   172   A   ARG   171   B
   GLU    59   A   GLY    15   B
+  ARG   171   A   TYR    63   B
+  LEU   169   A   VAL   172   B
+  ARG   171   A   HIS    60   B
+  LYS   339   A   ARG    14   B
   ALA   170   A   VAL   172   B
   TYR    63   A   ASP   174   B
-  GLY    15   A   GLU    59   B
-  ARG   171   A   VAL   172   B
-  TYR    63   A   ARG   171   B
-  GLU    59   A   ARG    14   B
-  PRO   175   A   ARG    66   B
-  VAL   172   A   ALA    34   B
-  GLU    59   A   GLU    32   B
-  ASP   234   A   LYS   258   B
-  VAL   172   A   TYR    63   B
-  ARG    14   A   LYS   339   B
-  ASP   174   A   ARG    66   B
-  VAL   172   A   ALA   170   B
-  LEU   169   A   ASP   174   B
+  VAL   172   A   LEU   169   B
+  HIS    60   A   ARG   171   B
+  SER   265   A   SER   265   B
+  TYR    63   A   VAL   172   B
+  GLU    32   A   HIS    60   B
+  ASP   174   A   THR    62   B

@@ -1,60 +1,52 @@
-  ALA   227   A   HIS    97   B
-  PRO   247   A   LEU   250   B
-  SER   248   A   LYS   136   B
-  GLY   102   A   ILE   249   B
-  PRO   247   A   ALA   105   B
-  LYS   136   A   SER   245   B
-  GLY   228   A   HIS    97   B
-  ILE   249   A   GLY   102   B
-  LYS   136   A   HIS   243   B
-  TYR   137   A   SER   245   B
-  GLY    98   A   HIS    97   B
-  GLN    47   A   GLN    47   B
+  CYS   246   A   GLU   133   B
   GLY    98   A   GLY    98   B
+  ARG   101   A   ILE   249   B
+  HIS    97   A   GLY    99   B
+  SER   245   A   LYS   136   B
+  PRO   247   A   PRO   247   B
+  CYS   246   A   TYR   137   B
+  GLU   244   A   LYS   136   B
+  GLY   228   A   HIS    97   B
+  GLY   228   A   THR   267   B
+  GLU   133   A   CYS   246   B
   TYR   137   A   CYS   246   B
-  THR   267   A   GLY   228   B
-  ILE   249   A   LEU   250   B
-  PRO   266   A   PRO    35   B
-  GLU    49   A   GLN    47   B
-  PHE   268   A   PHE   268   B
+  HIS   243   A   LYS   136   B
   HIS    97   A   GLY   228   B
   HIS    97   A   GLY    98   B
-  ILE   249   A   ILE   249   B
-  GLN    47   A   LEU    50   B
-  CYS   246   A   GLU   133   B
-  THR   267   A   ALA   227   B
-  PRO   247   A   LYS   136   B
-  GLU   133   A   SER   248   B
-  PRO   247   A   TYR   137   B
   LYS   136   A   SER   248   B
-  ILE   249   A   ARG   101   B
-  ASP   251   A   LYS   136   B
-  GLU   133   A   PRO   247   B
-  CYS   246   A   LYS   136   B
-  PRO   247   A   LEU   109   B
-  LYS   136   A   PRO   247   B
-  ALA   105   A   PRO   247   B
-  LEU   109   A   PRO   247   B
+  PRO   266   A   PRO    35   B
+  GLY   102   A   ILE   249   B
   ALA   227   A   PRO   266   B
-  GLU   244   A   LYS   136   B
-  ALA   227   A   THR   267   B
-  GLY   228   A   THR   267   B
-  LEU   250   A   PRO   247   B
-  GLU   133   A   CYS   246   B
-  PRO   266   A   ALA   227   B
-  HIS   243   A   LYS   136   B
-  SER   245   A   LYS   136   B
-  LYS   136   A   CYS   246   B
-  SER   248   A   GLU   133   B
-  SER   245   A   TYR   137   B
-  CYS   246   A   TYR   137   B
-  PRO   247   A   GLU   133   B
   PRO    35   A   PRO   266   B
-  PRO   247   A   PRO   247   B
   LYS   136   A   GLU   244   B
-  HIS    97   A   GLY    99   B
-  TYR   137   A   PRO   247   B
-  HIS    97   A   HIS    97   B
+  ILE   249   A   GLY   102   B
+  THR   267   A   ALA   227   B
+  PRO   247   A   GLU   133   B
+  SER   248   A   LYS   136   B
+  PRO   247   A   TYR   137   B
+  SER   248   A   GLU   133   B
+  ILE   249   A   ARG   101   B
+  GLU    49   A   GLN    47   B
+  GLY    98   A   HIS    97   B
+  TYR   137   A   SER   245   B
+  GLN    47   A   LEU    50   B
   GLY    99   A   HIS    97   B
-  ARG   101   A   ILE   249   B
-  LEU   250   A   ILE   249   B
+  GLU   133   A   PRO   247   B
+  PRO   266   A   ALA   227   B
+  LYS   136   A   CYS   246   B
+  TYR   137   A   PRO   247   B
+  ALA   227   A   HIS    97   B
+  GLU   133   A   SER   248   B
+  PHE   268   A   PHE   268   B
+  ALA   105   A   PRO   247   B
+  ALA   227   A   THR   267   B
+  PRO   247   A   LYS   136   B
+  HIS    97   A   HIS    97   B
+  THR   267   A   GLY   228   B
+  LYS   136   A   SER   245   B
+  SER   245   A   TYR   137   B
+  ASP   251   A   LYS   136   B
+  PRO   247   A   ALA   105   B
+  GLN    47   A   GLN    47   B
+  LYS   136   A   HIS   243   B
+  CYS   246   A   LYS   136   B

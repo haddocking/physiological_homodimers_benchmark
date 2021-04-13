@@ -1,46 +1,42 @@
-  ILE   153   A   PHE   156   B
-  GLU    98   A   ILE    93   B
-  ASP   229   A   SER   225   B
-  THR   232   A   MET   223   B
-  LYS   152   A   ILE   212   B
-  ILE   153   A   ILE   212   B
-  ARG   228   A   ARG   228   B
-  HIS    95   A   ILE    93   B
-  LYS   105   A   GLU    98   B
-  ILE    93   A   GLU    98   B
-  ILE   212   A   ILE   153   B
   MET   223   A   LEU   236   B
-  SER   225   A   ASP   229   B
-  ASP   229   A   GLY   224   B
-  SER   214   A   LYS   152   B
-  ILE   101   A   LYS   105   B
-  LEU   236   A   MET   223   B
-  ASP   102   A   ARG   228   B
+  ILE    93   A   GLU    98   B
+  ASP   213   A   LYS   152   B
+  LEU   211   A   LYS   152   B
+  LYS   105   A   LYS    99   B
+  ARG   228   A   ASP   102   B
+  GLU    98   A   GLU    98   B
+  MET   223   A   LYS   105   B
+  LYS   105   A   ILE   101   B
+  ASP   229   A   ASP   102   B
   HIS    95   A   HIS    95   B
   MET   223   A   THR   232   B
-  LYS   152   A   LEU   211   B
-  LYS   152   A   ASP   213   B
-  ILE   153   A   ILE   153   B
-  LEU   211   A   LYS   152   B
-  LYS   105   A   MET   223   B
-  LYS   105   A   ILE   101   B
-  GLU    98   A   LYS   105   B
-  ASP   102   A   LYS   105   B
-  ILE   212   A   LYS   152   B
-  GLU    98   A   GLU    98   B
   LYS    99   A   LYS   105   B
-  LYS   105   A   ASP   102   B
-  ASP   102   A   ASP   229   B
-  HIS    95   A   THR    94   B
-  ILE    93   A   HIS    95   B
-  LYS   105   A   LYS    99   B
-  PHE   156   A   ILE   153   B
-  ASP   213   A   LYS   152   B
-  THR    94   A   HIS    95   B
   GLY   224   A   ASP   229   B
-  ASP   229   A   ASP   102   B
-  ARG   228   A   ASP   102   B
+  HIS    95   A   ILE    93   B
+  ARG   228   A   ARG   228   B
+  LYS   152   A   ILE   212   B
+  THR    94   A   HIS    95   B
+  LYS   152   A   ASP   213   B
+  GLU    98   A   LYS   105   B
+  ASP   102   A   ARG   228   B
+  LYS   152   A   LEU   211   B
+  THR   232   A   MET   223   B
+  LYS   105   A   ASP   102   B
+  ILE   153   A   ILE   153   B
+  ILE    93   A   HIS    95   B
+  SER   214   A   LYS   152   B
   HIS    95   A   GLU    98   B
-  MET   223   A   LYS   105   B
+  ILE   101   A   LYS   105   B
+  ASP   102   A   ASP   229   B
+  LYS   105   A   GLU    98   B
+  ASP   229   A   SER   225   B
   GLU    98   A   HIS    95   B
+  ASP   102   A   LYS   105   B
+  GLU    98   A   ILE    93   B
+  ASP   229   A   GLY   224   B
+  LYS   105   A   MET   223   B
+  HIS    95   A   THR    94   B
+  LEU   236   A   MET   223   B
+  SER   225   A   ASP   229   B
   LYS   152   A   SER   214   B
+  ILE   212   A   LYS   152   B

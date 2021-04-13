@@ -1,70 +1,67 @@
-  ARG    68   A   ARG   117   B
-  ILE   105   A   GLU    84   B
-  GLY    94   A   ARG   117   B
-  GLU    84   A   GLU   107   B
-  PRO    74   A   ARG   118   B
-  ILE    88   A   ARG   113   B
-  ILE    88   A   GLY   106   B
-  ILE    88   A   ALA   110   B
-  GLU    84   A   ILE   105   B
+  ASP    96   A   VAL   114   B
   GLY   104   A   GLU    84   B
-  ARG   118   A   ALA    72   B
-  TYR    98   A   ARG   111   B
-  ARG   113   A   ASP    92   B
-  VAL   114   A   ALA    95   B
-  ARG   111   A   LYS    87   B
-  ARG   117   A   GLY    94   B
-  LYS    87   A   ARG   111   B
-  LEU    91   A   ARG   117   B
-  ARG   111   A   ASP    97   B
-  VAL   114   A   ASP    96   B
-  ARG   111   A   ARG   111   B
-  ARG   117   A   ASP    92   B
-  LEU    91   A   ALA   110   B
-  ASP    92   A   ARG   113   B
-  ARG    68   A   ARG   118   B
-  ARG   118   A   GLY    94   B
-  VAL    75   A   ARG   118   B
-  GLY    94   A   ARG   118   B
-  ASP    92   A   ALA   110   B
-  ARG   118   A   ARG    68   B
-  LEU    91   A   ARG   111   B
-  ALA   110   A   LEU    91   B
-  ARG   113   A   ILE    88   B
-  ALA    72   A   ARG   118   B
-  GLU   107   A   ILE    88   B
-  GLN   121   A   ALA    72   B
   GLU    84   A   GLY   106   B
-  LYS    87   A   GLU   107   B
-  GLU    84   A   PHE   103   B
-  ARG   111   A   LEU    91   B
-  GLU    84   A   GLY   104   B
+  PRO    74   A   ARG   118   B
+  GLU   107   A   ILE    88   B
+  ARG   117   A   GLY    94   B
+  VAL   114   A   LEU    91   B
+  ARG   117   A   ASP    92   B
   ARG   118   A   VAL    73   B
-  ARG   118   A   HIS   119   B
-  ASP    96   A   ARG   118   B
+  TYR    98   A   ARG   111   B
+  LEU    91   A   ARG   117   B
+  ARG   118   A   PRO    74   B
   ARG   111   A   TYR    98   B
-  ARG   118   A   ASP    96   B
-  GLY   106   A   ILE    88   B
+  VAL   114   A   ALA    95   B
+  ILE   105   A   GLU    84   B
+  ARG   111   A   ARG   111   B
+  ASP    96   A   ARG   118   B
+  ARG   118   A   GLY    94   B
   ASP    97   A   ASP    97   B
   ASP    97   A   ARG   111   B
-  ARG   118   A   VAL    75   B
-  ILE    88   A   GLU   107   B
-  ALA    95   A   VAL   114   B
-  ARG   118   A   PRO    74   B
-  VAL   114   A   LEU    91   B
-  ARG   117   A   ALA    95   B
-  ALA   110   A   ASP    92   B
-  ASP    96   A   VAL   114   B
-  GLY   106   A   GLU    84   B
+  ARG    68   A   ARG   118   B
+  ILE    88   A   ALA   110   B
+  GLU    84   A   PHE   103   B
+  GLU    84   A   GLU   107   B
+  ARG   118   A   HIS   119   B
+  ILE    88   A   ARG   113   B
+  LEU    91   A   ALA   110   B
   LEU    91   A   VAL   114   B
+  GLU    84   A   GLY   104   B
+  ILE    88   A   GLY   106   B
   ARG   117   A   ASP    96   B
-  ALA    95   A   ARG   117   B
-  GLU   107   A   LEU    91   B
+  GLY   106   A   GLU    84   B
+  LEU    91   A   ARG   111   B
+  GLU    84   A   ILE   105   B
   GLN   121   A   HIS   119   B
-  HIS   119   A   ARG   118   B
-  VAL    73   A   ARG   118   B
+  GLY    94   A   ARG   117   B
+  ARG   118   A   ARG    68   B
+  ARG   118   A   VAL    75   B
+  ALA    72   A   ARG   118   B
+  GLY   106   A   ILE    88   B
+  ARG   118   A   ASP    96   B
+  GLY    94   A   ARG   118   B
+  ALA    95   A   ARG   117   B
+  ALA   110   A   LEU    91   B
   GLU   107   A   LYS    87   B
+  ASP    92   A   ARG   113   B
+  ILE    88   A   GLU   107   B
+  VAL   114   A   ASP    96   B
+  ARG   118   A   ALA    72   B
+  ARG   113   A   ILE    88   B
+  ALA    95   A   VAL   114   B
+  ALA   110   A   ILE    88   B
+  HIS   119   A   ARG   118   B
+  ASP    92   A   ARG   117   B
+  VAL    73   A   ARG   118   B
   ARG   117   A   LEU    91   B
   ASP    96   A   ARG   117   B
+  GLN   121   A   ALA    72   B
+  ARG   113   A   ASP    92   B
+  LYS    87   A   GLU   107   B
+  ARG    68   A   ARG   117   B
   GLU   107   A   GLU    84   B
-  ALA   110   A   ILE    88   B
+  ALA   110   A   ASP    92   B
+  ASP    92   A   ALA   110   B
+  ARG   111   A   ASP    97   B
+  ARG   111   A   LEU    91   B
+  ARG   117   A   ALA    95   B

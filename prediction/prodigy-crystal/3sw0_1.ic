@@ -1,49 +1,45 @@
-  ASP    73   A   LEU   146   B
-  SER   127   A   ASP   177   B
-  ASP   177   A   GLU   129   B
-  GLU   102   A   GLU   129   B
-  HIS   122   A   TYR   147   B
-  ASP    73   A   ARG   128   B
-  VAL   125   A   GLY   178   B
-  LYS   179   A   LEU   180   B
-  GLU   129   A   GLU   102   B
-  HIS   169   A   GLU   181   B
-  ILE   130   A   LYS   179   B
-  ILE   130   A   ASP   177   B
-  LEU   180   A   LYS   179   B
-  ASP   177   A   VAL   125   B
   TYR    99   A   TYR   147   B
-  GLU   129   A   TRP   176   B
-  HIS   169   A   HIS   169   B
-  TYR   147   A   HIS   122   B
-  TYR   182   A   LYS   179   B
-  GLU   181   A   GLU   181   B
-  TYR   182   A   ASP   177   B
-  TYR   147   A   TYR    99   B
-  LYS   179   A   ILE   130   B
-  VAL   125   A   HIS   122   B
-  TRP   176   A   ILE   130   B
-  GLU   181   A   HIS   169   B
-  HIS   122   A   VAL   125   B
-  VAL   125   A   ASP   177   B
-  LYS   179   A   TYR   134   B
-  ASP   177   A   TYR   182   B
-  GLU   181   A   LEU   180   B
-  LYS   119   A   GLU   129   B
-  LEU   121   A   GLU   129   B
-  LEU   146   A   ASP    73   B
   GLU   129   A   LYS   119   B
-  GLU   129   A   ASP   177   B
   ASP   177   A   ILE   130   B
-  ASP   177   A   ARG   128   B
-  GLY   178   A   GLY   178   B
-  LYS   179   A   TYR   182   B
-  LEU   180   A   GLU   181   B
-  ASP   177   A   SER   127   B
   GLY   178   A   VAL   125   B
-  ARG   128   A   ASP   177   B
-  GLU   129   A   LEU   121   B
-  ILE   130   A   TRP   176   B
+  ASP   177   A   SER   127   B
+  ASP   177   A   ARG   128   B
+  ILE   130   A   ASP   177   B
+  LEU   121   A   GLU   129   B
+  HIS   122   A   TYR   147   B
+  ASP   177   A   VAL   125   B
+  LYS   179   A   ILE   130   B
+  TYR   182   A   LYS   179   B
+  VAL   125   A   ASP   177   B
+  LEU   180   A   LYS   179   B
+  GLU   181   A   GLU   181   B
+  GLU   129   A   ASP   177   B
+  LEU   180   A   GLU   181   B
+  LYS   179   A   TYR   134   B
+  VAL   125   A   HIS   122   B
+  GLU   129   A   TRP   176   B
+  TYR   147   A   HIS   122   B
+  GLU   181   A   HIS   169   B
+  LYS   179   A   LEU   180   B
   TRP   176   A   GLU   129   B
+  ILE   130   A   TRP   176   B
+  ASP   177   A   GLU   129   B
+  GLU   129   A   GLU   102   B
+  SER   127   A   ASP   177   B
+  HIS   169   A   HIS   169   B
+  ASP    73   A   ARG   128   B
+  ILE   130   A   LYS   179   B
+  GLU   129   A   LEU   121   B
+  LYS   119   A   GLU   129   B
+  VAL   125   A   GLY   178   B
+  GLU   181   A   LEU   180   B
   ARG   128   A   ASP    73   B
+  GLY   178   A   GLY   178   B
+  TYR   147   A   TYR    99   B
+  HIS   169   A   GLU   181   B
   TYR   134   A   LYS   179   B
+  LYS   179   A   TYR   182   B
+  TRP   176   A   ILE   130   B
+  ARG   128   A   ASP   177   B
+  HIS   122   A   VAL   125   B
+  GLU   102   A   GLU   129   B

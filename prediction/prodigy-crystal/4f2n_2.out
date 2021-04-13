@@ -1,5 +1,5 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4f2n_2.pdb
-[+] Selection: C, D
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4f2n_2.pdb
+[+] Selection: A, B
 [+] No. of intermolecular contacts: 58
 [+] No. of charged-charged contacts: 9
 [+] No. of charged-polar contacts: 6

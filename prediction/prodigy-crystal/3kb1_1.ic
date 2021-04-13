@@ -1,45 +1,37 @@
-  PHE   206   A   LYS   234   B
-  TYR   204   A   SER   230   B
-  GLU   201   A   CYS   196   B
-  THR   203   A   CYS   196   B
+  PHE   206   A   LEU   238   B
   PHE   194   A   THR   203   B
+  PHE   206   A   ASP   237   B
   ASP   237   A   GLN   163   B
   GLN   163   A   ASP   237   B
-  PRO   197   A   THR   203   B
-  SER   230   A   LEU   205   B
-  PRO   197   A   GLU   201   B
-  LEU   233   A   PHE   206   B
-  ILE   228   A   ILE   228   B
-  PHE   206   A   LEU   233   B
-  THR   203   A   PHE   194   B
-  LEU   233   A   GLN   163   B
-  SER   230   A   THR   203   B
-  PHE   206   A   SER   230   B
-  CYS   196   A   THR   203   B
-  CYS   196   A   GLU   201   B
-  LEU   238   A   PHE   206   B
-  LEU   233   A   LEU   205   B
-  LEU   205   A   LEU   233   B
-  LEU   205   A   SER   230   B
-  CYS   196   A   CYS   199   B
-  CYS   199   A   CYS   199   B
-  GLN   163   A   LEU   233   B
-  THR   203   A   SER   230   B
-  PHE   206   A   LEU   238   B
-  GLU   201   A   PRO   197   B
-  THR   203   A   PRO   197   B
-  CYS   199   A   CYS   196   B
-  ASP   237   A   PHE   206   B
-  SER   230   A   TYR   204   B
-  ASN   198   A   GLU   201   B
-  LEU   205   A   PHE   194   B
-  LYS   234   A   PHE   206   B
-  PHE   206   A   ASP   237   B
   ASN   198   A   CYS   199   B
-  CYS   199   A   ASN   198   B
   PHE   194   A   PHE   194   B
-  CYS   196   A   CYS   196   B
-  ILE   228   A   LEU   205   B
-  GLU   201   A   ASN   198   B
+  ASP   237   A   PHE   206   B
+  PHE   206   A   LYS   234   B
   SER   230   A   PHE   206   B
-  LEU   205   A   ILE   228   B
+  PHE   206   A   LEU   233   B
+  THR   203   A   SER   230   B
+  ASN   198   A   GLU   201   B
+  GLN   163   A   LEU   233   B
+  LYS   234   A   PHE   206   B
+  LEU   238   A   PHE   206   B
+  THR   203   A   CYS   196   B
+  GLU   201   A   ASN   198   B
+  SER   230   A   TYR   204   B
+  THR   203   A   PHE   194   B
+  PHE   206   A   SER   230   B
+  CYS   196   A   CYS   199   B
+  CYS   196   A   THR   203   B
+  CYS   196   A   CYS   196   B
+  PRO   197   A   THR   203   B
+  CYS   199   A   ASN   198   B
+  CYS   196   A   GLU   201   B
+  GLU   201   A   CYS   196   B
+  LEU   205   A   SER   230   B
+  TYR   204   A   SER   230   B
+  LEU   233   A   GLN   163   B
+  SER   230   A   LEU   205   B
+  THR   203   A   PRO   197   B
+  CYS   199   A   CYS   199   B
+  SER   230   A   THR   203   B
+  CYS   199   A   CYS   196   B
+  LEU   233   A   PHE   206   B

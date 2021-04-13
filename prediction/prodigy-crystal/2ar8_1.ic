@@ -1,57 +1,56 @@
-  ILE   317   A   SER    94   B
-  ILE    45   A   ARG    95   B
-  SER   294   A   ASP   142   B
-  PHE   319   A   PRO    93   B
-  ASN   311   A   GLN   124   B
-  GLN   316   A   ARG    95   B
-  LEU   314   A   GLN   127   B
   ARG   221   A   ASP    92   B
-  PRO    43   A   ARG    95   B
-  ASN   311   A   PHE   126   B
-  ASP   310   A   GLY   125   B
-  ILE    45   A   SER    94   B
-  ASP   296   A   ASP   142   B
-  ASN   311   A   GLN   127   B
-  ARG    44   A   ARG    95   B
-  HIS   291   A   ASP   257   B
-  SER   290   A   ASP   142   B
-  ILE   317   A   ARG    95   B
-  GLN   227   A   LYS   304   B
-  ASP   310   A   GLN   128   B
-  LYS   318   A   ASP    96   B
-  ARG   295   A   ASP   142   B
-  SER   294   A   GLY   143   B
-  GLN   316   A   ASP    96   B
-  ARG   295   A   ASP    96   B
-  SER   294   A   GLY   139   B
-  PRO   313   A   GLN   127   B
-  HIS   291   A   ARG   256   B
-  PRO    43   A   ASP    92   B
-  ASP   296   A   TYR   132   B
-  ASN   311   A   GLY   125   B
-  ILE   317   A   ASP    96   B
-  GLN   312   A   GLN   127   B
-  ASP   296   A   GLN   128   B
+  MET   220   A   SER    94   B
   ASP   310   A   ARG   496   B
-  ASP   296   A   GLY   139   B
-  ASN   226   A   LYS   304   B
-  ARG   221   A   PRO    91   B
-  LYS   318   A   ASN    86   B
-  ARG   221   A   PRO    93   B
-  SER   237   A   ARG   256   B
-  LYS   204   A   ASP   402   B
-  ASP   238   A   ARG   256   B
-  LYS   318   A   ARG    95   B
-  ASN   315   A   ARG    95   B
   LYS   318   A   PRO    93   B
-  LYS   318   A   SER    94   B
+  ARG   295   A   ASP   142   B
+  ASN   311   A   GLN   124   B
+  ILE   317   A   ARG    95   B
+  LYS   204   A   ASP   402   B
+  ASN   311   A   PHE   126   B
+  PHE   319   A   PRO    93   B
+  SER   294   A   GLY   143   B
+  HIS   291   A   ARG   256   B
+  ASN   311   A   GLN   127   B
+  SER   294   A   GLY   139   B
+  ASP   310   A   GLN   128   B
+  ASN   315   A   ARG    95   B
+  SER   237   A   ARG   256   B
+  ASN   311   A   GLY   125   B
+  ARG   221   A   PRO    91   B
   MET   220   A   PRO    93   B
   GLN   316   A   SER    94   B
+  ILE    45   A   SER    94   B
   GLN   297   A   ARG   503   B
-  HIS   291   A   LYS   144   B
-  LYS   204   A   ASP   403   B
   ASP   310   A   PHE   126   B
-  MET   220   A   SER    94   B
-  LYS   318   A   ASP    92   B
+  LEU   314   A   GLN   127   B
   ASP   310   A   GLN   127   B
+  PRO   313   A   GLN   127   B
+  ASP   296   A   TYR   132   B
   ILE    42   A   ASP    92   B
+  ASP   310   A   GLY   125   B
+  ASN   226   A   LYS   304   B
+  GLN   227   A   LYS   304   B
+  LYS   318   A   ARG    95   B
+  SER   294   A   ASP   142   B
+  ASP   296   A   GLY   139   B
+  ARG   295   A   ASP    96   B
+  GLN   316   A   ARG    95   B
+  ILE    45   A   ARG    95   B
+  PRO    43   A   ARG    95   B
+  LYS   318   A   SER    94   B
+  ASP   296   A   GLN   128   B
+  LYS   318   A   ASP    96   B
+  HIS   291   A   LYS   144   B
+  ARG    44   A   ARG    95   B
+  ARG   221   A   PRO    93   B
+  LYS   318   A   ASP    92   B
+  GLN   312   A   GLN   127   B
+  HIS   291   A   ASP   257   B
+  GLN   316   A   ASP    96   B
+  LYS   318   A   ASN    86   B
+  LYS   204   A   ASP   403   B
+  ILE   317   A   SER    94   B
+  ASP   238   A   ARG   256   B
+  ASP   296   A   ASP   142   B
+  PRO    43   A   ASP    92   B
+  SER   290   A   ASP   142   B

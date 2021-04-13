@@ -1,23 +1,22 @@
-  ARG   150   A   ILE    97   B
-  ASP   151   A   PRO   128   B
+  ASP   151   A   ARG   180   B
+  LYS    52   A   ASP   187   B
   ARG    51   A   GLN   171   B
-  ARG   150   A   ARG   180   B
+  ASN   148   A   ARG   116   B
+  ARG   150   A   TYR   127   B
+  LYS    52   A   SER   137   B
+  GLU    56   A   ASN   185   B
+  ASP   151   A   PRO   128   B
   LYS   147   A   ARG   116   B
-  ARG   150   A   ARG   116   B
-  ARG   150   A   GLU   120   B
   SER   149   A   ARG   116   B
   ARG   150   A   ASP    98   B
-  LYS    52   A   ASP   187   B
-  ASP   151   A   ARG   180   B
-  ASN   148   A   ARG   116   B
-  ARG    51   A   HIS   175   B
-  ARG   150   A   ASN   176   B
-  ARG   150   A   LEU   101   B
-  ARG   150   A   ASN   119   B
-  GLU    56   A   ASN   185   B
-  ARG    39   A   HIS   175   B
-  ASP   151   A   TYR   127   B
-  LYS    52   A   SER   137   B
-  ARG   150   A   TYR   127   B
-  ARG   150   A   ILE   173   B
   ARG   150   A   PHE   181   B
+  ARG    51   A   HIS   175   B
+  ARG   150   A   ILE    97   B
+  ARG   150   A   ARG   180   B
+  ARG   150   A   LEU   101   B
+  ASP   151   A   TYR   127   B
+  ARG   150   A   ASN   119   B
+  ARG   150   A   ARG   116   B
+  ARG   150   A   GLU   120   B
+  ARG    39   A   HIS   175   B
+  ARG   150   A   ILE   173   B

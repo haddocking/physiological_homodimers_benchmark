@@ -1,35 +1,30 @@
-  ASP    34   A   GLY    35   B
-  GLY    35   A   PHE    32   B
-  GLN    15   A   PHE    32   B
-  PHE    32   A   LEU    18   B
-  PHE    32   A   GLN    15   B
   PHE    32   A   PRO    33   B
-  MET    23   A   ARG    19   B
   PRO    33   A   PRO    33   B
-  GLY    35   A   VAL    42   B
-  ARG    19   A   LEU    22   B
-  VAL    42   A   ASP    36   B
-  LEU    22   A   ARG    19   B
   LEU    18   A   PHE    32   B
-  PRO    33   A   ASP    34   B
-  GLN    15   A   LEU    22   B
-  GLY    35   A   PRO    33   B
-  PHE    32   A   GLY    35   B
-  ASP    34   A   PRO    33   B
   ASP    36   A   THR    44   B
-  LEU    22   A   LEU    18   B
-  LEU    22   A   LEU    22   B
-  THR    44   A   ASP    36   B
-  PRO    33   A   GLY    35   B
-  LEU    22   A   GLN    15   B
+  PHE    32   A   LEU    18   B
+  LEU    22   A   ARG    19   B
   PHE    32   A   PHE    32   B
-  ASP    36   A   LYS    59   B
   ASP    36   A   VAL    42   B
-  PRO    33   A   PHE    32   B
-  ARG    19   A   MET    23   B
-  MET    23   A   MET    23   B
-  LYS    59   A   ASP    36   B
-  GLY    35   A   ASP    34   B
+  MET    23   A   ARG    19   B
+  VAL    42   A   ASP    36   B
+  THR    44   A   ASP    36   B
+  GLY    35   A   PRO    33   B
   ASP    34   A   ASP    34   B
+  PRO    33   A   PHE    32   B
+  PHE    32   A   GLY    35   B
+  MET    23   A   MET    23   B
+  GLY    35   A   PHE    32   B
+  ASP    36   A   LYS    59   B
+  PHE    32   A   GLN    15   B
+  ARG    19   A   MET    23   B
+  GLY    35   A   VAL    42   B
+  PRO    33   A   ASP    34   B
+  ASP    34   A   GLY    35   B
+  GLN    15   A   PHE    32   B
+  GLY    35   A   ASP    34   B
+  ASP    34   A   PRO    33   B
+  ARG    19   A   LEU    22   B
+  LYS    59   A   ASP    36   B
   VAL    42   A   GLY    35   B
-  LEU    18   A   LEU    22   B
+  PRO    33   A   GLY    35   B

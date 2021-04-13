@@ -1,38 +1,31 @@
-  ARG   236   A   ASP   211   B
-  ASP   208   A   ARG   236   B
-  ARG   232   A   GLU   214   B
-  THR   231   A   ILE   218   B
-  THR   235   A   ILE   218   B
-  ALA   239   A   LEU   217   B
-  LEU   242   A   LEU   242   B
-  LEU   242   A   ALA   241   B
-  ILE   213   A   ALA   239   B
-  ILE   218   A   THR   231   B
-  GLN   221   A   THR   235   B
-  GLU   214   A   ARG   236   B
-  ARG   192   A   ARG   192   B
-  ASP   211   A   ARG   236   B
-  ARG   236   A   GLU   210   B
-  ASP   215   A   ARG   232   B
-  GLU   214   A   THR   235   B
-  ALA   241   A   LEU   242   B
-  ARG   236   A   GLU   214   B
-  THR   231   A   GLN   221   B
   ARG   236   A   ASP   208   B
-  THR   235   A   GLN   221   B
-  THR   235   A   GLU   214   B
+  ILE   213   A   ALA   239   B
+  ASP   208   A   ARG   236   B
+  THR   231   A   GLN   221   B
   ILE   218   A   ARG   232   B
-  ARG   232   A   ILE   218   B
-  ILE   213   A   LEU   242   B
+  THR   235   A   ILE   218   B
+  ASP   211   A   ARG   236   B
   ARG   192   A   LEU   242   B
-  ARG   232   A   ASP   215   B
-  GLN   221   A   THR   231   B
-  THR   235   A   LEU   217   B
+  ARG   232   A   ILE   218   B
+  GLU   214   A   THR   235   B
+  GLU   214   A   ARG   236   B
+  ARG   232   A   GLU   214   B
+  GLU   210   A   ARG   185   B
+  ARG   236   A   ASP   211   B
   ILE   218   A   THR   235   B
-  LEU   242   A   ILE   213   B
-  LEU   217   A   ALA   239   B
-  LEU   242   A   ARG   192   B
-  GLU   210   A   ARG   236   B
   ALA   239   A   ILE   213   B
-  GLU   214   A   ARG   232   B
+  GLN   221   A   THR   235   B
+  ASP   215   A   ARG   232   B
+  THR   235   A   LEU   217   B
+  ARG   236   A   GLU   210   B
+  THR   235   A   GLU   214   B
   LEU   217   A   THR   235   B
+  ARG   192   A   ARG   192   B
+  GLN   221   A   THR   231   B
+  ARG   232   A   ASP   215   B
+  ARG   185   A   GLU   210   B
+  GLU   214   A   ARG   232   B
+  THR   235   A   GLN   221   B
+  LEU   242   A   ARG   192   B
+  ARG   236   A   GLU   214   B
+  GLU   210   A   ARG   236   B

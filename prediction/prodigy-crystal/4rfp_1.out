@@ -1,12 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/4rfp_1.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4rfp_1.pdb
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 45
+[+] No. of intermolecular contacts: 44
 [+] No. of charged-charged contacts: 7
 [+] No. of charged-polar contacts: 5
 [+] No. of charged-apolar contacts: 15
 [+] No. of polar-polar contacts: 0
 [+] No. of apolar-polar contacts: 7
-[+] No. of apolar-apolar contacts: 11
-[+] Link density: 0.13
-[+] Class: XTAL 0.184 0.816
+[+] No. of apolar-apolar contacts: 10
+[+] Link density: 0.12
+[+] Class: XTAL 0.144 0.856
 

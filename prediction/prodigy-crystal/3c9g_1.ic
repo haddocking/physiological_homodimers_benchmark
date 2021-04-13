@@ -1,43 +1,43 @@
-  HIS    17   A   GLN    89   B
   THR    19   A   GLN    89   B
-  HIS    17   A   VAL   104   B
-  GLU    20   A   SER    21   B
-  GLN    89   A   GLU    20   B
-  PRO    18   A   LYS    24   B
-  GLU    20   A   GLN    89   B
-  THR    19   A   LYS    88   B
-  THR    19   A   THR    19   B
-  SER    21   A   GLU    20   B
-  ASN   102   A   VAL   104   B
-  VAL   104   A   SER   106   B
-  THR    92   A   THR    19   B
-  GLU    20   A   THR    19   B
-  ALA   103   A   VAL   104   B
-  VAL   104   A   ALA   103   B
-  GLN    89   A   THR    19   B
-  GLN    89   A   HIS    17   B
   SER    21   A   THR    19   B
-  VAL   104   A   VAL   104   B
-  THR    92   A   PRO    18   B
-  PRO    18   A   GLN    89   B
-  VAL   104   A   HIS    17   B
-  GLN    89   A   PRO    18   B
+  THR    19   A   LYS    24   B
   VAL   104   A   ASN   102   B
-  LYS    24   A   PRO    18   B
-  THR    19   A   VAL    25   B
-  LYS    88   A   THR    19   B
-  PRO    18   A   THR    92   B
+  THR    19   A   LYS    88   B
+  GLU    20   A   LYS    24   B
+  GLU    20   A   SER    21   B
+  THR    19   A   THR    92   B
+  VAL   104   A   VAL   104   B
+  THR    19   A   GLU    20   B
+  ASN   102   A   VAL   104   B
   ALA    28   A   THR    19   B
+  GLU    20   A   GLN    89   B
+  THR    92   A   PRO    18   B
+  VAL   104   A   SER   106   B
+  LYS    88   A   THR    19   B
+  THR    19   A   THR    19   B
   SER    21   A   LYS    24   B
   SER   106   A   VAL   104   B
-  VAL    25   A   THR    19   B
-  THR    19   A   LYS    24   B
-  GLU    20   A   LYS    24   B
+  GLN    89   A   GLU    20   B
+  GLN    89   A   PRO    18   B
   SER    21   A   SER    21   B
-  LYS    24   A   GLU    20   B
-  LYS    24   A   SER    21   B
-  THR    19   A   THR    92   B
-  THR    19   A   GLU    20   B
-  LYS    24   A   THR    19   B
-  THR    19   A   SER    21   B
+  THR    92   A   THR    19   B
+  PRO    18   A   LYS    24   B
+  GLN    89   A   THR    19   B
+  THR    19   A   ALA    28   B
+  THR    19   A   VAL    25   B
+  PRO    18   A   THR    92   B
   GLU    20   A   GLU    20   B
+  HIS    17   A   VAL   104   B
+  LYS    24   A   GLU    20   B
+  PRO    18   A   GLN    89   B
+  GLU    20   A   THR    19   B
+  LYS    24   A   PRO    18   B
+  THR    19   A   SER    21   B
+  VAL   104   A   HIS    17   B
+  HIS    17   A   GLN    89   B
+  LYS    24   A   THR    19   B
+  ALA   103   A   VAL   104   B
+  GLN    89   A   HIS    17   B
+  VAL   104   A   ALA   103   B
+  SER    21   A   GLU    20   B
+  VAL    25   A   THR    19   B

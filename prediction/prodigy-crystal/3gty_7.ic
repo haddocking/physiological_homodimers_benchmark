@@ -1,54 +1,52 @@
-  GLU     2   A   LYS   214   B
-  GLU   212   A   ARG   100   B
-  ALA    25   A   ARG   178   B
   THR   176   A   ALA    21   B
-  ARG   178   A   ALA    25   B
-  THR    98   A   GLU   212   B
-  GLU   212   A   THR    98   B
-  TYR   216   A   VAL    97   B
-  PRO    42   A   ARG   137   B
-  GLU   212   A   LYS    95   B
   TYR   211   A   THR    98   B
-  VAL   167   A   VAL    97   B
-  LEU   175   A   GLU    22   B
-  GLY   368   A   ARG    38   B
-  TYR   211   A   LYS    95   B
-  TYR   211   A   ASP    96   B
-  TYR   216   A   THR    98   B
+  TYR   216   A   VAL    97   B
+  LYS    51   A   ARG   178   B
+  LYS   304   A   LYS   304   B
+  VAL    97   A   TYR   211   B
   ALA    21   A   LEU   175   B
-  ALA    21   A   THR   176   B
-  LYS    95   A   TYR   211   B
-  VAL    97   A   LEU   175   B
-  LYS   214   A   GLU     2   B
-  ARG   305   A   GLU   306   B
-  GLU    22   A   LEU   175   B
-  ARG   137   A   PRO    42   B
-  GLU   306   A   ARG   305   B
+  GLU   212   A   ARG   100   B
   LEU   175   A   ALA    21   B
   TYR   218   A   VAL    97   B
-  ARG    38   A   GLY   368   B
-  THR    98   A   TYR   216   B
-  LYS   304   A   ARG   305   B
+  PRO    42   A   ARG   137   B
+  TYR   211   A   LYS    95   B
+  THR    98   A   GLU   212   B
+  TYR   218   A   ASP    96   B
+  VAL    97   A   TYR   218   B
   ARG   305   A   ARG   305   B
-  VAL    97   A   VAL   167   B
-  LYS    95   A   GLU   212   B
-  LYS   304   A   LYS   304   B
-  ARG   305   A   LYS   304   B
-  ARG   178   A   LYS    51   B
-  THR    98   A   TYR   211   B
+  TYR   216   A   THR    98   B
+  VAL    97   A   TYR   216   B
   GLU   212   A   GLU    93   B
+  LYS    95   A   TYR   211   B
+  GLU    22   A   LEU   175   B
+  GLU     2   A   LYS   214   B
+  ASP    96   A   TYR   211   B
+  ARG   305   A   GLU   306   B
+  THR    98   A   TYR   211   B
+  LEU   175   A   VAL    97   B
+  LEU   175   A   GLU    22   B
+  ARG    38   A   GLY   368   B
+  LYS    95   A   GLU   212   B
+  VAL    97   A   VAL   167   B
+  GLU   212   A   THR    98   B
+  LYS   304   A   ARG   305   B
+  GLU   306   A   ARG   305   B
+  TYR   211   A   VAL    97   B
+  ARG   178   A   LYS    51   B
+  VAL   167   A   VAL    97   B
+  ASP    96   A   TYR   218   B
+  LYS   214   A   GLU     2   B
+  LYS   304   A   GLU   310   B
+  TYR   180   A   LYS    51   B
+  TYR   211   A   ASP    96   B
   GLU   310   A   LYS   304   B
+  THR    98   A   TYR   216   B
+  ARG   305   A   LYS   304   B
+  GLU   212   A   LYS    95   B
+  GLY   368   A   ARG    38   B
   GLU    93   A   GLU   212   B
   ARG   100   A   GLU   212   B
-  TYR   211   A   VAL    97   B
-  LYS   304   A   GLU   310   B
-  ASP    96   A   TYR   218   B
-  LYS    51   A   ARG   178   B
-  LEU   175   A   VAL    97   B
-  VAL    97   A   TYR   216   B
-  ASP    96   A   TYR   211   B
+  VAL    97   A   LEU   175   B
+  ALA    21   A   THR   176   B
   LYS    51   A   TYR   180   B
-  VAL    97   A   TYR   218   B
-  VAL    97   A   TYR   211   B
-  TYR   180   A   LYS    51   B
-  TYR   218   A   ASP    96   B
+  ARG   137   A   PRO    42   B

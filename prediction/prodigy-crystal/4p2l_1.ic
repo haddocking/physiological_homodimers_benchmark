@@ -1,57 +1,55 @@
-  HIS   415   A   SER   233   B
-  ALA   446   A   ARG   236   B
-  GLN   116   A   GLN   116   B
-  ARG   443   A   LEU   238   B
-  ARG   243   A   GLY   450   B
-  ARG   236   A   ARG   443   B
-  ARG   243   A   ALA   446   B
-  TYR   234   A   GLN   418   B
-  GLY   450   A   LYS    60   B
-  LEU   241   A   ALA   446   B
-  SER   233   A   HIS   415   B
-  ALA   111   A   LEU   224   B
-  ARG   236   A   ALA   446   B
-  LEU   224   A   ALA   111   B
-  LEU   224   A   ASN   414   B
-  PRO   239   A   ARG   443   B
-  ARG   447   A   SER   233   B
-  PHE   230   A   ASP   411   B
-  GLY   237   A   ARG   447   B
-  ARG   236   A   LEU   448   B
-  LYS    60   A   ALA   451   B
-  SER   449   A   ARG   236   B
-  VAL   479   A   THR   242   B
-  ARG   447   A   ARG   236   B
-  PRO   222   A   GLN   418   B
-  PHE   230   A   ALA   111   B
-  SER   449   A   ARG   243   B
-  ARG   236   A   ARG   447   B
-  ARG   243   A   SER   449   B
-  TYR   234   A   HIS   415   B
-  ARG   443   A   GLY   237   B
-  THR   242   A   VAL   479   B
   ASN   114   A   GLN   116   B
-  LYS    60   A   GLY   450   B
+  ALA   111   A   PHE   230   B
+  THR   242   A   VAL   479   B
   ARG   236   A   SER   449   B
-  SER   233   A   ARG   447   B
-  GLN   418   A   TYR   234   B
-  GLN   116   A   ASN   114   B
-  ARG   443   A   ARG   236   B
-  ARG   447   A   GLY   237   B
   ALA   446   A   LEU   241   B
-  HIS   415   A   TYR   234   B
-  MET   419   A   GLY   237   B
-  GLN   418   A   PRO   222   B
-  SER   227   A   GLY   112   B
-  ARG   443   A   PRO   239   B
   VAL   225   A   ALA   111   B
+  GLN   116   A   ASN   114   B
+  ARG   447   A   GLY   237   B
+  SER   233   A   ARG   447   B
   GLY   112   A   PRO   229   B
+  ARG   443   A   ARG   236   B
+  ARG   243   A   GLY   450   B
+  LEU   238   A   ARG   443   B
+  ARG   236   A   LEU   448   B
+  ARG   243   A   ALA   446   B
+  LYS    60   A   GLY   450   B
+  GLN   418   A   TYR   234   B
+  LEU   241   A   ALA   446   B
+  SER   227   A   GLY   112   B
+  ALA   111   A   VAL   225   B
+  HIS   415   A   TYR   234   B
+  ARG   443   A   GLY   237   B
+  PHE   230   A   GLY   112   B
+  GLN   418   A   PRO   222   B
+  ARG   443   A   PRO   239   B
+  PRO   239   A   ARG   443   B
+  SER   449   A   ARG   236   B
+  ALA   446   A   ARG   236   B
+  HIS   415   A   SER   233   B
+  VAL   479   A   THR   242   B
   GLY   112   A   SER   227   B
+  ALA   111   A   LEU   224   B
+  ARG   447   A   ARG   236   B
+  SER   449   A   ARG   243   B
+  ARG   243   A   SER   449   B
+  ARG   236   A   ARG   447   B
+  PHE   230   A   ASP   411   B
+  GLU    54   A   GLU    54   B
+  GLN   116   A   GLN   116   B
+  TYR   234   A   HIS   415   B
+  ARG   443   A   LEU   238   B
+  ARG   236   A   ARG   443   B
+  PHE   230   A   ALA   111   B
+  TYR   234   A   GLN   418   B
+  ARG   236   A   ALA   446   B
+  ARG   447   A   SER   233   B
+  MET   419   A   GLY   237   B
+  SER   233   A   HIS   415   B
+  GLY   450   A   LYS    60   B
+  GLY   237   A   ARG   447   B
+  LYS    60   A   ALA   451   B
+  PRO   222   A   GLN   418   B
   GLY   237   A   ARG   443   B
   PRO   229   A   GLY   112   B
   GLY   112   A   PHE   230   B
-  PHE   230   A   GLY   112   B
-  GLU    54   A   GLU    54   B
-  ALA   111   A   VAL   225   B
-  LEU   238   A   ARG   443   B
-  ALA   111   A   PHE   230   B

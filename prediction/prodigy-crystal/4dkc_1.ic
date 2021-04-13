@@ -1,44 +1,38 @@
-  HIS    39   A   LEU    93   B
-  PRO    97   A   HIS    39   B
-  PRO    42   A   PHE    41   B
-  PRO    97   A   PRO    97   B
+  PRO    42   A   VAL    91   B
+  TYR    40   A   TYR    40   B
+  HIS    96   A   HIS    39   B
+  VAL    91   A   PRO    42   B
+  PRO    42   A   PRO    42   B
+  ILE    43   A   LEU    92   B
+  TYR    40   A   HIS    96   B
+  PHE    41   A   HIS    96   B
+  TYR    45   A   ILE    43   B
   HIS    96   A   PRO    42   B
+  TYR    40   A   GLY    95   B
+  LEU    93   A   ILE    43   B
+  HIS    96   A   TYR    40   B
+  PRO    97   A   PRO    97   B
+  TYR    45   A   PRO    42   B
+  HIS    39   A   LEU    93   B
+  TYR    40   A   PRO    97   B
   PRO    42   A   TYR    45   B
   ILE    43   A   LEU    93   B
+  LEU    93   A   HIS    39   B
+  VAL    91   A   ILE    43   B
   HIS    96   A   PHE    41   B
-  LEU    93   A   ILE    43   B
-  LEU    92   A   ILE    43   B
-  ILE    43   A   ASP    90   B
-  TYR    45   A   ILE    43   B
+  PHE    41   A   VAL    91   B
+  HIS    39   A   HIS    96   B
   VAL    91   A   PHE    41   B
+  GLY    95   A   HIS    39   B
+  GLY    95   A   TYR    40   B
+  PRO    97   A   TYR    40   B
+  ILE    43   A   TYR    45   B
   HIS    39   A   GLY    95   B
   ILE    43   A   VAL    91   B
-  LYS    38   A   LEU    93   B
-  PRO    42   A   PRO    42   B
-  TYR    40   A   PRO    97   B
-  LEU    93   A   HIS    39   B
-  TYR    40   A   GLY    95   B
-  GLY    95   A   TYR    40   B
-  PRO    42   A   VAL    91   B
-  PRO    42   A   HIS    96   B
-  VAL    91   A   PRO    42   B
-  ILE    43   A   LEU    92   B
-  LEU    93   A   LYS    38   B
-  PHE    41   A   PRO    42   B
-  VAL    91   A   ILE    43   B
-  HIS    96   A   TYR    40   B
-  PRO    97   A   TYR    40   B
-  HIS    96   A   HIS    39   B
-  TYR    45   A   TYR    45   B
-  PRO    42   A   LEU    92   B
-  PHE    41   A   VAL    91   B
-  PHE    41   A   HIS    96   B
-  HIS    39   A   HIS    96   B
+  PRO    42   A   PHE    41   B
+  LEU    92   A   ILE    43   B
+  ILE    43   A   ASP    90   B
   ASP    90   A   ILE    43   B
-  HIS    39   A   PRO    97   B
-  LEU    92   A   PRO    42   B
-  TYR    45   A   PRO    42   B
-  GLY    95   A   HIS    39   B
-  TYR    40   A   TYR    40   B
-  TYR    40   A   HIS    96   B
-  ILE    43   A   TYR    45   B
+  TYR    45   A   TYR    45   B
+  PHE    41   A   PRO    42   B
+  PRO    42   A   HIS    96   B

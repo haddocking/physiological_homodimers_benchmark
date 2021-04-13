@@ -1,56 +1,54 @@
   HIS    17   A   GLU   118   B
-  PHE   201   A   GLU    30   B
-  ASP    32   A   GLU   218   B
-  ALA    73   A   HIS    17   B
-  LYS   211   A   ASP    28   B
-  ASP   263   A   PHE   261   B
-  LEU   350   A   PHE   261   B
-  GLU   218   A   ALA    33   B
-  HIS    17   A   GLY   119   B
-  GLU    30   A   PHE   201   B
-  ASP   352   A   LYS   212   B
-  ALA    33   A   GLU   218   B
-  ILE   186   A   GLU    27   B
-  ASP    32   A   CYS   216   B
-  THR   184   A   LYS    26   B
+  PHE   217   A   GLU    30   B
+  GLU    30   A   PHE   217   B
+  LYS    26   A   THR   184   B
   GLY   185   A   ASP    28   B
-  HIS    17   A   ALA    73   B
-  GLU    30   A   ILE   186   B
-  GLU    27   A   ILE   186   B
-  ILE   186   A   ASP    28   B
-  GLU    27   A   ILE   187   B
-  LYS    26   A   GLY   185   B
-  ASP    28   A   GLY   185   B
-  ASP    32   A   TRP   213   B
-  CYS   216   A   ASP   352   B
-  TRP   213   A   ASP    32   B
+  LEU   350   A   PHE   261   B
+  ASP   263   A   PHE   261   B
   PHE   261   A   ASP   263   B
+  LYS   351   A   PHE   261   B
+  ILE   187   A   GLU    27   B
+  CYS   216   A   ASP   352   B
+  GLU   218   A   ASP    32   B
+  ALA    33   A   GLU   218   B
+  ASP   352   A   TRP   213   B
+  PHE   201   A   GLU    27   B
+  GLU    27   A   PHE   201   B
+  THR   184   A   LYS    26   B
+  ILE   186   A   ASP    28   B
+  GLU   218   A   ALA    33   B
+  ASP    32   A   TRP   213   B
+  ALA    73   A   HIS    17   B
   GLU   118   A   HIS    17   B
-  LYS   212   A   ASP   352   B
-  CYS   216   A   LYS   351   B
-  TRP   213   A   GLU    30   B
+  LYS   211   A   ASP    28   B
+  ASP    32   A   GLU   218   B
+  GLU    30   A   TRP   213   B
+  LYS    26   A   GLY   185   B
+  PHE   261   A   LEU   350   B
   PHE   261   A   LYS   351   B
+  ASP    28   A   LYS   211   B
+  TRP   213   A   ASP    32   B
+  HIS    17   A   ALA    73   B
+  LYS   351   A   CYS   216   B
+  TRP   213   A   GLU    30   B
+  CYS   216   A   LYS   351   B
+  TRP   213   A   ASP   352   B
+  GLU    30   A   PHE   201   B
+  PHE   201   A   GLU    30   B
+  GLU    27   A   GLU   188   B
   ASP   352   A   CYS   216   B
   GLU   188   A   GLU    27   B
-  GLU   218   A   ASP    32   B
-  TRP   213   A   ASP   352   B
-  PHE   201   A   GLU    27   B
-  ILE   187   A   GLU    27   B
-  LYS    26   A   THR   184   B
-  GLU    30   A   PHE   217   B
-  ASP   352   A   TRP   213   B
-  PHE   261   A   LEU   350   B
-  GLU    27   A   PHE   201   B
-  GLU    27   A   GLU   188   B
-  GLY   119   A   HIS    17   B
-  PHE   217   A   GLU    30   B
-  ASP    28   A   ILE   186   B
+  GLU    27   A   ILE   186   B
   TRP   213   A   ASP    28   B
+  GLU    27   A   ILE   187   B
+  GLY   119   A   HIS    17   B
+  HIS    17   A   GLY   119   B
   ASP    28   A   TRP   213   B
+  ASP    28   A   ILE   186   B
   CYS   216   A   ASP    32   B
-  LYS   351   A   CYS   216   B
-  ILE   186   A   GLU    30   B
-  GLU    30   A   TRP   213   B
-  LYS   351   A   PHE   261   B
+  ILE   186   A   GLU    27   B
+  ASP    32   A   CYS   216   B
   GLY   185   A   LYS    26   B
-  ASP    28   A   LYS   211   B
+  ASP    28   A   GLY   185   B
+  LYS   212   A   ASP   352   B
+  ASP   352   A   LYS   212   B

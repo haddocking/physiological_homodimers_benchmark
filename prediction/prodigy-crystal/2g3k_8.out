@@ -1,17 +1,12 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/protein-scores-analysis/benchmark/v2/PDB/01_PDB_legacy_3dcomplex/2g3k_8.pdb
-[!] Structure contains gaps:
-	A PHE1 < Fragment 0 > A VAL16
-	A ASP18 < Fragment 1 > A LEU94
-	B PHE1 < Fragment 2 > B VAL16
-	B ASP18 < Fragment 3 > B LEU94
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/2g3k_8.pdb
 [+] Selection: A, B
-[+] No. of intermolecular contacts: 45
+[+] No. of intermolecular contacts: 38
 [+] No. of charged-charged contacts: 4
 [+] No. of charged-polar contacts: 3
-[+] No. of charged-apolar contacts: 13
+[+] No. of charged-apolar contacts: 11
 [+] No. of polar-polar contacts: 1
-[+] No. of apolar-polar contacts: 11
-[+] No. of apolar-apolar contacts: 13
-[+] Link density: 0.14
-[+] Class: XTAL 0.316 0.684
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 9
+[+] Link density: 0.13
+[+] Class: XTAL 0.192 0.808
 

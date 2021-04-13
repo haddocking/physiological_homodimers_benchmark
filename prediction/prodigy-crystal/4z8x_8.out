@@ -1,4 +1,4 @@
-[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/physiological_homodimers_benchmark/pdbs/v2/4z8x_8.pdb
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/4z8x_8.pdb
 [!] Structure contains gaps:
 	A ALA5 < Fragment 0 > A ARG124
 	A ASP136 < Fragment 1 > A THR260

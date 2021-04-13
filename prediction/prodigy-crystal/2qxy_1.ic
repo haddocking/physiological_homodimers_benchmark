@@ -1,40 +1,36 @@
-  ARG   114   A   LYS    87   B
-  ILE    90   A   LYS    87   B
-  LYS    87   A   LEU   103   B
-  LYS    95   A   ALA    98   B
-  TYR   101   A   ILE    91   B
-  ILE    90   A   ILE    90   B
-  LYS   117   A   ASP    88   B
-  ILE    91   A   ASP   100   B
-  LYS    87   A   ARG   114   B
-  LYS    87   A   TYR   101   B
-  ILE    91   A   VAL    99   B
-  VAL    99   A   ILE    91   B
   LYS    95   A   ASP   100   B
+  VAL    94   A   ILE    91   B
+  ILE    91   A   VAL    94   B
+  ASP   100   A   LYS    95   B
   ILE    91   A   ILE    90   B
+  TYR   101   A   LYS    87   B
+  TYR   110   A   LYS    87   B
+  ARG   114   A   LYS    87   B
+  ILE   102   A   LYS    87   B
+  LYS    87   A   ASP   100   B
+  ALA    98   A   LYS    95   B
+  ILE    91   A   VAL    99   B
+  ILE    91   A   TYR   101   B
+  VAL    99   A   ILE    91   B
+  VAL    94   A   LYS    95   B
+  LYS    87   A   TYR   110   B
+  ARG   114   A   ASP    88   B
+  VAL    94   A   VAL    94   B
+  LYS   117   A   ASP    88   B
+  TYR   101   A   ILE    91   B
+  LYS    87   A   ARG   114   B
   VAL    99   A   LYS    95   B
   ASP    88   A   ASP   100   B
-  ARG   114   A   ILE    91   B
-  TYR   110   A   LYS    87   B
-  LYS    95   A   VAL    99   B
-  ASP   100   A   LYS    87   B
-  ARG   114   A   ASP    88   B
-  ASP   100   A   ASP    88   B
-  VAL    94   A   VAL    94   B
-  ILE    91   A   ARG   114   B
-  TYR   101   A   LYS    87   B
-  ILE    91   A   TYR   101   B
-  ILE    91   A   VAL    94   B
   ASP    88   A   TYR   110   B
-  ASP    88   A   ARG   114   B
-  ASP   100   A   ILE    91   B
+  ILE    90   A   LYS    87   B
   ILE    90   A   ILE    91   B
-  ASP   100   A   LYS    95   B
-  VAL    94   A   ILE    91   B
-  ILE   102   A   LYS    87   B
-  VAL    94   A   LYS    95   B
-  LYS    87   A   ASP   100   B
-  LYS    87   A   TYR   110   B
+  LYS    95   A   ALA    98   B
   LYS    87   A   ILE    90   B
   LYS    95   A   VAL    94   B
-  ALA    98   A   LYS    95   B
+  ASP    88   A   ARG   114   B
+  ILE    90   A   ILE    90   B
+  ASP   100   A   LYS    87   B
+  ASP   100   A   ILE    91   B
+  LYS    87   A   TYR   101   B
+  LYS    87   A   LEU   103   B
+  LYS    95   A   VAL    99   B

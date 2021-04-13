@@ -1,33 +1,25 @@
-  PRO    76   A   PRO    76   B
-  GLY    79   A   PRO    76   B
-  LEU    19   A   VAL    16   B
-  TYR    12   A   SER    20   B
-  VAL    16   A   SER    20   B
-  LEU    36   A   TYR    12   B
-  PRO    76   A   LEU    19   B
-  THR    77   A   PRO    76   B
-  THR    77   A   LEU    15   B
-  LEU    19   A   LYS    13   B
-  PRO    76   A   LEU    15   B
-  PRO    76   A   LEU    36   B
-  THR    37   A   TYR    12   B
-  LEU    36   A   VAL    16   B
-  LEU    36   A   THR     9   B
-  TYR    12   A   LEU    19   B
-  SER    78   A   PRO    76   B
-  LYS    13   A   SER    20   B
-  THR    77   A   VAL    16   B
-  VAL    16   A   SER    17   B
-  PRO    76   A   VAL    16   B
-  THR    77   A   TYR    12   B
-  TYR    12   A   LEU    36   B
   THR    37   A   THR     9   B
   LEU    15   A   VAL    16   B
-  THR     9   A   LEU    19   B
-  SER    78   A   THR    77   B
-  LEU    36   A   LYS    13   B
-  LYS    13   A   GLU    21   B
-  TYR    12   A   VAL    16   B
+  THR    37   A   TYR    12   B
+  THR    77   A   PRO    76   B
+  TYR    12   A   LEU    19   B
   GLY    79   A   THR    77   B
-  VAL    16   A   VAL    16   B
+  LYS    13   A   SER    20   B
+  TYR    12   A   VAL    16   B
+  THR     9   A   LEU    19   B
+  SER    78   A   PRO    76   B
+  PRO    76   A   VAL    16   B
+  LEU    19   A   LYS    13   B
+  PRO    76   A   LEU    36   B
+  TYR    12   A   SER    20   B
+  THR    77   A   LEU    15   B
   THR     9   A   SER    20   B
+  VAL    16   A   VAL    16   B
+  THR    77   A   VAL    16   B
+  VAL    16   A   SER    17   B
+  LYS    13   A   GLU    21   B
+  GLY    79   A   PRO    76   B
+  LEU    36   A   TYR    12   B
+  VAL    16   A   SER    20   B
+  PRO    76   A   PRO    76   B
+  THR    77   A   TYR    12   B

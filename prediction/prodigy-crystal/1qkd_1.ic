@@ -1,23 +1,23 @@
-  GLU    58   A   LYS    51   B
-  GLU    56   A   ILE    50   B
-  SER    53   A   SER    53   B
-  SER    53   A   CYS    54   B
-  GLU    56   A   SER    53   B
-  VAL    59   A   LYS    51   B
-  LEU    52   A   CYS    55   B
-  CYS    54   A   LEU    52   B
-  SER    53   A   CYS    55   B
-  CYS    54   A   SER    53   B
-  CYS    54   A   CYS    54   B
-  GLU    56   A   LYS    51   B
   CYS    60   A   LYS    51   B
-  CYS    55   A   LEU    52   B
-  LYS    51   A   SER    57   B
-  LEU    52   A   GLU    56   B
-  CYS    54   A   CYS    55   B
-  SER    57   A   LYS    51   B
+  SER    53   A   CYS    55   B
+  CYS    54   A   CYS    54   B
   GLU    56   A   LEU    52   B
   LEU    52   A   CYS    54   B
+  CYS    54   A   CYS    55   B
+  GLU    56   A   SER    53   B
   GLU    56   A   VAL    46   B
-  CYS    55   A   SER    53   B
+  LEU    52   A   CYS    55   B
+  GLU    58   A   LYS    51   B
   CYS    55   A   CYS    54   B
+  SER    53   A   SER    53   B
+  CYS    54   A   SER    53   B
+  GLU    56   A   ILE    50   B
+  GLU    56   A   LYS    51   B
+  VAL    59   A   LYS    51   B
+  LYS    51   A   SER    57   B
+  CYS    54   A   LEU    52   B
+  CYS    55   A   LEU    52   B
+  SER    57   A   LYS    51   B
+  CYS    55   A   SER    53   B
+  LEU    52   A   GLU    56   B
+  SER    53   A   CYS    54   B

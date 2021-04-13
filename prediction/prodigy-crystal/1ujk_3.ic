@@ -1,29 +1,28 @@
-  LEU   126   A   GLU    35   B
-  GLU   128   A   ARG    13   B
-  VAL   124   A   TRP    27   B
-  GLU   128   A   ALA    28   B
-  LYS    79   A   PRO     7   B
-  LEU   126   A   ASN    31   B
-  GLU   129   A   GLU    35   B
   LYS    79   A   GLN    36   B
-  SER    76   A   SER    76   B
-  PRO   127   A   ALA    28   B
-  CYS    77   A   ASN    38   B
-  GLY   125   A   ASN    31   B
+  GLU   128   A   ALA    28   B
   GLY    78   A   ASN    38   B
-  LYS    75   A   SER    76   B
-  CYS    77   A   GLY    78   B
-  LYS    79   A   ASN    38   B
-  GLY   125   A   ALA    28   B
-  LYS    79   A   GLU    39   B
-  LYS    75   A   LYS    75   B
-  LYS    79   A   GLU    35   B
-  CYS    77   A   CYS    77   B
-  PRO   127   A   TRP    27   B
-  GLU   128   A   GLU    35   B
-  CYS    77   A   CYS    34   B
-  CYS    77   A   GLU    35   B
-  CYS    77   A   SER    76   B
+  GLY   125   A   ASN    31   B
   GLY    78   A   GLU    35   B
+  LYS    75   A   SER    76   B
+  SER    76   A   SER    76   B
+  CYS    77   A   CYS    34   B
   GLY   125   A   TRP    27   B
+  GLU   128   A   GLU    35   B
+  CYS    77   A   SER    76   B
+  GLU   128   A   ARG    13   B
+  LYS    79   A   PRO     7   B
+  GLY   125   A   ALA    28   B
+  LYS    79   A   ASN    38   B
+  LEU   126   A   ASN    31   B
+  VAL   124   A   TRP    27   B
+  LYS    79   A   GLU    35   B
+  PRO   127   A   TRP    27   B
   HIS    82   A   GLU    35   B
+  PRO   127   A   ALA    28   B
+  GLU   129   A   GLU    35   B
+  LYS    79   A   GLU    39   B
+  CYS    77   A   ASN    38   B
+  LYS    75   A   LYS    75   B
+  CYS    77   A   GLU    35   B
+  CYS    77   A   CYS    77   B
+  CYS    77   A   GLY    78   B
