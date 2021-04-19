@@ -1,0 +1,21 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/5uph_4.pdb
+[!] Structure contains gaps:
+	A ASP24 < Fragment 0 > A ASN69
+	A VAL85 < Fragment 1 > A SER209
+	A HIS230 < Fragment 2 > A ILE274
+	A CYS291 < Fragment 3 > A ILE402
+	B ASP24 < Fragment 4 > B ASN69
+	B VAL85 < Fragment 5 > B SER209
+	B HIS230 < Fragment 6 > B ILE274
+	B CYS291 < Fragment 7 > B ILE402
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 50
+[+] No. of charged-charged contacts: 5
+[+] No. of charged-polar contacts: 4
+[+] No. of charged-apolar contacts: 12
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.12
+[+] Class: XTAL 0.352 0.648
+

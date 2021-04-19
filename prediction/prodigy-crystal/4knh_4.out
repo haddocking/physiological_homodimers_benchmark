@@ -1,0 +1,29 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/4knh_4.pdb
+[!] Structure contains gaps:
+	A THR5 < Fragment 0 > A PRO66
+	A LYS70 < Fragment 1 > A PRO172
+	A VAL185 < Fragment 2 > A GLU539
+	A GLN551 < Fragment 3 > A SER571
+	A PRO591 < Fragment 4 > A PHE682
+	A PRO702 < Fragment 5 > A ILE808
+	A ALA824 < Fragment 6 > A ARG898
+	A TYR920 < Fragment 7 > A THR961
+	B THR5 < Fragment 8 > B PRO66
+	B LYS70 < Fragment 9 > B PRO172
+	B VAL185 < Fragment 10 > B GLU539
+	B GLN551 < Fragment 11 > B SER571
+	B PRO591 < Fragment 12 > B PHE682
+	B PRO702 < Fragment 13 > B ILE808
+	B ALA824 < Fragment 14 > B ARG898
+	B TYR920 < Fragment 15 > B THR961
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 52
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 12
+[+] No. of charged-apolar contacts: 13
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 12
+[+] No. of apolar-apolar contacts: 5
+[+] Link density: 0.07
+[+] Class: XTAL 0.164 0.836
+

@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/5na8_5.pdb
+[!] Structure contains gaps:
+	A PHE24 < Fragment 0 > A LYS226
+	A GLY229 < Fragment 1 > A ASN674
+	B ASP25 < Fragment 2 > B ASN675
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 56
+[+] No. of charged-charged contacts: 21
+[+] No. of charged-polar contacts: 14
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 6
+[+] No. of apolar-polar contacts: 1
+[+] No. of apolar-apolar contacts: 0
+[+] Link density: 0.08
+[+] Class: XTAL 0.412 0.588
+

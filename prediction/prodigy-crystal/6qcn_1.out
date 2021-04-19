@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/6qcn_1.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 66
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 1
+[+] No. of charged-apolar contacts: 9
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 25
+[+] No. of apolar-apolar contacts: 31
+[+] Link density: 0.11
+[+] Class: BIO 0.788 0.212
+

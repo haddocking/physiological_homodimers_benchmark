@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/2xeq_1.pdb
+[!] Structure contains gaps:
+	A ASP4 < Fragment 0 > A LYS61
+	A GLU66 < Fragment 1 > A ASP192
+	A ASN201 < Fragment 2 > A LEU254
+	B ASP4 < Fragment 3 > B LYS61
+	B ARG67 < Fragment 4 > B SER191
+	B ASN200 < Fragment 5 > B LEU254
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 55
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 13
+[+] No. of charged-apolar contacts: 7
+[+] No. of polar-polar contacts: 9
+[+] No. of apolar-polar contacts: 14
+[+] No. of apolar-apolar contacts: 5
+[+] Link density: 0.09
+[+] Class: XTAL 0.06 0.94
+

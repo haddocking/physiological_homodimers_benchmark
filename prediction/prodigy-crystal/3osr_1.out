@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/3osr_1.pdb
+[!] Structure contains gaps:
+	A ARG33 < Fragment 0 > A THR433
+	A LYS451 < Fragment 1 > A LEU512
+	A VAL514 < Fragment 2 > A LYS653
+	B ARG33 < Fragment 3 > B ALA430
+	B LYS451 < Fragment 4 > B LEU512
+	B VAL514 < Fragment 5 > B LYS653
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 48
+[+] No. of charged-charged contacts: 19
+[+] No. of charged-polar contacts: 2
+[+] No. of charged-apolar contacts: 11
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 5
+[+] No. of apolar-apolar contacts: 11
+[+] Link density: 0.09
+[+] Class: XTAL 0.4 0.6
+

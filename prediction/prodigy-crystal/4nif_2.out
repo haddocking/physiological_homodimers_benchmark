@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/4nif_2.pdb
+[!] Structure contains gaps:
+	A VAL5 < Fragment 0 > A TYR168
+	A PHE172 < Fragment 1 > A ARG320
+	B VAL5 < Fragment 2 > B CYS167
+	B ASN171 < Fragment 3 > B ARG320
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 63
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 21
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 14
+[+] No. of apolar-apolar contacts: 9
+[+] Link density: 0.09
+[+] Class: XTAL 0.368 0.632
+

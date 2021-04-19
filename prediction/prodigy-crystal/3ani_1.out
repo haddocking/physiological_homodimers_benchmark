@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/3ani_1.pdb
+[!] Structure contains gaps:
+	A MET2 < Fragment 0 > A GLN152
+	A LEU172 < Fragment 1 > A TRP398
+	B MET2 < Fragment 2 > B GLN152
+	B LEU172 < Fragment 3 > B TRP398
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 72
+[+] No. of charged-charged contacts: 16
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 22
+[+] No. of apolar-apolar contacts: 10
+[+] Link density: 0.08
+[+] Class: XTAL 0.328 0.672
+

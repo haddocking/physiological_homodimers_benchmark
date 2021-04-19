@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/5xbi_1.pdb
+[!] Structure contains gaps:
+	A ALA5 < Fragment 0 > A SER23
+	A PRO25 < Fragment 1 > A TYR153
+	B ARG6 < Fragment 2 > B TYR153
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 63
+[+] No. of charged-charged contacts: 2
+[+] No. of charged-polar contacts: 10
+[+] No. of charged-apolar contacts: 16
+[+] No. of polar-polar contacts: 1
+[+] No. of apolar-polar contacts: 24
+[+] No. of apolar-apolar contacts: 10
+[+] Link density: 0.09
+[+] Class: XTAL 0.44 0.56
+

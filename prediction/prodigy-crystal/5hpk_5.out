@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/5hpk_5.pdb
+[!] Structure contains gaps:
+	A GLY1 < Fragment 0 > A GLU61
+	A ASP67 < Fragment 1 > A GLN377
+	B GLY1 < Fragment 2 > B GLU61
+	B ASP67 < Fragment 3 > B GLN377
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 57
+[+] No. of charged-charged contacts: 15
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 18
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 8
+[+] No. of apolar-apolar contacts: 5
+[+] Link density: 0.08
+[+] Class: XTAL 0.156 0.844
+

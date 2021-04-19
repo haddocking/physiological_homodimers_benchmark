@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/3sja_27.pdb
+[!] Structure contains gaps:
+	A VAL5 < Fragment 0 > A ARG104
+	A LEU117 < Fragment 1 > A GLU354
+	B VAL5 < Fragment 2 > B ALA105
+	B ASP116 < Fragment 3 > B LYS353
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 37
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 9
+[+] No. of charged-apolar contacts: 7
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 2
+[+] Link density: 0.10
+[+] Class: XTAL 0.052 0.948
+

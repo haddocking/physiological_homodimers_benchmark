@@ -1,0 +1,26 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/2wjv_1.pdb
+[!] Structure contains gaps:
+	A LYS2 < Fragment 0 > A LYS106
+	A TRP110 < Fragment 1 > A LEU166
+	A ASP172 < Fragment 2 > A PRO234
+	A LEU242 < Fragment 3 > A PRO270
+	A ASP275 < Fragment 4 > A GLU280
+	A GLY286 < Fragment 5 > A MET797
+	B LYS2 < Fragment 6 > B LYS106
+	B TRP110 < Fragment 7 > B LEU166
+	B GLU174 < Fragment 8 > B TRP219
+	B LYS226 < Fragment 9 > B PRO234
+	B LEU242 < Fragment 10 > B PRO270
+	B ASP275 < Fragment 11 > B ILE643
+	B GLY647 < Fragment 12 > B PHE799
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 58
+[+] No. of charged-charged contacts: 9
+[+] No. of charged-polar contacts: 10
+[+] No. of charged-apolar contacts: 21
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 4
+[+] Link density: 0.09
+[+] Class: XTAL 0.3 0.7
+

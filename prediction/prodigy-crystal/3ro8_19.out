@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/3ro8_19.pdb
+[!] Structure contains gaps:
+	A SER2 < Fragment 0 > A TRP305
+	B SER2 < Fragment 1 > B GLY268
+	B THR272 < Fragment 2 > B TRP305
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 56
+[+] No. of charged-charged contacts: 2
+[+] No. of charged-polar contacts: 3
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 24
+[+] Link density: 0.10
+[+] Class: BIO 0.868 0.132
+

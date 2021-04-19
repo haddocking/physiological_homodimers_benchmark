@@ -1,0 +1,24 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/5mzo_2.pdb
+[!] Structure contains gaps:
+	A ALA7 < Fragment 0 > A VAL225
+	A ILE259 < Fragment 1 > A PRO719
+	A THR722 < Fragment 2 > A PRO1132
+	A SER1171 < Fragment 3 > A MET1199
+	A ASP1300 < Fragment 4 > A ASN1418
+	A LYS1423 < Fragment 5 > A PRO1456
+	B ALA7 < Fragment 6 > B VAL225
+	B ILE259 < Fragment 7 > B PRO719
+	B THR722 < Fragment 8 > B PRO1132
+	B SER1171 < Fragment 9 > B ASN1418
+	B LYS1423 < Fragment 10 > B PRO1456
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 52
+[+] No. of charged-charged contacts: 5
+[+] No. of charged-polar contacts: 18
+[+] No. of charged-apolar contacts: 6
+[+] No. of polar-polar contacts: 11
+[+] No. of apolar-polar contacts: 4
+[+] No. of apolar-apolar contacts: 8
+[+] Link density: 0.05
+[+] Class: XTAL 0.08 0.92
+

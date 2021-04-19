@@ -1,0 +1,25 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/pdbs/new/5zmd_1.pdb
+[!] Structure contains gaps:
+	A GLU1 < Fragment 0 > A GLY86
+	A ASN88 < Fragment 1 > A LYS124
+	A GLU154 < Fragment 2 > A GLU214
+	A ASP232 < Fragment 3 > A CYS310
+	A VAL318 < Fragment 4 > A LYS386
+	A GLN394 < Fragment 5 > A GLN463
+	B GLU1 < Fragment 6 > B LYS85
+	B ASN88 < Fragment 7 > B ALA123
+	B ASP153 < Fragment 8 > B CYS213
+	B ASP232 < Fragment 9 > B ASN308
+	B SER319 < Fragment 10 > B VAL385
+	B ARG395 < Fragment 11 > B GLN463
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 52
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 3
+[+] No. of charged-apolar contacts: 26
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 9
+[+] No. of apolar-apolar contacts: 8
+[+] Link density: 0.09
+[+] Class: XTAL 0.152 0.848
+

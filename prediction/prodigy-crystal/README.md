@@ -6,8 +6,10 @@
 Used PDB structures are the ones from the HADDOCK prediction folder (gzipped). Non-supported residues and atoms are filtered according to:
 
 ```bash
-grep -v 'MN2\|BR1\|CA2\|CD\|CL1\|CO3\|CU2\|FE2\|FUL\|HEC\|K1\|MG2\|NA\|NI2\|GAL\|NDG\|ACE\|CS\|GLC\|FUC\|MAN\|CO\|SEP\|CTN\|CU1\|BGC\|ZN'
+grep -v 'MN2\|BR1\|CA2\|CD\|CL1\|CO3\|CU2\|FE2\|FUL\|HEC\|K1\|MG2\|NA\|NI2\|GAL\|NDG\|ACE\|CS\|GLC\|FUC\|MAN\|CO\|SEP\|CTN\|CU1\|BGC\|ZN\|TOP'
 ```
+
+Also MSE into MET.
 
 ## Prediction
 
