@@ -36,13 +36,13 @@ and the code is available from our [GitHub repository](https://github.com/haddoc
 ```
 Size of complex list: 1677
 Size of Physiological list: 836
-Size of Non Physiological list: 839
+Size of Non Physiological list: 841
 Predicted as BIO and Physiological: 539
-Predicted as BIO and Non-Physiological: 408
+Predicted as BIO and Non-Physiological: 409
 Predicted as CRYSTAL and Physiological: 297
-Predicted as CRYSTAL and Non-Physiological: 431
+Predicted as CRYSTAL and Non-Physiological: 432
 
-Success rate: 57.84%
+Success rate: 57.9%
 ```
 
 #### Performance on this data set excluding overlapping with the MANY dataset:
@@ -52,13 +52,13 @@ Success rate: 57.84%
 ```
 Size of complex list: 1546
 Size of Physiological list: 836
-Size of Non Physiological list: 839
+Size of Non Physiological list: 841
 Predicted as BIO and Physiological: 457
-Predicted as BIO and Non-Physiological: 400
+Predicted as BIO and Non-Physiological: 401
 Predicted as CRYSTAL and Physiological: 278
-Predicted as CRYSTAL and Non-Physiological: 409
+Predicted as CRYSTAL and Non-Physiological: 410
 
-Success rate: 56.02%
+Success rate: 56.08%
 ```
 
 ### Deeprank 
