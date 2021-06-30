@@ -1,0 +1,14 @@
+  SER    51   A   LEU    52   B
+  LEU    52   A   SER    51   B
+  GLN    49   A   SER    51   B
+  SER    51   A   PRO    50   B
+  GLN    49   A   LEU    52   B
+  PRO    50   A   SER    51   B
+  LEU    52   A   GLN    49   B
+  SER    51   A   SER    51   B
+  PRO    50   A   LEU    52   B
+  SER    51   A   GLN    49   B
+  ASP    53   A   GLN    49   B
+  GLN    49   A   ASP    53   B
+  PRO    50   A   PRO    50   B
+  LEU    52   A   PRO    50   B

@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/2nsa_6_parsed.pdb
+[!] Structure contains gaps:
+	A GLU2 < Fragment 0 > A GLU24
+	A LYS26 < Fragment 1 > A SER28
+	A ARG30 < Fragment 2 > A HIS168
+	B GLU2 < Fragment 3 > B GLU24
+	B LYS26 < Fragment 4 > B SER28
+	B ARG30 < Fragment 5 > B HIS168
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 61
+[+] No. of charged-charged contacts: 25
+[+] No. of charged-polar contacts: 22
+[+] No. of charged-apolar contacts: 8
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 4
+[+] No. of apolar-apolar contacts: 2
+[+] Link density: 0.09
+[+] Class: XTAL 0.264 0.736
+

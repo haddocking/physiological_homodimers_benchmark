@@ -1,0 +1,21 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3nib_1_parsed.pdb
+[!] Structure contains gaps:
+	A SER34 < Fragment 0 > A ARG135
+	A ASP143 < Fragment 1 > A ARG161
+	A GLY167 < Fragment 2 > A GLN248
+	A GLN275 < Fragment 3 > A GLY309
+	B SER34 < Fragment 4 > B ARG135
+	B ASP143 < Fragment 5 > B ARG161
+	B GLY167 < Fragment 6 > B GLN248
+	B GLN275 < Fragment 7 > B GLY309
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 37
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 10
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 0
+[+] No. of apolar-apolar contacts: 27
+[+] Link density: 0.14
+[+] Class: BIO 0.704 0.296
+

@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/2axi_3_parsed.pdb
+[!] Structure contains gaps:
+	A GLU7 < Fragment 0 > A GLU98
+	B PRO1 < Fragment 1 > B GLU3
+	B LEU4 < Fragment 2 > B PHE8
+	C GLU7 < Fragment 3 > C GLU98
+	D PRO1 < Fragment 4 > D GLU3
+	D LEU4 < Fragment 5 > D PHE8
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 19
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 3
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 3
+[+] No. of apolar-apolar contacts: 13
+[+] Link density: 0.24
+[+] Class: BIO 0.544 0.456
+

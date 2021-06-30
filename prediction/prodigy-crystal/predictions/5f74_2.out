@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/5f74_2_parsed.pdb
+[!] Structure contains gaps:
+	A THR2 < Fragment 0 > A THR71
+	A ASN74 < Fragment 1 > A SER232
+	B THR2 < Fragment 2 > B THR71
+	B ASN74 < Fragment 3 > B SER232
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 60
+[+] No. of charged-charged contacts: 8
+[+] No. of charged-polar contacts: 28
+[+] No. of charged-apolar contacts: 6
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 14
+[+] No. of apolar-apolar contacts: 2
+[+] Link density: 0.10
+[+] Class: XTAL 0.14 0.86
+

@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/1eku_1_parsed.pdb
+[!] Structure contains gaps:
+	A MET1 < Fragment 0 > A PRO249
+	A MET261 < Fragment 1 > A PHE263
+	B MET1 < Fragment 2 > B SER248
+	B GLN260 < Fragment 3 > B GLY265
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 90
+[+] No. of charged-charged contacts: 14
+[+] No. of charged-polar contacts: 20
+[+] No. of charged-apolar contacts: 13
+[+] No. of polar-polar contacts: 14
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.07
+[+] Class: BIO 0.616 0.384
+

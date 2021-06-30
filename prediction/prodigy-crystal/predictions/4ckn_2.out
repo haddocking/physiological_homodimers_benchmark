@@ -1,0 +1,18 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/4ckn_2_parsed.pdb
+[!] Structure contains gaps:
+	C GLU36 < Fragment 0 > C SER144
+	C SER150 < Fragment 1 > C ASN221
+	D PRO37 < Fragment 2 > D PHE105
+	D VAL113 < Fragment 3 > D ASN143
+	D SER144 < Fragment 4 > D ASN221
+[+] Selection: C, D
+[+] No. of intermolecular contacts: 63
+[+] No. of charged-charged contacts: 5
+[+] No. of charged-polar contacts: 7
+[+] No. of charged-apolar contacts: 15
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 12
+[+] No. of apolar-apolar contacts: 22
+[+] Link density: 0.08
+[+] Class: BIO 0.732 0.268
+

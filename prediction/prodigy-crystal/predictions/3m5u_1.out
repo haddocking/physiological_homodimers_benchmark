@@ -1,0 +1,37 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3m5u_1_parsed.pdb
+[!] Structure contains gaps:
+	A ARG5 < Fragment 0 > A ILE38
+	A GLU40 < Fragment 1 > A ALA83
+	A ILE85 < Fragment 2 > A PRO86
+	A ASN88 < Fragment 3 > A ASP209
+	A LEU211 < Fragment 4 > A SER221
+	A LEU223 < Fragment 5 > A TYR244
+	A PHE246 < Fragment 6 > A GLU249
+	A ASP251 < Fragment 7 > A THR271
+	A LEU273 < Fragment 8 > A LEU295
+	A ASN297 < Fragment 9 > A GLY320
+	A ILE322 < Fragment 10 > A PHE352
+	A LYS354 < Fragment 11 > A ALA361
+	B ARG5 < Fragment 12 > B ILE38
+	B GLU40 < Fragment 13 > B ALA83
+	B ILE85 < Fragment 14 > B PRO86
+	B ASN88 < Fragment 15 > B ASP209
+	B LEU211 < Fragment 16 > B SER221
+	B LEU223 < Fragment 17 > B TYR244
+	B PHE246 < Fragment 18 > B GLU249
+	B ASP251 < Fragment 19 > B THR271
+	B LEU273 < Fragment 20 > B LEU295
+	B ASN297 < Fragment 21 > B GLY320
+	B ILE322 < Fragment 22 > B PHE352
+	B LYS354 < Fragment 23 > B ALA361
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 119
+[+] No. of charged-charged contacts: 4
+[+] No. of charged-polar contacts: 17
+[+] No. of charged-apolar contacts: 26
+[+] No. of polar-polar contacts: 13
+[+] No. of apolar-polar contacts: 41
+[+] No. of apolar-apolar contacts: 18
+[+] Link density: 0.05
+[+] Class: BIO 0.768 0.232
+

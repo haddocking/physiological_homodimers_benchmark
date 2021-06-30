@@ -1,0 +1,33 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3oco_1_parsed.pdb
+[!] Structure contains gaps:
+	A ALA8 < Fragment 0 > A PHE10
+	A GLN12 < Fragment 1 > A GLU16
+	A ASN18 < Fragment 2 > A VAL25
+	A VAL27 < Fragment 3 > A SER31
+	A SER33 < Fragment 4 > A ILE91
+	A ARG93 < Fragment 5 > A ASN101
+	A LYS103 < Fragment 6 > A VAL107
+	A GLU109 < Fragment 7 > A GLU110
+	A SER112 < Fragment 8 > A PRO117
+	A ALA119 < Fragment 9 > A GLY143
+	B ALA8 < Fragment 10 > B PHE10
+	B GLN12 < Fragment 11 > B GLU16
+	B ASN18 < Fragment 12 > B VAL25
+	B VAL27 < Fragment 13 > B SER31
+	B SER33 < Fragment 14 > B ILE91
+	B ARG93 < Fragment 15 > B ASN101
+	B LYS103 < Fragment 16 > B VAL107
+	B GLU109 < Fragment 17 > B GLU110
+	B SER112 < Fragment 18 > B PRO117
+	B ALA119 < Fragment 19 > B GLY143
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 42
+[+] No. of charged-charged contacts: 2
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 10
+[+] No. of polar-polar contacts: 1
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.10
+[+] Class: BIO 0.508 0.492
+

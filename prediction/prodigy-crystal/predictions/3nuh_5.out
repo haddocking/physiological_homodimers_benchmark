@@ -1,0 +1,41 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3nuh_5_parsed.pdb
+[!] Structure contains gaps:
+	A GLY18 < Fragment 0 > A GLY64
+	A LEU78 < Fragment 1 > A GLY91
+	A ARG105 < Fragment 2 > A ILE111
+	A THR113 < Fragment 3 > A GLN133
+	A PRO135 < Fragment 4 > A ALA167
+	A ASP169 < Fragment 5 > A LYS208
+	A ILE210 < Fragment 6 > A ARG212
+	A GLU214 < Fragment 7 > A ALA220
+	A LEU222 < Fragment 8 > A ALA271
+	A LEU275 < Fragment 9 > A GLU360
+	A ASN362 < Fragment 10 > A THR370
+	A ASP372 < Fragment 11 > A ARG377
+	A LEU379 < Fragment 12 > A LEU396
+	A GLY398 < Fragment 13 > A ALA400
+	B GLY18 < Fragment 14 > B GLY64
+	B LEU78 < Fragment 15 > B GLY91
+	B ARG105 < Fragment 16 > B ILE111
+	B THR113 < Fragment 17 > B GLN133
+	B PRO135 < Fragment 18 > B ALA167
+	B ASP169 < Fragment 19 > B LYS208
+	B ILE210 < Fragment 20 > B ARG212
+	B GLU214 < Fragment 21 > B ALA220
+	B LEU222 < Fragment 22 > B ALA271
+	B LEU275 < Fragment 23 > B GLU360
+	B ASN362 < Fragment 24 > B THR370
+	B ASP372 < Fragment 25 > B ARG377
+	B LEU379 < Fragment 26 > B LEU396
+	B GLY398 < Fragment 27 > B ALA400
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 64
+[+] No. of charged-charged contacts: 27
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 18
+[+] No. of polar-polar contacts: 5
+[+] No. of apolar-polar contacts: 4
+[+] No. of apolar-apolar contacts: 2
+[+] Link density: 0.07
+[+] Class: XTAL 0.056 0.944
+

@@ -1,0 +1,39 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3knz_3_parsed.pdb
+[!] Structure contains gaps:
+	E ASN14 < Fragment 0 > E GLY19
+	E ASN21 < Fragment 1 > E GLU29
+	E LEU31 < Fragment 2 > E PHE71
+	E GLN73 < Fragment 3 > E PHE86
+	E LEU88 < Fragment 4 > E ALA116
+	E GLU118 < Fragment 5 > E SER129
+	E ALA131 < Fragment 6 > E GLU152
+	E THR159 < Fragment 7 > E LEU169
+	E LEU171 < Fragment 8 > E ARG194
+	E GLU196 < Fragment 9 > E LYS244
+	E LEU246 < Fragment 10 > E ILE276
+	E LEU278 < Fragment 11 > E GLN334
+	E LEU336 < Fragment 12 > E PRO341
+	F TYR16 < Fragment 13 > F GLY19
+	F ASN21 < Fragment 14 > F GLU29
+	F LEU31 < Fragment 15 > F PHE71
+	F GLN73 < Fragment 16 > F PHE86
+	F LEU88 < Fragment 17 > F ALA116
+	F GLU118 < Fragment 18 > F SER129
+	F ALA131 < Fragment 19 > F PRO149
+	F THR159 < Fragment 20 > F LEU169
+	F LEU171 < Fragment 21 > F ARG194
+	F GLU196 < Fragment 22 > F LYS244
+	F LEU246 < Fragment 23 > F ILE276
+	F LEU278 < Fragment 24 > F GLN334
+	F LEU336 < Fragment 25 > F PRO341
+[+] Selection: E, F
+[+] No. of intermolecular contacts: 86
+[+] No. of charged-charged contacts: 8
+[+] No. of charged-polar contacts: 33
+[+] No. of charged-apolar contacts: 24
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 2
+[+] No. of apolar-apolar contacts: 17
+[+] Link density: 0.05
+[+] Class: BIO 0.572 0.428
+

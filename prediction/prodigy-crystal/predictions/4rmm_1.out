@@ -1,0 +1,27 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/4rmm_1_parsed.pdb
+[!] Structure contains gaps:
+	A GLN6 < Fragment 0 > A LEU29
+	A GLY31 < Fragment 1 > A SER33
+	A ALA35 < Fragment 2 > A GLN50
+	A PRO59 < Fragment 3 > A PHE69
+	A GLU71 < Fragment 4 > A ALA74
+	A ILE76 < Fragment 5 > A LEU78
+	A TRP80 < Fragment 6 > A GLU148
+	B GLN6 < Fragment 7 > B LEU29
+	B GLY31 < Fragment 8 > B SER33
+	B ALA35 < Fragment 9 > B GLN50
+	B PRO59 < Fragment 10 > B PHE69
+	B GLU71 < Fragment 11 > B ALA74
+	B ILE76 < Fragment 12 > B LEU78
+	B TRP80 < Fragment 13 > B GLU148
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 59
+[+] No. of charged-charged contacts: 3
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 24
+[+] No. of polar-polar contacts: 1
+[+] No. of apolar-polar contacts: 4
+[+] No. of apolar-apolar contacts: 27
+[+] Link density: 0.13
+[+] Class: BIO 0.78 0.22
+

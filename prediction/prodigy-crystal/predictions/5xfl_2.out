@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/5xfl_2_parsed.pdb
+[!] Structure contains gaps:
+	A THR14 < Fragment 0 > A ALA341
+	A PHE347 < Fragment 1 > A MET372
+	B THR14 < Fragment 2 > B MET372
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 65
+[+] No. of charged-charged contacts: 25
+[+] No. of charged-polar contacts: 14
+[+] No. of charged-apolar contacts: 13
+[+] No. of polar-polar contacts: 5
+[+] No. of apolar-polar contacts: 4
+[+] No. of apolar-apolar contacts: 4
+[+] Link density: 0.07
+[+] Class: XTAL 0.276 0.724
+

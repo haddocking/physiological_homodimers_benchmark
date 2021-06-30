@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/4dmz_1_parsed.pdb
+[!] Structure contains gaps:
+	A ASN22 < Fragment 0 > A ARG112
+	A ALA126 < Fragment 1 > A GLN174
+	A ASP184 < Fragment 2 > A VAL321
+	B ASN22 < Fragment 3 > B ARG112
+	B SER125 < Fragment 4 > B ASP176
+	B ILE185 < Fragment 5 > B VAL321
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 70
+[+] No. of charged-charged contacts: 8
+[+] No. of charged-polar contacts: 6
+[+] No. of charged-apolar contacts: 10
+[+] No. of polar-polar contacts: 17
+[+] No. of apolar-polar contacts: 22
+[+] No. of apolar-apolar contacts: 7
+[+] Link density: 0.07
+[+] Class: XTAL 0.244 0.756
+

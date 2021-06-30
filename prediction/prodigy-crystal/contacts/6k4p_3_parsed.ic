@@ -1,0 +1,10 @@
+  ILE   950   A   ARG   535   B
+  ARG   535   A   GLU   952   B
+  LYS   948   A   LYS   536   B
+  GLU   952   A   ARG   535   B
+  ARG   535   A   ARG   951   B
+  ASN   946   A   PHE   688   B
+  PHE   688   A   ASN   946   B
+  ARG   535   A   ILE   950   B
+  LYS   536   A   LYS   948   B
+  ARG   951   A   ARG   535   B

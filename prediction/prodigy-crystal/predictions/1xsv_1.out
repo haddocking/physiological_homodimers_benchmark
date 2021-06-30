@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/1xsv_1_parsed.pdb
+[!] Structure contains gaps:
+	A ASP8 < Fragment 0 > A ARG14
+	A ASN16 < Fragment 1 > A GLU91
+	A LYS93 < Fragment 2 > A GLU113
+	B ASP8 < Fragment 3 > B ARG14
+	B ASN16 < Fragment 4 > B GLU91
+	B LYS93 < Fragment 5 > B GLU113
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 44
+[+] No. of charged-charged contacts: 6
+[+] No. of charged-polar contacts: 3
+[+] No. of charged-apolar contacts: 11
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 8
+[+] No. of apolar-apolar contacts: 16
+[+] Link density: 0.11
+[+] Class: XTAL 0.356 0.644
+

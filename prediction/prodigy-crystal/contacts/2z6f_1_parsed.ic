@@ -1,0 +1,17 @@
+  ASN   106   A   GLY    34   B
+  GLY    34   A   ASN   106   B
+  TYR    60   A   ASP    57   B
+  ASP    57   A   ASN   106   B
+  ASN   106   A   ASP    57   B
+  ILE   107   A   ASP    57   B
+  LYS    56   A   ILE   107   B
+  GLY    34   A   ILE   107   B
+  ILE   107   A   GLY    34   B
+  ASP    57   A   ILE   107   B
+  PHE    35   A   ILE   107   B
+  ASN   106   A   LYS    56   B
+  LYS    56   A   ASN   106   B
+  ILE   107   A   PHE    35   B
+  ILE   107   A   LYS    56   B
+  ASP    57   A   TYR    60   B
+  TYR    60   A   TYR    60   B

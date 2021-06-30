@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3n3m_1_parsed.pdb
+[!] Structure contains gaps:
+	A GLY13 < Fragment 0 > A MET340
+	B SER19 < Fragment 1 > B THR189
+	B ASN190 < Fragment 2 > B MET340
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 154
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 12
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 10
+[+] No. of apolar-polar contacts: 53
+[+] No. of apolar-apolar contacts: 58
+[+] Link density: 0.05
+[+] Class: BIO 0.976 0.024
+

@@ -1,0 +1,27 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3nur_2_parsed.pdb
+[!] Structure contains gaps:
+	A LYS23 < Fragment 0 > A THR40
+	A ASN68 < Fragment 1 > A PHE81
+	A ASN83 < Fragment 2 > A ILE161
+	A GLY163 < Fragment 3 > A ASN248
+	A ILE250 < Fragment 4 > A ARG264
+	A ASP266 < Fragment 5 > A GLY292
+	A LEU294 < Fragment 6 > A LEU353
+	B LYS23 < Fragment 7 > B THR40
+	B ASN68 < Fragment 8 > B PHE81
+	B ASN83 < Fragment 9 > B ILE161
+	B GLY163 < Fragment 10 > B ASN248
+	B ILE250 < Fragment 11 > B ARG264
+	B ASP266 < Fragment 12 > B GLY292
+	B LEU294 < Fragment 13 > B LEU353
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 169
+[+] No. of charged-charged contacts: 12
+[+] No. of charged-polar contacts: 18
+[+] No. of charged-apolar contacts: 42
+[+] No. of polar-polar contacts: 6
+[+] No. of apolar-polar contacts: 28
+[+] No. of apolar-apolar contacts: 63
+[+] Link density: 0.05
+[+] Class: BIO 0.988 0.012
+

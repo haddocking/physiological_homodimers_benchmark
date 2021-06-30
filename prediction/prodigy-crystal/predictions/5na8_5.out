@@ -1,0 +1,36 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/5na8_5_parsed.pdb
+[!] Structure contains gaps:
+	A PHE24 < Fragment 0 > A ARG82
+	A LEU84 < Fragment 1 > A ASN102
+	A GLU104 < Fragment 2 > A GLY121
+	A GLU123 < Fragment 3 > A VAL164
+	A PHE166 < Fragment 4 > A ALA206
+	A LYS208 < Fragment 5 > A LYS226
+	A GLY229 < Fragment 6 > A LEU512
+	A ASN514 < Fragment 7 > A LEU516
+	A THR518 < Fragment 8 > A HIS533
+	A ARG535 < Fragment 9 > A GLU555
+	A VAL557 < Fragment 10 > A GLN659
+	A LEU661 < Fragment 11 > A ASN674
+	B ASP25 < Fragment 12 > B ARG82
+	B LEU84 < Fragment 13 > B ASN102
+	B GLU104 < Fragment 14 > B GLY121
+	B GLU123 < Fragment 15 > B VAL164
+	B PHE166 < Fragment 16 > B ALA206
+	B LYS208 < Fragment 17 > B LEU512
+	B ASN514 < Fragment 18 > B LEU516
+	B THR518 < Fragment 19 > B HIS533
+	B ARG535 < Fragment 20 > B GLU555
+	B VAL557 < Fragment 21 > B GLN659
+	B LEU661 < Fragment 22 > B ASN675
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 55
+[+] No. of charged-charged contacts: 20
+[+] No. of charged-polar contacts: 14
+[+] No. of charged-apolar contacts: 14
+[+] No. of polar-polar contacts: 6
+[+] No. of apolar-polar contacts: 1
+[+] No. of apolar-apolar contacts: 0
+[+] Link density: 0.08
+[+] Class: XTAL 0.388 0.612
+

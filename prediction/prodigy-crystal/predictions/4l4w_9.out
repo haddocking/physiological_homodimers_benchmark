@@ -1,0 +1,27 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/4l4w_9_parsed.pdb
+[!] Structure contains gaps:
+	A GLY1 < Fragment 0 > A HIS2
+	A GLY4 < Fragment 1 > A ARG56
+	A GLY58 < Fragment 2 > A VAL89
+	A LEU95 < Fragment 3 > A GLY98
+	A VAL100 < Fragment 4 > A ALA121
+	A ASP123 < Fragment 5 > A ALA251
+	A ALA253 < Fragment 6 > A PHE267
+	B GLY1 < Fragment 7 > B HIS2
+	B GLY4 < Fragment 8 > B ARG56
+	B GLY58 < Fragment 9 > B VAL89
+	B LEU95 < Fragment 10 > B GLY98
+	B VAL100 < Fragment 11 > B ALA121
+	B ASP123 < Fragment 12 > B ALA251
+	B ALA253 < Fragment 13 > B PHE267
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 56
+[+] No. of charged-charged contacts: 10
+[+] No. of charged-polar contacts: 6
+[+] No. of charged-apolar contacts: 24
+[+] No. of polar-polar contacts: 1
+[+] No. of apolar-polar contacts: 6
+[+] No. of apolar-apolar contacts: 9
+[+] Link density: 0.05
+[+] Class: XTAL 0.18 0.82
+

@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/4kmd_4_parsed.pdb
+[!] Structure contains gaps:
+	A SER48 < Fragment 0 > A LEU298
+	A GLU319 < Fragment 1 > A LEU410
+	A LYS417 < Fragment 2 > A ASP440
+	B SER48 < Fragment 3 > B LEU298
+	B GLU319 < Fragment 4 > B LEU410
+	B LYS417 < Fragment 5 > B ASP440
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 73
+[+] No. of charged-charged contacts: 16
+[+] No. of charged-polar contacts: 10
+[+] No. of charged-apolar contacts: 24
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 8
+[+] No. of apolar-apolar contacts: 15
+[+] Link density: 0.06
+[+] Class: BIO 0.644 0.356
+

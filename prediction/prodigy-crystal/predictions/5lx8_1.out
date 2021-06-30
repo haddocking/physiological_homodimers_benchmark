@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/5lx8_1_parsed.pdb
+[!] Structure contains gaps:
+	A VAL32 < Fragment 0 > A ILE293
+	A ASN301 < Fragment 1 > A TRP570
+	B VAL32 < Fragment 2 > B ILE293
+	B ASN301 < Fragment 3 > B TRP570
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 122
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 16
+[+] No. of charged-apolar contacts: 38
+[+] No. of polar-polar contacts: 9
+[+] No. of apolar-polar contacts: 36
+[+] No. of apolar-apolar contacts: 16
+[+] Link density: 0.05
+[+] Class: BIO 0.828 0.172
+

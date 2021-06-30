@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3a44_1_parsed.pdb
+[!] Structure contains gaps:
+	A HIS2 < Fragment 0 > A GLY138
+	B HIS2 < Fragment 1 > B HIS98
+	B VAL103 < Fragment 2 > B GLU136
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 227
+[+] No. of charged-charged contacts: 26
+[+] No. of charged-polar contacts: 9
+[+] No. of charged-apolar contacts: 72
+[+] No. of polar-polar contacts: 2
+[+] No. of apolar-polar contacts: 13
+[+] No. of apolar-apolar contacts: 105
+[+] Link density: 0.04
+[+] Class: BIO 0.928 0.072
+

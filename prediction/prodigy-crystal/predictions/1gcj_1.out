@@ -1,0 +1,41 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/1gcj_1_parsed.pdb
+[!] Structure contains gaps:
+	A PRO1 < Fragment 0 > A GLY6
+	A GLU8 < Fragment 1 > A HIS151
+	A LYS153 < Fragment 2 > A GLY186
+	A ARG188 < Fragment 3 > A ILE224
+	A GLN226 < Fragment 4 > A ILE250
+	A SER252 < Fragment 5 > A TYR257
+	A GLU259 < Fragment 6 > A TYR261
+	A GLY263 < Fragment 7 > A ALA273
+	A LYS275 < Fragment 8 > A GLU296
+	A ASP298 < Fragment 9 > A LEU358
+	A LEU360 < Fragment 10 > A VAL393
+	A ALA395 < Fragment 11 > A ALA415
+	A PRO417 < Fragment 12 > A LEU422
+	A LYS424 < Fragment 13 > A SER460
+	B PRO1 < Fragment 14 > B GLY6
+	B GLU8 < Fragment 15 > B HIS151
+	B LYS153 < Fragment 16 > B GLY186
+	B ARG188 < Fragment 17 > B ILE224
+	B GLN226 < Fragment 18 > B ILE250
+	B SER252 < Fragment 19 > B TYR257
+	B GLU259 < Fragment 20 > B TYR261
+	B GLY263 < Fragment 21 > B ALA273
+	B LYS275 < Fragment 22 > B GLU296
+	B ASP298 < Fragment 23 > B LEU358
+	B LEU360 < Fragment 24 > B VAL393
+	B ALA395 < Fragment 25 > B ALA415
+	B PRO417 < Fragment 26 > B LEU422
+	B LYS424 < Fragment 27 > B SER460
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 80
+[+] No. of charged-charged contacts: 9
+[+] No. of charged-polar contacts: 5
+[+] No. of charged-apolar contacts: 20
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 9
+[+] No. of apolar-apolar contacts: 33
+[+] Link density: 0.08
+[+] Class: BIO 0.848 0.152
+

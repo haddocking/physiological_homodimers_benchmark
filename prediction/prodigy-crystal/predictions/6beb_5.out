@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/6beb_5_parsed.pdb
+[!] Structure contains gaps:
+	A SER40 < Fragment 0 > A ASN70
+	A ASP74 < Fragment 1 > A MET572
+	B SER40 < Fragment 2 > B ASN70
+	B ASP74 < Fragment 3 > B MET572
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 111
+[+] No. of charged-charged contacts: 11
+[+] No. of charged-polar contacts: 10
+[+] No. of charged-apolar contacts: 20
+[+] No. of polar-polar contacts: 12
+[+] No. of apolar-polar contacts: 28
+[+] No. of apolar-apolar contacts: 30
+[+] Link density: 0.09
+[+] Class: BIO 0.952 0.048
+

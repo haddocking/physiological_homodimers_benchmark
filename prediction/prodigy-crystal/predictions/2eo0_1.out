@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/2eo0_1_parsed.pdb
+[!] Structure contains gaps:
+	A SER12 < Fragment 0 > A ALA32
+	A LYS38 < Fragment 1 > A GLY65
+	A LYS67 < Fragment 2 > A LEU147
+	B SER12 < Fragment 3 > B ALA32
+	B ARG39 < Fragment 4 > B ARG62
+	B LYS63 < Fragment 5 > B SER145
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 48
+[+] No. of charged-charged contacts: 5
+[+] No. of charged-polar contacts: 6
+[+] No. of charged-apolar contacts: 10
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 10
+[+] No. of apolar-apolar contacts: 14
+[+] Link density: 0.13
+[+] Class: XTAL 0.412 0.588
+

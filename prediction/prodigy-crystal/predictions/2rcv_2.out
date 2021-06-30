@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/2rcv_2_parsed.pdb
+[!] Structure contains gaps:
+	G ALA2 < Fragment 0 > G ARG201
+	H ALA2 < Fragment 1 > H VAL43
+	H THR47 < Fragment 2 > H ARG201
+[+] Selection: G, H
+[+] No. of intermolecular contacts: 47
+[+] No. of charged-charged contacts: 5
+[+] No. of charged-polar contacts: 5
+[+] No. of charged-apolar contacts: 6
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 17
+[+] No. of apolar-apolar contacts: 11
+[+] Link density: 0.14
+[+] Class: BIO 0.92 0.08
+

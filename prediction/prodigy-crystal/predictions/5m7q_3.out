@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/5m7q_3_parsed.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 40
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 7
+[+] No. of charged-apolar contacts: 2
+[+] No. of polar-polar contacts: 6
+[+] No. of apolar-polar contacts: 14
+[+] No. of apolar-apolar contacts: 11
+[+] Link density: 0.13
+[+] Class: XTAL 0.284 0.716
+

@@ -1,0 +1,13 @@
+  PHE   364   A   PHE   364   B
+  PHE   371   A   LYS   528   B
+  LYS   528   A   PHE   371   B
+  VAL   529   A   PHE   371   B
+  PHE   364   A   PHE   371   B
+  PHE   371   A   PHE   364   B
+  PHE   364   A   GLU   367   B
+  PHE   371   A   VAL   529   B
+  SER   368   A   PHE   364   B
+  PHE   371   A   PHE   525   B
+  PHE   364   A   SER   368   B
+  PHE   525   A   PHE   371   B
+  GLU   367   A   PHE   364   B

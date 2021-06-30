@@ -1,0 +1,16 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3hha_4_parsed.pdb
+[!] Structure contains gaps:
+	B ALA1 < Fragment 0 > B THR175
+	B ASN180 < Fragment 1 > B VAL220
+	D ALA1 < Fragment 2 > D VAL220
+[+] Selection: B, D
+[+] No. of intermolecular contacts: 26
+[+] No. of charged-charged contacts: 3
+[+] No. of charged-polar contacts: 5
+[+] No. of charged-apolar contacts: 11
+[+] No. of polar-polar contacts: 0
+[+] No. of apolar-polar contacts: 0
+[+] No. of apolar-apolar contacts: 7
+[+] Link density: 0.17
+[+] Class: XTAL 0.164 0.836
+

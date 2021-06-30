@@ -1,0 +1,25 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/4nvr_1_parsed.pdb
+[!] Structure contains gaps:
+	A THR6 < Fragment 0 > A THR96
+	A ALA98 < Fragment 1 > A VAL102
+	A ASP106 < Fragment 2 > A THR149
+	A TYR151 < Fragment 3 > A THR177
+	A ILE179 < Fragment 4 > A GLU217
+	A ILE219 < Fragment 5 > A LEU307
+	C LEU7 < Fragment 6 > C THR96
+	C ALA98 < Fragment 7 > C VAL102
+	C ASP106 < Fragment 8 > C THR149
+	C TYR151 < Fragment 9 > C THR177
+	C ILE179 < Fragment 10 > C GLU217
+	C ILE219 < Fragment 11 > C LEU307
+[+] Selection: A, C
+[+] No. of intermolecular contacts: 46
+[+] No. of charged-charged contacts: 3
+[+] No. of charged-polar contacts: 5
+[+] No. of charged-apolar contacts: 11
+[+] No. of polar-polar contacts: 3
+[+] No. of apolar-polar contacts: 12
+[+] No. of apolar-apolar contacts: 12
+[+] Link density: 0.13
+[+] Class: XTAL 0.488 0.512
+

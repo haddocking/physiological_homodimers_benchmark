@@ -1,0 +1,19 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/6pkc_4_parsed.pdb
+[!] Structure contains gaps:
+	A GLY3 < Fragment 0 > A ARG53
+	A SER67 < Fragment 1 > A GLU388
+	A GLY402 < Fragment 2 > A SER490
+	B GLY3 < Fragment 3 > B ARG53
+	B SER67 < Fragment 4 > B GLU388
+	B GLY402 < Fragment 5 > B GLN489
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 68
+[+] No. of charged-charged contacts: 3
+[+] No. of charged-polar contacts: 5
+[+] No. of charged-apolar contacts: 13
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 11
+[+] No. of apolar-apolar contacts: 32
+[+] Link density: 0.08
+[+] Class: BIO 0.78 0.22
+

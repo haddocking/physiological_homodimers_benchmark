@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/2fj2_2_parsed.pdb
+[+] Selection: C, D
+[+] No. of intermolecular contacts: 59
+[+] No. of charged-charged contacts: 4
+[+] No. of charged-polar contacts: 7
+[+] No. of charged-apolar contacts: 20
+[+] No. of polar-polar contacts: 4
+[+] No. of apolar-polar contacts: 8
+[+] No. of apolar-apolar contacts: 16
+[+] Link density: 0.12
+[+] Class: BIO 0.604 0.396
+

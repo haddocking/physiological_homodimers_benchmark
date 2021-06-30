@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/4pfe_1_parsed.pdb
+[!] Structure contains gaps:
+	A SER1 < Fragment 0 > A LEU63
+	A VAL65 < Fragment 1 > A HIS343
+	B LYS2 < Fragment 2 > B LEU63
+	B VAL65 < Fragment 3 > B HIS342
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 105
+[+] No. of charged-charged contacts: 13
+[+] No. of charged-polar contacts: 21
+[+] No. of charged-apolar contacts: 16
+[+] No. of polar-polar contacts: 17
+[+] No. of apolar-polar contacts: 17
+[+] No. of apolar-apolar contacts: 21
+[+] Link density: 0.07
+[+] Class: BIO 0.748 0.252
+

@@ -1,0 +1,12 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/1lee_3_parsed.pdb
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 115
+[+] No. of charged-charged contacts: 7
+[+] No. of charged-polar contacts: 8
+[+] No. of charged-apolar contacts: 18
+[+] No. of polar-polar contacts: 6
+[+] No. of apolar-polar contacts: 34
+[+] No. of apolar-apolar contacts: 42
+[+] Link density: 0.05
+[+] Class: BIO 0.984 0.016
+

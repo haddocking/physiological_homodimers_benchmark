@@ -1,0 +1,23 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/3tpe_4_parsed.pdb
+[!] Structure contains gaps:
+	A PRO2 < Fragment 0 > A GLU108
+	A ILE114 < Fragment 1 > A ALA134
+	A ARG142 < Fragment 2 > A ILE149
+	A VAL151 < Fragment 3 > A GLY341
+	A ILE345 < Fragment 4 > A TYR437
+	B PRO2 < Fragment 5 > B GLU108
+	B ILE114 < Fragment 6 > B ALA134
+	B ARG142 < Fragment 7 > B ILE149
+	B VAL151 < Fragment 8 > B GLY341
+	B ILE345 < Fragment 9 > B TYR437
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 85
+[+] No. of charged-charged contacts: 17
+[+] No. of charged-polar contacts: 12
+[+] No. of charged-apolar contacts: 22
+[+] No. of polar-polar contacts: 5
+[+] No. of apolar-polar contacts: 12
+[+] No. of apolar-apolar contacts: 17
+[+] Link density: 0.06
+[+] Class: BIO 0.68 0.32
+

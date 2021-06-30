@@ -1,0 +1,17 @@
+[+] Reading structure file: /Users/bjimenez/workspaces/haddocking/prodigy-cryst/v3/6jol_2_parsed.pdb
+[!] Structure contains gaps:
+	A ASP38 < Fragment 0 > A PHE148
+	A LEU173 < Fragment 1 > A GLN340
+	B ASP38 < Fragment 2 > B PHE148
+	B LEU173 < Fragment 3 > B GLN340
+[+] Selection: A, B
+[+] No. of intermolecular contacts: 56
+[+] No. of charged-charged contacts: 4
+[+] No. of charged-polar contacts: 6
+[+] No. of charged-apolar contacts: 4
+[+] No. of polar-polar contacts: 7
+[+] No. of apolar-polar contacts: 16
+[+] No. of apolar-apolar contacts: 19
+[+] Link density: 0.09
+[+] Class: XTAL 0.376 0.624
+
