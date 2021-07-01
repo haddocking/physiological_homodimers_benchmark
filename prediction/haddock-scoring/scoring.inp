@@ -323,281 +323,281 @@ for $file in ( @@$filelist ) loop readpdb
   fileexist $filename end
   evaluate ($convfileexist=$result)
   if ($convfileexist eq false) then
-    dele sele=(all) end
-    struc reset end
-    noe reset end
+  dele sele=(all) end
+  struc reset end
+  noe reset end
 
-    segment
-      chain
-        if ( &convert = true ) then
-          convert=true
-        end if
-        if ( &separate = true ) then
-          separate=true
-        end if
-        @@&nucl_link_infile
-        @@&cofac_link_infile
-        @@&prot_link_infile
-        coordinates @@$file
-      end
+  segment
+    chain
+      if ( &convert = true ) then
+        convert=true
+      end if
+      if ( &separate = true ) then
+        separate=true
+      end if
+      @@&nucl_link_infile
+      @@&cofac_link_infile
+      @@&prot_link_infile
+      coordinates @@$file
     end
+  end
  
-    coordinates @@$file 
+  coordinates @@$file end
 
-    ! next line to remove the MAP atom defined in the DUM residue
-    ! in case of use of dummy particles
-    delete sele=(name MAP) end
+  ! next line to remove the MAP atom defined in the DUM residue
+  ! in case of use of dummy particles
+  delete sele=(name MAP) end
 
-    if ( &BLANK%ile_CD_becomes = false ) then
-      do (name=&ile_CD_becomes) (resn ILE and name CD)
-    end if
-    if ( &BLANK%OT1_becomes = false ) then
-      do (name=&OT1_becomes) (name OT1)
-    end if
-    if ( &BLANK%OT2_becomes = false ) then
-      do (name=&OT2_becomes) (name OT2)
-    end if
+  if ( &BLANK%ile_CD_becomes = false ) then
+    do (name=&ile_CD_becomes) (resn ILE and name CD)
+  end if
+  if ( &BLANK%OT1_becomes = false ) then
+    do (name=&OT1_becomes) (name OT1)
+  end if
+  if ( &BLANK%OT2_becomes = false ) then
+    do (name=&OT2_becomes) (name OT2)
+  end if
 
-    if ($Toppar.delenph = true) then
-      delete sele=(name H* and attr charge = 0) end
-    end if
+  if ($Toppar.delenph = true) then
+    delete sele=(name H* and attr charge = 0) end
+  end if
 
-    set seed=$Saprotocol.iniseed end
+  set seed=$Saprotocol.iniseed end
 
-    show sum(1) ( not(hydrogen) and not(known) )
-    if ( $select = 0 ) then
-      display  %INFO: There are no coordinates missing for non-hydrogen atoms
-    end if
+  show sum(1) ( not(hydrogen) and not(known) )
+  if ( $select = 0 ) then
+    display  %INFO: There are no coordinates missing for non-hydrogen atoms
+  end if
 
-    if ( $log_level = verbose ) then
-      set message=normal echo=on end
-    else
-      set message=off echo=off end
-    end if
+  if ( $log_level = verbose ) then
+    set message=normal echo=on end
+  else
+    set message=off echo=off end
+  end if
 
-    inline @HADDOCK:protocols-scoring/build-missing.cns
+  inline @HADDOCK:protocols-scoring/build-missing.cns
 
-    if ( &auto_break = true ) then
-      inline @HADDOCK:protocols/prot_break.cns
-      inline @HADDOCK:protocols/dna_break.cns
-    end if
+  if ( &auto_break = true ) then
+    inline @HADDOCK:protocols/prot_break.cns
+    inline @HADDOCK:protocols/dna_break.cns
+  end if
 
-    ! check for disulphide bonds
+  ! check for disulphide bonds
 
-    evaluate ($disu=0)
+  evaluate ($disu=0)
 
-    for $id1 in id ( resn CYS and name SG ) loop dis1
+  for $id1 in id ( resn CYS and name SG ) loop dis1
  
-      show (segid) (id $id1)
-      evaluate ($segid1=$result)
-      show (resid) (id $id1)
-      evaluate ($resid1=$result)
+    show (segid) (id $id1)
+    evaluate ($segid1=$result)
+    show (resid) (id $id1)
+    evaluate ($resid1=$result)
 
-      identity (store9) (all)
+    identity (store9) (all)
 
-      for $id2 in id ( resn CYS and name SG and 
-                     ( attr store9 > $id1 ) ) loop dis2
+    for $id2 in id ( resn CYS and name SG and 
+                   ( attr store9 > $id1 ) ) loop dis2
 
-        show (segid) (id $id2)
-        evaluate ($segid2=$result)
-        show (resid) (id $id2)
-        evaluate ($resid2=$result)
+      show (segid) (id $id2)
+      evaluate ($segid2=$result)
+      show (resid) (id $id2)
+      evaluate ($resid2=$result)
 
-        pick bond (id $id1) (id $id2) geometry
+      pick bond (id $id1) (id $id2) geometry
 
-        if ( $result <= &disulphide_dist ) then
-          evaluate ($disu=$disu+1)
-          evaluate ($seg1.$disu=$segid1)
-          evaluate ($seg2.$disu=$segid2)
-          evaluate ($res1.$disu=$resid1)
-          evaluate ($res2.$disu=$resid2)
-        end if
-
-      end loop dis2
-
-    end loop dis1
-
-    evaluate ($counter=1)
-    while ( $counter <= $disu ) loop disu
-      patch disu
-        reference=1=(segid $seg1.$counter and resid $res1.$counter)
-        reference=2=(segid $seg2.$counter and resid $res2.$counter)
-      end
-      buffer message
-        display disulphide added: from \
-$seg1.$counter[a4] $res1.$counter[a4] to $seg2.$counter[a4] $res2.$counter[a4]
-      end
-      evaluate ($counter=$counter+1)
-    end loop disu
-
-
-    ! check for covalently-linked hemeC
-
-    inline @HADDOCK:protocols/covalheme.cns
-
-
-    ! check for cis-Proline
-
-    for $id in id ( &atom_select and name ca and resn PRO) loop cisp
-
-      show (segid) (id $id)
-      evaluate ($segid=$result)
-      show (resid) (id $id)
-      evaluate ($resid=$result)
-      show (resn) (id $id)
-      evaluate ($resn=$result)
-
-      identity (store9) ( &atom_select and ( name c and bondedto 
-               ( name n and resid $resid and segid $segid ) ) )
-      if ( $select = 1 ) then
-        show element (store9) (attribute store9 > 0)
-        evaluate ($id_prev=$result)
-        show (segid) (id $id_prev)
-        evaluate ($segid_prev=$result)
-        show (resid) (id $id_prev)
-        evaluate ($resid_prev=$result)
-        show (resn) (id $id_prev)
-        evaluate ($resn_prev=$result)
- 
-        pick dihedral
-          (name ca and segid $segid_prev and resid $resid_prev)
-          (name  c and segid $segid_prev and resid $resid_prev)
-          (name  n and segid $segid and resid $resid)
-          (name ca and segid $segid and resid $resid)
-          geometry
-         
-        evaluate ($dihedral=mod($result+360,360))
-
-        if ( $dihedral > 180 ) then
-          evaluate ($dihedral=$dihedral-360)
-        end if
-
-        evaluate ($absdihedral=abs($dihedral))
-
-        if ( $absdihedral < 25 ) then
-          patch cisp reference=NIL=(segid $segid_prev and resid $resid_prev) end
-          buffer message
-            display CIS peptide bon detected for residue $resid_prev
-          end
-        end if
-
+      if ( $result <= &disulphide_dist ) then
+        evaluate ($disu=$disu+1)
+        evaluate ($seg1.$disu=$segid1)
+        evaluate ($seg2.$disu=$segid2)
+        evaluate ($res1.$disu=$resid1)
+       evaluate ($res2.$disu=$resid2)
       end if
 
-    end loop cisp
+    end loop dis2
 
-    if (&hydrogen_flag=false) then
-      delete selection=( hydrogen ) end
-    end if
+  end loop dis1
 
-    delete selection=( &atom_delete ) end
-
-    inline @HADDOCK:protocols-scoring/build-missing.cns
-
-    if (&set_bfactor=true) then
-      do (b=&bfactor) ( all )
-    else
-      show ave(b) (known and not(store1))
-      do (b=$result) (store1 and (attr b < 0.01))
-    end if
- 
-  {* ===================== turn on electrostatics *}
-
-    parameter
-      nbonds
-        nbxmod=5 atom cdie shift
-        cutnb=9.5 ctofnb=8.5 ctonnb=6.5 eps=$Data.epsilon1 e14fac=0.4 inhibit 0.5
-        wmin=0.5
-        tolerance  0.5
-        repel=0.0
-      end
+  evaluate ($counter=1)
+  while ( $counter <= $disu ) loop disu
+    patch disu
+      reference=1=(segid $seg1.$counter and resid $res1.$counter)
+      reference=2=(segid $seg2.$counter and resid $res2.$counter)
     end
-
-    if ($Data.dielec eq rdie) then
-      parameter nbonds eps=$Data.epsilon1 rdie shift switch end end
-    end if
-
-    flags excl * incl bond angl impr dihe vdw elec end
-
-    !check for histidine protonation state if auto mode on
-    if ($Toppar.autohis = true) then
-      inline @HADDOCK:protocols/auto-his.cns
-    end if
-
-  {* ===================== calculate free molecules internal energy *}
-
-    do (refx=x) (all)
-    do (refy=y) (all)
-    do (refz=z) (all)
-    evaluate ($elec = 0.0)
-    evaluate ($eintfree = 0.0)
-    inline @HADDOCK:protocols-scoring/calc_free-ene.cns
-    do (x=refx) (all)
-    do (y=refy) (all)
-    do (z=refz) (all)
-
-  {* ===================== minimize complex *}
-
-    fix selection=(not all) end
-
-    minimize powell
-       nstep=50
-       drop=40.0
-       nprint=10
-    end
-    fix selection=(not all) end
-
-    parameter nbonds eps=1.0 end end
-
-
-  {* ===================== calculate complex internal energy *}
-    evaluate ($kinter = 1.0)
-    @HADDOCK:protocols-scoring/scale_intra_only.cns
-    energy end
-    evaluate ($eintcplx = $bond + $angl + $impr + $dihe + $vdw + $elec)
-    if ($data.ncomponents = 1) then
-      evaluate ($eintfree = $eintcplx)
-    end if
-
-  {* ===================== calculate final energies and write structure *}
-    if ($data.ncomponents > 1) then
-      evaluate ($kinter = 1.0)
-      @HADDOCK:protocols-scoring/scale_inter_final.cns
-    else
-      @HADDOCK:protocols-scoring/scale_intra_only.cns
-    end if
-
-    energy end
-
-    evaluate ($esym = 0.0)
-    evaluate ($enoe = 0.0)
-    evaluate ($cdih=0.0)
-    evaluate ($eair= 0.0)
-    evaluate ($rms_noe=0.0)
-    evaluate ($violations_noe=0)
-    evaluate ($rms_test_noe=0.0)
-    evaluate ($violations_test_noe=0)
-    evaluate ($esym = 0.0)
-    evaluate ($ncs = 0.0)
-    evaluate ($zhar = 0.0)
-    evaluate ($esolcplx = 0.0)
-    evaluate ($edesolv = 0.0)
-    evaluate ($lcc = 0.0)
-    evaluate ($etot = $ener - $noe)
-    evaluate ($noe = $eair)
-    evaluate ($etot = $etot + $noe)
-
-    set remarks=reset end
     buffer message
-      to=remarks
-      dump
-      reset
+      display disulphide added: from \
+$seg1.$counter[a4] $res1.$counter[a4] to $seg2.$counter[a4] $res2.$counter[a4]
     end
+    evaluate ($counter=$counter+1)
+  end loop disu
 
-    do (q=1.0) (all)
-    @HADDOCK:protocols-scoring/print_coorheader.cns
-    coor orient end
-    write coordinates format=pdbo sele= (all) output =$filename end
-    write structure output =$psfname end
+
+  ! check for covalently-linked hemeC
+
+  inline @HADDOCK:protocols/covalheme.cns
+
+
+  ! check for cis-Proline
+
+  for $id in id ( &atom_select and name ca and resn PRO) loop cisp
+
+    show (segid) (id $id)
+    evaluate ($segid=$result)
+    show (resid) (id $id)
+    evaluate ($resid=$result)
+    show (resn) (id $id)
+    evaluate ($resn=$result)
+
+    identity (store9) ( &atom_select and ( name c and bondedto 
+             ( name n and resid $resid and segid $segid ) ) )
+    if ( $select = 1 ) then
+      show element (store9) (attribute store9 > 0)
+      evaluate ($id_prev=$result)
+      show (segid) (id $id_prev)
+      evaluate ($segid_prev=$result)
+      show (resid) (id $id_prev)
+      evaluate ($resid_prev=$result)
+      show (resn) (id $id_prev)
+      evaluate ($resn_prev=$result)
+ 
+      pick dihedral
+        (name ca and segid $segid_prev and resid $resid_prev)
+        (name  c and segid $segid_prev and resid $resid_prev)
+        (name  n and segid $segid and resid $resid)
+        (name ca and segid $segid and resid $resid)
+        geometry
+       
+      evaluate ($dihedral=mod($result+360,360))
+
+      if ( $dihedral > 180 ) then
+        evaluate ($dihedral=$dihedral-360)
+      end if
+
+      evaluate ($absdihedral=abs($dihedral))
+
+      if ( $absdihedral < 25 ) then
+        patch cisp reference=NIL=(segid $segid_prev and resid $resid_prev) end
+        buffer message
+          display CIS peptide bon detected for residue $resid_prev
+        end
+      end if
+
+    end if
+
+  end loop cisp
+
+  if (&hydrogen_flag=false) then
+    delete selection=( hydrogen ) end
+  end if
+
+  delete selection=( &atom_delete ) end
+
+  inline @HADDOCK:protocols-scoring/build-missing.cns
+
+  if (&set_bfactor=true) then
+    do (b=&bfactor) ( all )
+  else
+    show ave(b) (known and not(store1))
+    do (b=$result) (store1 and (attr b < 0.01))
+  end if
+ 
+{* ===================== turn on electrostatics *}
+
+  parameter
+    nbonds
+      nbxmod=5 atom cdie shift
+      cutnb=9.5 ctofnb=8.5 ctonnb=6.5 eps=$Data.epsilon1 e14fac=0.4 inhibit 0.5
+      wmin=0.5
+      tolerance  0.5
+      repel=0.0
+    end
+  end
+
+  if ($Data.dielec eq rdie) then
+    parameter nbonds eps=$Data.epsilon1 rdie shift switch end end
+  end if
+
+  flags excl * incl bond angl impr dihe vdw elec end
+
+  !check for histidine protonation state if auto mode on
+  if ($Toppar.autohis = true) then
+     inline @HADDOCK:protocols/auto-his.cns
+  end if
+
+{* ===================== calculate free molecules internal energy *}
+
+  do (refx=x) (all)
+  do (refy=y) (all)
+  do (refz=z) (all)
+  evaluate ($elec = 0.0)
+  evaluate ($eintfree = 0.0)
+  inline @HADDOCK:protocols-scoring/calc_free-ene.cns
+  do (x=refx) (all)
+  do (y=refy) (all)
+  do (z=refz) (all)
+
+{* ===================== minimize complex *}
+
+  fix selection=(not all) end
+
+  minimize powell
+     nstep=50
+     drop=40.0
+     nprint=10
+  end
+  fix selection=(not all) end
+
+  parameter nbonds eps=1.0 end end
+
+
+{* ===================== calculate complex internal energy *}
+  evaluate ($kinter = 1.0)
+  @HADDOCK:protocols-scoring/scale_intra_only.cns
+  energy end
+  evaluate ($eintcplx = $bond + $angl + $impr + $dihe + $vdw + $elec)
+  if ($data.ncomponents = 1) then
+    evaluate ($eintfree = $eintcplx)
+  end if
+
+{* ===================== calculate final energies and write structure *}
+  if ($data.ncomponents > 1) then
+    evaluate ($kinter = 1.0)
+    @HADDOCK:protocols-scoring/scale_inter_final.cns
+  else
+    @HADDOCK:protocols-scoring/scale_intra_only.cns
+  end if
+
+  energy end
+
+  evaluate ($esym = 0.0)
+  evaluate ($enoe = 0.0)
+  evaluate ($cdih=0.0)
+  evaluate ($eair= 0.0)
+  evaluate ($rms_noe=0.0)
+  evaluate ($violations_noe=0)
+  evaluate ($rms_test_noe=0.0)
+  evaluate ($violations_test_noe=0)
+  evaluate ($esym = 0.0)
+  evaluate ($ncs = 0.0)
+  evaluate ($zhar = 0.0)
+  evaluate ($esolcplx = 0.0)
+  evaluate ($edesolv = 0.0)
+  evaluate ($lcc = 0.0)
+  evaluate ($etot = $ener - $noe)
+  evaluate ($noe = $eair)
+  evaluate ($etot = $etot + $noe)
+
+  set remarks=reset end
+  buffer message
+    to=remarks
+    dump
+    reset
+  end
+
+  do (q=1.0) (all)
+  @HADDOCK:protocols-scoring/print_coorheader.cns
+  coor orient end
+  write coordinates format=pdbo sele= (all) output =$filename end
+  write structure output =$psfname end
 
   end if
 
