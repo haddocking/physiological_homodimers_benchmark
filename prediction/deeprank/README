@@ -1,0 +1,54 @@
+Deeprank was run on Haddock refined models
+The protocol used is discribed in : https://www.biorxiv.org/content/10.1101/2021.01.29.425727v1.full
+
+Most of the pssm matrices were downloaded from the 3Dcons database, the other ones were generated with PSSMgen from Deeprank (https://github.com/DeepRank/PSSMGen)
+
+Different problems were met and required manual edition of the PDB files:
+- mulitple atom occupancy are not handled by deeprank, should select one
+- the chain 1 must come first in the pdb file. if chain1 = 'A' then A should be the first chain
+- inconsistency between the residue numbering in the pssm matrix and the pdb file (use pdb_reres.py from PDBTools to correct that)
+- remove HETATM (grep ATOM ${name}.pdb > tmp)
+- remove CRO and ACE residue (grep ATOM ${name}.pdb | grep -v ACE | grep -v CRO > tmp)
+- replace MSE -> MET (sed -i 's/MSE/MET/g' tmp)
+- make sure the line's lenght do not exceed 80 characters (pdb2sql issue, may have been solved) (fold -b80 tmp > ${name}.pdb)
+
+There pre-trained model was used for the prediction part.
+
+Prediction fails for 7 dimers:
+- 3kza_1 - grids were generated - deeprank prediction failed
+- 3l0z_5 - grids were generated - deeprank prediction failed
+- 5xo7_1 - no pssm could be computed
+- 6vdd_2 - no pssm could be computed
+- 6vjb_4 - no pssm could be computed
+- 6w25_2 - no pssm could be computed
+- 6wrh_3 - no pssm could be computed
+
+#### Performance on this data set:
+
+Size of complex list: 1677
+Size of complex list processed : 1670
+Size of Physiological list: 836
+Size of Non Physiological list: 841
+Predicted as BIO and Physiological: 668
+Predicted as BIO and Non-Physiological: 209
+Predicted as CRYSTAL and Physiological: 165
+Predicted as CRYSTAL and Non-Physiological: 628
+
+
+Success rate (considering unprocessed data): 77.281%
+Success rate (omitting unprocessed data): 77.605%
+
+#### Performance on this data set excluding overlapping with the MANY dataset:
+
+Size of complex list: 1541
+Size of complex list processed : 1541
+Size of Physiological list: 836
+Size of Non Physiological list: 841
+Predicted as BIO and Physiological: 581
+Predicted as BIO and Non-Physiological: 205
+Predicted as CRYSTAL and Physiological: 151
+Predicted as CRYSTAL and Non-Physiological: 604
+
+
+Success rate (considering unprocessed data): 76.898%
+Success rate (omitting unprocessed data): 76.898%
